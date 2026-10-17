@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/poster.png" alt="The Jesús Fujioka Story — póster promocional" width="500"/>
+
 # 💘 The Jesús Fujioka Story
 
 ### *a fanfic insert... pero todos sabemos quién es el protagonista.* 🇲🇽❤️🇯🇵
@@ -24,7 +26,7 @@ Escrito desde México, con todo el corazón puesto en cada capítulo. 🇲🇽�
 
 - `capitulos/` — Los capítulos del fanfic
 - `personajes/` — Fichas de personajes
-- `assets/` — Arte e imágenes
+- `assets/` — Arte e imágenes (¡el póster promocional ya está aquí!)
 
 ## ⚠️ Aviso
 
