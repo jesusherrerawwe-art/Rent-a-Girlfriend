@@ -15,7 +15,7 @@
 | [`00-prologo.md`](00-prologo.md) | Portadilla, epígrafe y prólogo | 720 | ✅ Entregado |
 | [`01-el-hijo-del-director.md`](01-el-hijo-del-director.md) | Capítulo 1 | 5,937 | ✅ Entregado |
 | [`02-noventa-minutos.md`](02-noventa-minutos.md) | Capítulo 2 | 5,260 | ✅ Entregado |
-| [`03-lo-que-se-dice-en-confianza.md`](03-lo-que-se-dice-en-confianza.md) | Capítulo 3 | 5,715 | ✅ Entregado |
+| [`03-lo-que-se-dice-en-confianza.md`](03-lo-que-se-dice-en-confianza.md) | Capítulo 3 | 6,024 | ✅ Entregado |
 | `04-el-ensayo.md` | Capítulo 4 | — | ⏳ Pendiente |
 | `05-la-audicion.md` | Capítulo 5 | — | ⏳ Pendiente |
 | `06-bienvenidos-a-hatsukoi-house.md` | Capítulo 6 | — | ⏳ Pendiente |
@@ -27,8 +27,8 @@
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 17,632 palabras (prólogo + caps. 1, 2 y 3).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,937, el cap. 2 a 5,260 y el cap. 3 a 5,715; no es un problema, mientras el volumen no se desborde.
+**Total entregado:** 17,941 palabras (prólogo + caps. 1, 2 y 3).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,937, el cap. 2 a 5,260 y el cap. 3 a 6,024; no es un problema, mientras el volumen no se desborde.
 
 ---
 
@@ -66,9 +66,9 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 | **Chizuru** | 19 años (cumple 19/4), 162.5 cm, 練馬大学 Literatura, mismo año que Jesús. Agencia Diamond, No. 1 de Fresh: 51 citas, 51 reseñas, todas de 5 estrellas. Nombre real 一ノ瀬ちづる (secreto). Vive en el 204, al lado de Jesús; él aún no lo sabe. | Biblia §7, cap. 2 |
 | **Primera cita** | Miércoles siguiente al cap. 1, 19:00, Kissaten Aoi (Shibuya). Termina a los 75:12 de los 90 minutos. Chizuru le da 5 estrellas; la app cobra los 90. | Cap. 2 |
 | **Cuaderno de Chizuru** | Negro, pequeño, esquinas gastadas. Anota datos: «Que te gustan las películas malas». En el cap. 3 se intercalan cuatro páginas: 15 (cuerpo), 18 (silencio), 22 (mentira y Kenjiro), 31 (aparición pública). | Cap. 2, cap. 3 |
-| **Contrato del cap. 3** | 30,000 ¥ mensuales, más gastos y las citas que se siguen pagando por la app. Dos sesiones semanales de entrenamiento, una aparición pública semanal, presentación a Kenjiro Fujioka, confidencialidad, salida con una semana de aviso. Regla final: «Nadie se enamora». | Cap. 3 |
+| **Contrato del cap. 3** | 30,000 ¥ mensuales, más gastos y las citas que se siguen pagando por la app. Dos sesiones semanales de entrenamiento, una aparición pública semanal, presentación a Kenjiro Fujioka, confidencialidad, salida con una semana de aviso. Regla final: «Nadie se enamora». Condición aparte, no escrita: «No me trates como a un cliente». | Cap. 3 |
 | **Cuarta y quinta cita** | 29/10: el cuerpo (parque de Shakujii-kōen, 17:00-19:00). 01/11: el silencio (Kissaten Aoi, 18:00-20:00). 05/11: la mentira, la confesión y el contrato (terraza de Shibuya, 17:00-19:00). | Cap. 3 |
-| **Primera aparición pública** | Viernes 13/11, Shibuya. Chizuru le pide que no use la playera de las Chivas; él se niega. Kibe los ve y pregunta si es su novia. Jesús no desmiente. | Cap. 3 |
+| **Primera aparición pública** | Viernes 13/11, Shibuya. Chizuru le pide que no use la playera de las Chivas. Él se cambia en un conbini, pero no por ella: la guarda en la mochila. Kibe los ve y pregunta si es su novia. Jesús no desmiente. | Cap. 3 |
 | **Formulario de situación sentimental** | Documento D-54. Fecha límite: 13/11, 23:59. Jesús marca «Sí» a las 23:58. | Cap. 3 |
 | **Llave del 204** | La nota de Kenjiro dice «Llave de repuesto en el 204». Jesús nunca la ha pedido. Chizuru vive en el 204; él no lo sabe. | Cap. 1, cap. 3 |
 | **Vecina del 204** | La noche de la primera cita, la luz del 204 está encendida; hay zapatos pequeños, un paquete y una planta. Jesús no conecta. | Cap. 2 |
@@ -107,7 +107,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 6. Registro de cambios
 
-- **18/10/2026:** se entrega el cap. 3 «Lo que se dice en confianza» (5,715 palabras). Tres lecciones vividas (cuerpo, silencio, mentira), confesión en la terraza, contrato como giro de la mitad, primera aparición pública con la playera de las Chivas y cierre con la pregunta de Kibe. Se añaden el documento D-54, cuatro páginas del cuaderno (15, 18, 22, 31) y el contrato completo. Se corrige la línea temporal: 29/10, 01/11, 05/11, 12/11 y 13/11. Se actualiza la tabla de la playera en el plan §3.3 y se añade la nota del manual al §cap. 4.
+- **18/10/2026:** se entrega el cap. 3 «Lo que se dice en confianza» (6,024 palabras). Tres lecciones vividas (cuerpo, silencio, mentira), confesión en la terraza, contrato como giro de la mitad, primera aparición pública con la playera guardada en la mochila y cierre con la pregunta de Kibe. Se añaden la referencia D-54 en el correo de producción, cuatro páginas del cuaderno (15, 18, 22, 31) y el contrato completo. Se corrige la línea temporal: 29/10, 01/11, 05/11, 12/11 y 13/11. Se actualiza la tabla de la playera en el plan §3.3 y se añade la nota del manual al §cap. 4.
 - **18/10/2026:** Chuy elige que el cap. 3 pese más el entrenamiento que el contrato. Se reordena el plan: tres lecciones (cuerpo, silencio, mentira) antes de la propuesta; el contrato pasa a ser el giro de la mitad.
 - **18/10/2026:** se entrega el cap. 2 «Noventa minutos» (5,260 palabras). Se resuelve la duración de la primera cita: 90 minutos de prueba, bloques de 2 horas después. Se establecen las reglas de Diamond, la tarifa (10,500 ¥ por 90 min), la cláusula 8, el cuaderno de Chizuru y la luz del 204. Se corrige la línea temporal: la clase de Aoki-sensei pasa al jueves, antes de la segunda cita, para que la frase sobre los silencios no se adelante.
 - **18/10/2026:** se crea la carpeta del Vol. 1. Se entregan el prólogo y el capítulo 1. Se corrigen las siguientes inconsistencias en los documentos de trabajo:

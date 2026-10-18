@@ -2,19 +2,6 @@
 ## Lo que se dice en confianza
 ### 「信頼の内側」
 
-> **HATSUKOI HOUSE: PRODUCCIÓN**
->
-> **D-54**
->
-> **Para:** participantes de la temporada 1
-> **Asunto:** declaración de situación sentimental
->
-> La producción recuerda a todos los participantes que el formulario de situación sentimental debe entregarse antes de las 23:59 del viernes 13 de noviembre.
->
-> El programa no penaliza la experiencia previa. La utiliza.
->
-> **Nota del showrunner:** No mientan. La cámara siempre sabe.
-
 La cuarta cita la agendé en el tren, a las once de la noche, con el pulgar, sin mirar la pantalla. El botón ya estaba gastado. La app me mandó un recordatorio el jueves a las cuatro: "Su cita con Chizuru comienza en una hora. Llegue puntual."
 
 Llegué cuarenta minutos antes.
@@ -519,7 +506,11 @@ El jueves 5 de noviembre subí a la terraza del octavo piso. Era un jardín de a
 
 Llegué temprano. Me senté en una banca de madera y saqué el teléfono. El correo de producción seguía abierto.
 
-**Formulario de situación sentimental. Fecha límite: viernes 13 de noviembre, 23:59.**
+**Formulario de situación sentimental. D-54. Fecha límite: viernes 13 de noviembre, 23:59.**
+
+El programa no penaliza la experiencia previa. La utiliza.
+
+**Nota del showrunner:** No mientan. La cámara siempre sabe.
 
 Miré la casilla.
 
@@ -687,13 +678,23 @@ No supe qué decir.
 
 Lo dijo sin rodeos. Sin sonrisa. Sin pedir perdón.
 
+"¿Es todo?"
+
+"No."
+
+"¿Qué más?"
+
+"Si no consigo esto, voy a tener que dejar la actuación", dijo. "Y no sé hacer otra cosa."
+
+Esa sí me dolió. No la dijo como una amenaza. La dijo como un dato.
+
 "¿Por qué yo?"
 
 "Porque eres su hijo. Y porque aprendes rápido."
 
 "¿Y si me niego?"
 
-"Entonces vuelves a tu casa, llenas el formulario con «no» y el programa te convierte en el chico raro que nunca ha besado a nadie. O en el hijo del director que consiguió el papel por su apellido. Tú eliges."
+"Entonces vuelves a tu casa, llenas el formulario con «no» y el programa te convierte en el chico raro que nunca ha besado a nadie. O en el hijo del director que consiguió el papel por su apellido. No te estoy amenazando. Te estoy diciendo lo que va a pasar."
 
 "Eso es cruel."
 
@@ -729,9 +730,13 @@ Me quedé mirando el cruce. Un tren pasó por el puente. Las luces de los autos 
 
 "¿Entonces por qué lo haces?"
 
-"Porque no las voy a tirar por miedo."
+"Porque no quiero pasar toda mi vida siendo la chica que alquila."
 
-Dejó pasar la pregunta. La ciudad seguía encendiéndose abajo.
+La ciudad seguía encendiéndose abajo.
+
+"¿Y las reseñas?"
+
+"Las reseñas no me van a dar un papel."
 
 "¿Y los besos?", pregunté.
 
@@ -759,7 +764,11 @@ Dejó pasar la pregunta. La ciudad seguía encendiéndose abajo.
 
 "¿Por qué treinta mil?", pregunté.
 
-"Porque es lo que cuesta un mes de mi tiempo."
+"Porque es lo que cuesta un mes de mi tiempo. Y porque el dinero hace que esto sea un trabajo. Si no cobro, es otra cosa."
+
+"¿Qué cosa?"
+
+"Algo que no puedo darte."
 
 "¿Y el resto?"
 
@@ -777,7 +786,29 @@ Dejó pasar la pregunta. La ciudad seguía encendiéndose abajo.
 
 "Todo lo que empieza mal termina así."
 
-Sacó la pluma. Escribió los términos en la página. Duración. Servicios. Tarifa. Contacto. Confidencialidad. Presentación. Salida. Siete líneas. Las leí una por una.
+"Si vamos a hacer esto, quiero una cosa", dije.
+
+"¿Cuál?"
+
+"No me trates como a un cliente."
+
+Chizuru me miró. La pluma se quedó quieta en su mano.
+
+"No puedo prometer eso."
+
+"Entonces no hay trato."
+
+Se quedó callada. Abajo, un tren pasó por el puente. Las luces de los autos se movieron por el vidrio de un edificio.
+
+"Está bien", dijo. "No te voy a tratar como a un cliente."
+
+"¿Me lo prometes?"
+
+"No. Pero lo voy a intentar."
+
+Era lo más honesto que me había dicho en toda la noche.
+
+Destapó la pluma. Escribió los términos en la página. Duración. Servicios. Tarifa. Contacto. Confidencialidad. Presentación. Salida. Siete líneas. Las leí una por una.
 
 Leí la última línea. Faltaba la única que me importaba.
 
@@ -794,6 +825,8 @@ Chizuru levantó la pluma. Me miró. Durante un instante, la sonrisa de Diamond 
 Escribió:
 
 **Nadie se enamora.**
+
+Le temblaba un poco la mano. No lo suficiente para que la letra se viera mal. Lo suficiente para que yo lo viera.
 
 Me pasó la pluma.
 
@@ -827,7 +860,7 @@ Iba a tener que dejar de comer en la calle. Iba a tener que dejar de comer, punt
 
 Había dicho que sí antes de terminar la suma.
 
-Yo pensé que la estaba usando a ella. Era al revés. Pero eso lo supe mucho después.
+Yo pensé que la estaba usando a ella. Los dos nos estábamos usando. La diferencia es que ella lo sabía antes que yo.
 
 Lo que se dice en confianza no se dice para que el otro sepa. Se dice para que el otro se quede.
 
@@ -864,7 +897,9 @@ Afuera, Shibuya nos tragó.
 > No le enseñé eso. Lo aprendió solo.
 > Padre: Kenjiro Fujioka. Showrunner. 東都テレビ.
 > Lo sabía. Pero oírlo decirlo es distinto.
-> Nota: le creí. Eso es un problema.
+> Nota: me pidió que no lo tratara como a un cliente.
+> No lo escribí.
+> Nota 2: le creí. Eso es un problema.
 
 ---
 
@@ -975,9 +1010,21 @@ Se quedó mirándome la playera.
 
 "Ya lo sé."
 
-"¿Te la vas a quitar?"
+No insistió. Eso fue lo peor. Se quedó callada, con las manos en los bolsillos, mirándome como se mira a alguien que todavía no sabe qué va a hacer.
 
-"No."
+Miré el escudo. El de la tienda se había cansado a mitad del estampado. La mancha de café. El cuello amarillento. Once años.
+
+"Voy a cambiarme", dije.
+
+No fue por ella. Fue por mí. Quería entrar a esa calle con algo que no fuera una armadura.
+
+Traía una camiseta blanca debajo. Entré a un conbini, me metí al baño, me quité la playera y me quedé con la camiseta. La doblé, la guardé en la mochila y me lavé la cara. Cuando salí, Chizuru estaba esperando afuera, con las manos en los bolsillos.
+
+"¿Mejor?", pregunté.
+
+"No sé", dijo. "Eras tú."
+
+"Ya lo sé."
 
 Se mordió el labio. El viento le movió el abrigo. Luego me tomó de la mano. No como en la terraza, con cuidado, sino como si lleváramos años haciéndolo. Sus dedos se entrelazaron con los míos.
 
@@ -985,7 +1032,7 @@ Se mordió el labio. El viento le movió el abrigo. Luego me tomó de la mano. N
 
 Caminamos.
 
-Era la primera vez que le decía que no a algo. No me sentí valiente. Me sentí desnudo.
+No era la primera vez que me quitaba la playera. Era la primera vez que lo hacía yo.
 
 Yo miré nuestras manos.
 
@@ -1378,6 +1425,7 @@ Me quedé dormido con la hoja en la mano.
 > Sujeto: J.F.H.
 > Cumplió el protocolo. Caminó a mi lado. No miró el reloj.
 > Se rió dos veces. Una fue real.
+> Se cambió la playera antes de la cita. No por mí.
 > En el semáforo le di la otra mano. No fue parte del ejercicio.
 > Kibe lo vio. No desmintió.
 > Me llamó dos veces. La segunda no sonó a cliente.

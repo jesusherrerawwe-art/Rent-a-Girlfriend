@@ -142,7 +142,7 @@ En los dos pósters, Jesús lleva una **playera blanca con el escudo de las Chiv
 |---|---|---|
 | 1 | Puesta en casa; doblada en la silla cuando va a ver a Kenjiro. No entra a la oficina. | Es lo que deja afuera para entrar al mundo de su padre. |
 | 2 | Se queda en el cajón. «No era ropa de cita. Era otra cosa.» | Todavía no puede llevar su historia a una cita. |
-| 3 | La saca para la primera aparición pública. Chizuru: «¿Vas a venir así?» / «Es mi camisa de la suerte.» / «No es suerte. Es un escudo.» Le pide que no la use en público. Él se niega. | Es su único límite. Renta su tiempo, su imagen y sus mentiras; la playera no. |
+| 3 | La saca para la primera aparición pública. Chizuru: «¿Vas a venir así?» / «Es mi camisa de la suerte.» / «No es suerte. Es un escudo.» Le pide que no la use. Él se cambia en un conbini, pero no por ella: «Voy a cambiarme». La playera va a la mochila. | Empieza a separar la persona del personaje. El límite ya no es la prenda: es quién decide cuándo se la quita. |
 | 4 | Chizuru deja de intentar cambiarla. Le pregunta por la mancha. Él le cuenta de Laura. | La playera es la puerta de entrada a la intimidad. |
 | 5 | Producción la ve. Kenjiro: «Déjatela. Es buena tele.» Vestuario le da una oficial. La real va a la mochila. | Su identidad se convierte en ángulo de marketing. |
 | 6 | La oficial está en el vestidor. La real, bajo la almohada. De noche, se pone la real. | Lo único que las cámaras no ven. |
