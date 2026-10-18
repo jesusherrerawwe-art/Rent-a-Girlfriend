@@ -141,8 +141,8 @@ En los dos pósters, Jesús lleva una **playera blanca con el escudo de las Chiv
 | Cap. | Qué pasa con la playera | Qué significa |
 |---|---|---|
 | 1 | Puesta en casa; doblada en la silla cuando va a ver a Kenjiro. No entra a la oficina. | Es lo que deja afuera para entrar al mundo de su padre. |
-| 2 | La lleva a la primera cita. Chizuru: «¿Vas a venir así?» / «Es mi camisa de la suerte.» / «No es suerte. Es un escudo.» | Chizuru la lee mejor que nadie. |
-| 3 | Chizuru le pide que no la use en público. Él se niega. | Es su único límite. Renta su tiempo, su imagen y sus mentiras; la playera no. |
+| 2 | Se queda en el cajón. «No era ropa de cita. Era otra cosa.» | Todavía no puede llevar su historia a una cita. |
+| 3 | La saca para la primera aparición pública. Chizuru: «¿Vas a venir así?» / «Es mi camisa de la suerte.» / «No es suerte. Es un escudo.» Le pide que no la use en público. Él se niega. | Es su único límite. Renta su tiempo, su imagen y sus mentiras; la playera no. |
 | 4 | Chizuru deja de intentar cambiarla. Le pregunta por la mancha. Él le cuenta de Laura. | La playera es la puerta de entrada a la intimidad. |
 | 5 | Producción la ve. Kenjiro: «Déjatela. Es buena tele.» Vestuario le da una oficial. La real va a la mochila. | Su identidad se convierte en ángulo de marketing. |
 | 6 | La oficial está en el vestidor. La real, bajo la almohada. De noche, se pone la real. | Lo único que las cámaras no ven. |
@@ -348,6 +348,8 @@ Ver `novela/04-vol2-esbozo.md`.
 **Cliffhanger:** «Regla 7.»
 
 **Por qué existe:** porque el lector tiene que **ver** el entrenamiento para creer que funciona. Si no vemos las lecciones, la cita con Hina no tiene peso. Además, la lavandería es la primera escena de amor real del libro, y no pasa nada: solo duerme.
+
+**Nota de ejecución (18/10/2026):** el manual del cap. 4 es un **manual de actuación para el programa**, no una segunda versión del contrato del cap. 3. Las tres lecciones del cap. 3 fueron ejercicios vividos (cuerpo, silencio, mentira), sin reglas numeradas. Aquí las reglas son texto escrito, con encabezado y número, y cada una tiene una escena que la ilustra. La Regla 7 rompe el formato: ya no hay ilustración, solo la frase. El contrato del cap. 3 regula la mentira; el manual del cap. 4 enseña a sostenerla frente a la cámara.
 
 ---
 
