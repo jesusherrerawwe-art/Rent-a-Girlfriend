@@ -10,13 +10,13 @@ Documentación de referencia del universo de *Rent a Girlfriend* (彼女、お�
 4. [Temporada III — resumen por episodio con spoilers](04-temporada-iii.md) ✅
 5. [Temporada IV (ハワイアンズ編 1.º cour) — resumen por episodio con spoilers](05-temporada-iv.md) ✅
 6. [Temporada V (ハワイアンズ編 2.º cour) — resumen por episodio con spoilers](06-temporada-v.md) ✅
-7. Temporada VI (同棲編) — cuando se emita (⏳ pendiente)
-8. Personajes principales (⏳ pendiente)
-9. Personajes secundarios (⏳ pendiente)
-10. Diferencias anime vs manga (⏳ pendiente)
-11. La cultura del "rental dating" en Japón: la agencia Diamond, reglas y ética (⏳ pendiente)
-12. Datos curiosos (⏳ pendiente)
-13. Cómo son tratados mestizos y extranjeros en Japón — hāfu (⏳ pendiente)
+7. [Personajes principales (主要人物)](07-personajes-principales.md) ✅
+8. Personajes secundarios (⏳ pendiente)
+9. Diferencias anime vs manga (⏳ pendiente)
+10. La cultura del "rental dating" en Japón: la agencia Diamond, reglas y ética (⏳ pendiente)
+11. Datos curiosos (⏳ pendiente)
+12. Cómo son tratados mestizos y extranjeros en Japón — hāfu (⏳ pendiente)
+13. Temporada VI (同棲編) — cuando se emita (⏳ pendiente)
 
 ---
 
