@@ -294,28 +294,31 @@ Ver `novela/04-vol2-esbozo.md`.
 
 **POV:** Jesús, 1.ª persona, pasado + páginas del cuaderno de Chizuru (documento).
 **Tiempo:** dos semanas.
-**Extensión:** 4,500 palabras.
+**Extensión:** 5,200 palabras.
 
-**Logline:** Jesús le dice a Chizuru quién es su padre. Ella le propone un contrato. La mentira nace con las dos partes de acuerdo.
+**Logline:** Jesús le dice a Chizuru quién es su padre. Ella lo entrena para ser un novio y le propone un contrato. La mentira nace con las dos partes de acuerdo.
+
+**Decisión de Chuy (18/10/2026):** el peso del capítulo va al **entrenamiento**, no al contrato. El contrato es el giro de la mitad; el clímax es la primera aparición pública y la pregunta de Kibe.
 
 **Beats:**
 
-1. **La rutina.** Cuarta y quinta cita. Ya hay complicidad. Chizuru corrige su postura, sus pausas, su forma de mirar. Él cree que es amabilidad. Es entrenamiento.
-2. **La confesión.** En una terraza, Jesús habla del programa. Se le escapa: «Mi papá es el showrunner.» Silencio. Un microsegundo en la cara de Chizuru. Él no lo nota. El lector sí.
-3. **Las preguntas.** Chizuru pregunta cosas demasiado precisas: cuántos años lleva su padre en la industria, qué productora lo respalda, si va a estar en el set. Jesús contesta todo. Cree que es interés. Es reconocimiento de terreno.
-4. **El cuaderno.** Intercalado: una página del cuaderno de Chizuru. Fecha, hora, «Sujeto: J.F.H.». Anota datos, no sentimientos. La frialdad del documento es lo que duele, porque el lector sabe que ella se está enamorando y ella todavía no.
-5. **La propuesta.** Chizuru le ofrece el trato: será su novia falsa, lo entrenará para el programa, y él la presentará a su padre. Es honesta: «No te voy a mentir. Quiero llegar a Kenjiro Fujioka. Tú quieres aprender a ser un novio. Los dos tenemos algo que el otro necesita.» Jesús acepta. Cree que es él quien la usa.
-6. **Las reglas.** Sin sentimientos. Sin besos «innecesarios». Una tarifa mensual. Una cláusula de salida. La última regla la escribe ella: «Nadie se enamora.» Jesús firma. El lector sabe que esa regla ya está rota.
-7. **La primera aparición pública.** Kibe los ve juntos. La noticia corre. Jesús no desmiente nada.
-8. **Cierre.** Kibe: «Entonces sí es tu novia.» Jesús se queda callado. No sabe qué contestar. Esa duda es la primera grieta.
+1. **La primera lección: el cuerpo.** Cuarta cita. Chizuru lo corrige: la espalda, las manos, la barbilla, la forma de caminar a su lado. «No es una cita. Es una clase.» Él cree que es amabilidad. Es entrenamiento.
+2. **La segunda lección: los silencios.** Quinta cita. Le enseña a dejar pausas, a mirar sin llenar el aire, a escuchar con el cuerpo. El ejercicio de Aoki del cap. 2 vuelve, ahora con ella: una quiere irse, la otra quiere que se quede, sin palabras. Chizuru se queda. Él no sabe si fue actuación.
+3. **La confesión.** En una terraza, Jesús habla del programa. Se le escapa: «Mi papá es el showrunner.» Silencio. Un microsegundo en la cara de Chizuru. Él no lo nota. El lector sí.
+4. **La tercera lección: la mentira pequeña.** Chizuru le enseña a mentir sin que se le note: una mentira pequeña, dicha con la verdad del cuerpo. «La gente no te cree lo que dices. Te cree lo que haces mientras lo dices.» Él practica con ella. Es la primera vez que se mienten en la cara, y los dos sonríen al final.
+5. **Las preguntas y el cuaderno.** Chizuru pregunta cosas demasiado precisas: cuántos años lleva su padre en la industria, qué productora lo respalda, si va a estar en el set. Intercalado: una página del cuaderno. Fecha, hora, «Sujeto: J.F.H.». Anota datos, no sentimientos. La frialdad del documento duele porque el lector sabe que ella se está enamorando y ella todavía no.
+6. **La propuesta.** Chizuru le ofrece el trato: será su novia falsa, lo entrenará para el programa, y él la presentará a su padre. Es honesta: «No te voy a mentir. Quiero llegar a Kenjiro Fujioka. Tú quieres aprender a ser un novio. Los dos tenemos algo que el otro necesita.» Jesús acepta. Cree que es él quien la usa.
+7. **Las reglas.** Sin sentimientos. Sin besos «innecesarios». Una tarifa mensual. Una cláusula de salida. La última regla la escribe ella: «Nadie se enamora.» Jesús firma. El lector sabe que esa regla ya está rota.
+8. **La primera aparición pública.** Kibe los ve juntos. La noticia corre. Jesús no desmiente nada.
+9. **Cierre.** Kibe: «Entonces sí es tu novia.» Jesús se queda callado. No sabe qué contestar. Esa duda es la primera grieta.
 
-**Dispositivo estructural:** **doble versión de la misma noche.** Primero leemos la escena desde Jesús (cálida, cómica, esperanzada). Luego leemos la página del cuaderno de Chizuru (fría, clínica, con una frase final que no debería estar ahí: *«Se ríe cuando miente. Igual que yo.»*). El lector tiene las dos verdades. Ninguno de los dos personajes las tiene.
+**Dispositivo estructural:** **tres lecciones + doble versión de la misma noche.** Las lecciones avanzan de lo físico a lo emocional: el cuerpo, el silencio, la mentira. Al final, la misma noche se lee dos veces: primero desde Jesús (cálida, cómica, esperanzada), luego desde la página del cuaderno de Chizuru (fría, clínica, con una frase final que no debería estar ahí: *«Se ríe cuando miente. Igual que yo.»*). El lector tiene las dos verdades. Ninguno de los dos personajes las tiene.
 
-**Giro emocional:** el contrato los vuelve cómplices. La complicidad los vuelve cercanos. La cercanía los vuelve vulnerables.
+**Giro emocional:** el entrenamiento los vuelve cómplices. El contrato los vuelve socios. La complicidad los vuelve cercanos. La cercanía los vuelve vulnerables.
 
 **Cliffhanger:** la frase de Kibe.
 
-**Por qué existe:** porque la mentira tiene que ser **elegida**, no impuesta. Si Chizuru lo manipula, es una villana. Si los dos eligen el trato, son dos adultos tomando una mala decisión. Eso es más interesante.
+**Por qué existe:** porque la mentira tiene que ser **elegida**, no impuesta. Si Chizuru lo manipula, es una villana. Si los dos eligen el trato, son dos adultos tomando una mala decisión. Eso es más interesante. Y porque el entrenamiento es la primera vez que Jesús se ve a sí mismo como un papel que alguien más está escribiendo.
 
 ---
 

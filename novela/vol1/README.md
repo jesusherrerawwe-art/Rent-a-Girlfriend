@@ -91,6 +91,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 - ✅ **Cap. 2, duración:** resuelto. La primera cita es una prueba de 90 minutos; después, bloques de 2 horas. El título se refiere a la sesión comprada, y el corte a los 75:12 es el primer síntoma de Chizuru.
 - 🟡 **Cap. 2, vecina:** el cap. 2 sembró la luz del 204, los zapatos y la planta. La nota de la llave del cap. 1 sigue pendiente de cobrar sentido.
 - 🟡 **Cap. 3, cuaderno:** ya apareció en el cap. 2. Falta dramatizar el momento en que Chizuru supo quién era Kenjiro (antes de la primera cita) y la página del cuaderno en el cap. 3.
+- 🟡 **Cap. 3, decisión de Chuy (18/10/2026):** el peso va al **entrenamiento** (cuerpo, silencio, mentira pequeña). El contrato es el giro de la mitad; el clímax es la aparición pública y la pregunta de Kibe.
 - **Cap. 4:** la foto de Hina en el sobre de producción. Hina no debe aparecer antes.
 - **Cap. 5:** la audición/prueba de química. Jesús ya está dentro desde el cap. 1; la prueba es de química con el elenco, no de casting.
 - **Caps. 10-11:** los dos besos grabados. La playera oficial y la real deben estar en el set; Kenjiro pisa la oficial en el camerino.
@@ -100,6 +101,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 6. Registro de cambios
 
+- **18/10/2026:** Chuy elige que el cap. 3 pese más el entrenamiento que el contrato. Se reordena el plan: tres lecciones (cuerpo, silencio, mentira) antes de la propuesta; el contrato pasa a ser el giro de la mitad.
 - **18/10/2026:** se entrega el cap. 2 «Noventa minutos» (5,260 palabras). Se resuelve la duración de la primera cita: 90 minutos de prueba, bloques de 2 horas después. Se establecen las reglas de Diamond, la tarifa (10,500 ¥ por 90 min), la cláusula 8, el cuaderno de Chizuru y la luz del 204. Se corrige la línea temporal: la clase de Aoki-sensei pasa al jueves, antes de la segunda cita, para que la frase sobre los silencios no se adelante.
 - **18/10/2026:** se crea la carpeta del Vol. 1. Se entregan el prólogo y el capítulo 1. Se corrigen las siguientes inconsistencias en los documentos de trabajo:
   - Laura muere en 2022, a los 14 de Jesús (antes la ficha decía 16).
