@@ -6,7 +6,7 @@
 >
 > **Música:**
 > - OP: 「ノンシナリオ・エチュード」 (Non-Scenario Étude) de **雨宮天 (Amamiya Sora)** — detalle histórico: la voz de Chizuru canta el opening de su propia temporada, con **letra y música de su autoría** (arreglos de Toshima Yūsuke y Kawashima Akihiro).
-> - ED: 「204号室」 (Habitación 204) del grupo **なきごと (Nakigoto)** — el título es un guiño al **número del cuarto de Kazuya** en su apartamento. En el episodio 52 se usó como canción insertada, y el ED de ese episodio fue 「ぼくのベガ（Acoustic ver.）」 de リーガルリリー.
+> - ED: 「204号室」 (Habitación 204) del grupo **なきごと (Nakigoto)** — el título es el guiño perfecto: **204 es el número del cuarto de Chizuru**, la vecina del 203 de Kazuya. En el episodio 52 se usó como canción insertada, y el ED de ese episodio fue 「ぼくのベガ（Acoustic ver.）」 de リーガルリリー.
 >
 > **Staff sin cambios:** dirección Koga Kazuomi, composición Hirota Mitsutaka, diseño de personajes Hirayama Kanna, música Hyadain, animación TMS Entertainment.
 >
@@ -96,7 +96,7 @@ Llega el realismo más crudo de la serie: un **terremoto deja el apartamento en 
 4. **Los 3 meses de silencio** entre el viaje y San Valentín son el precio del beso: la pareja más ruidosa del anime pasa su temporada más silenciosa.
 5. **Mini Yaemori, arma definitiva**: de vecina curiosa (T3) a casamentera sistemática (T5): convoca el izakaya, manda la foto trampa y suelta la propuesta de convivencia. Es literalmente la chispa del siguiente arco.
 6. **El terremoto** es la pieza estructural que saca a Kazuya de su apartamento y hace posible 同棲 (vivir juntos): sin casa, sin dinero y con Chizuru a un "¿puedo ir yo también?" de distancia.
-7. **Música de la despedida**: el ED 「204号室」 (Habitación 204, el cuarto de Kazuya) suena como epitafio perfecto del lugar donde casi toda la serie ocurrió — que el terremoto dejó inhabitable.
+7. **Música de la despedida**: el ED 「204号室」 (Habitación 204, el cuarto de Chizuru, la vecina de Kazuya) suena como epitafio perfecto del lugar donde casi toda la serie ocurrió — que el terremoto dejó inhabitable.
 8. **Puente a la T6 (同棲編)**: la serie pasa del "¿y ahora qué?" al "¿y ahora dónde?". La convivencia Kazuya-Chizuru es el terreno del próximo arco, ya confirmado ("TVアニメ6期制作決定！").
 
 ---
