@@ -42,7 +42,7 @@ Jesús sale del programa que lo humilló y entra, sin saberlo, a la ficción que
 - **Sumi = el amor puro.** No hay agenda. Pero su trabajo es fingir.
 - **Chizuru = el amor real.** Hay que perdonarla. Pero no se lo merece todavía.
 
-Jesús tiene que elegir entre la mujer que lo quiere sin saberlo (Ruka), la que lo quiere sin pedir nada (Sumi) y la que lo quiere y lo vendió (Chizuru).
+Jesús tiene que elegir entre la mujer que lo quiere sin saberlo (Ruka), la que lo quiere sin pedir nada (Sumi) y la que lo quiere y lo vendió (Chizuru). **Es un triángulo estructural, no un harem:** cada una representa un tipo de amor, y la elección revela qué tipo de amor puede aceptar Jesús. Ver `05-formato-y-triangulo.md`.
 
 ---
 

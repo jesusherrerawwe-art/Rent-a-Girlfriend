@@ -3,7 +3,7 @@
 **Proyecto:** *El corazón no se alquila* (título provisional)
 **Volumen:** 1 de 2 (la obra queda abierta a más temporadas)
 **Capítulos:** 13
-**Extensión objetivo:** ~63,000 palabras
+**Extensión objetivo:** ~67,600 palabras (13 × 5,200)
 **Estado:** borrador de trabajo v0.1 — para validación de Chuy
 **Fecha:** 17 de octubre de 2026
 
@@ -180,10 +180,10 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 
 | Acto | Capítulos | Pregunta | Extensión |
 |---|---|---|---|
-| **I. El ensayo** | 1–4 | ¿Cómo se prepara un hombre para ser amado? | ~18,800 palabras |
-| **II. La casa** | 5–9 | ¿Qué pasa cuando la preparación se vuelve función? | ~25,000 palabras |
-| **III. La transmisión** | 10–13 | ¿Cuánto cuesta que te vean? | ~19,700 palabras |
-| **Total** | 13 | | **~63,500 palabras** |
+| **I. El ensayo** | 1–4 | ¿Cómo se prepara un hombre para ser amado? | ~20,800 palabras |
+| **II. La casa** | 5–9 | ¿Qué pasa cuando la preparación se vuelve función? | ~26,000 palabras |
+| **III. La transmisión** | 10–13 | ¿Cuánto cuesta que te vean? | ~20,800 palabras |
+| **Total** | 13 | | **~67,600 palabras** |
 
 ### 5.2 Los siete giros
 
