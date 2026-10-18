@@ -32,7 +32,7 @@ Y termina con Chizuru saliendo de la casa con el papel que era de Jesús.
 | Sayuri | Vive, hospitalizada | Chizuru tiene un reloj: necesita dinero y fama *ya*. Su urgencia es médica, no ambiciosa. |
 | La mentira | Se complica con Hina | La mentira ya no es solo «tengo novia»: es «estoy soltero para la televisión» mientras entreno con una novia falsa para conquistar a otra chica real. Tres capas. |
 | Mami | Cliffhanger del Vol. 1 | Aparece en la última página. Le escribe a Jesús: «Vi el programa. ¿Estás bien?» No sabemos si es burla o compasión. Es la bomba del Vol. 2. |
-| **Ruka (cameo)** | Ve el programa sin conocer a Jesús | Una chica de 18 años siente lástima por un chico humillado en televisión. Guarda el clip. Es la primera aparición de Ruka y la semilla del Vol. 2. |
+| **Ruka (cameo)** | Ve el programa sin conocer a Jesús | Una chica de 18 años, en una habitación de hospital, siente lástima por un chico humillado en televisión. Guarda el clip. Es la primera aparición de Ruka y la semilla del Vol. 2. |
 | Kenjiro | Sospecha, no tiene pruebas | Tensión constante sin escena de revelación. El padre *intuye* que su hijo está actuando, y eso lo vuelve más peligroso: lo prueba. |
 | Chizuru | Lo sabe por confianza | Jesús se lo dice sin querer. La traición duele más porque él le puso el arma en la mano. Y en el camerino descubre que ella sabía lo de la humillación. |
 | Cierre | Kenjiro elige a Chizuru en el camerino, delante de Jesús | El padre no traiciona a su hijo en privado: lo hace *después* de que el país entero lo vio. Aplaude a Chizuru, le ofrece el papel de Jesús y le dice que él es un borrador. |
@@ -581,7 +581,7 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 2. **La foto.** Laura, Sergio y Jesús en Guadalajara. Kenjiro no está porque tomó la foto. Jesús la mira. No llora. La deja boca abajo.
 3. **El chat.** Hina: «Lo siento.» Dos palabras. Él no contesta. No sabe si es verdad. No sabe si le importa.
 4. **La llamada que no hace.** Marca el número de Chizuru. Cuelga antes de que suene. Marca el de su padre. Cuelga. Marca el de su madre. No existe.
-5. **La coda de Ruka.** Ruka, 18 años, en su departamento, ve el clip en el teléfono. No conoce a Jesús. No sabe nada. Ve a un chico humillado en televisión y siente lástima. «Pobrecito.» Se queda mirando la pantalla un segundo de más. Guarda el video. No sabe por qué.
+5. **La coda de Ruka.** Ruka, 18 años, en una habitación de hospital, ve el clip en el teléfono. Un monitor cardíaco marca su pulso. No conoce a Jesús. No sabe nada. Ve a un chico humillado en televisión y siente lástima. «Pobrecito.» Se queda mirando la pantalla un segundo de más. Guarda el video. No sabe por qué. El monitor sigue pitando.
 6. **La coda de Mami.** Mami, en su departamento, ve el programa. Reconoce a Jesús. No se ríe. Escribe: «Vi el programa. ¿Estás bien?» Duda. Envía.
 7. **Última línea.** La pantalla de Jesús se ilumina. Él la mira. No contesta. Y la novela termina con una frase que no es suya: *«Y por primera vez en un año, Jesús Fujioka Hernández no supo si querían salvarlo o rematarlo.»*
 
@@ -644,7 +644,7 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 - **Función:** la herida original y la bomba del Vol. 2.
 - **Lo que sabemos en el Vol. 1:** lo dejó sin razón hace un año. Él todavía no sabe por qué.
 - **Lo que revela la coda:** que ella vio el programa y que, por alguna razón, fue la única persona que preguntó si estaba bien. Que la dejadez de Jesús no fue casualidad. Que Mami tiene su propia versión.
-- **La otra coda:** Ruka, 18, ve el clip sin conocerlo y siente lástima. Guarda el video. Es la primera aparición de Ruka y la semilla de su obsesión en el Vol. 2.
+- **La otra coda:** Ruka, 18, ve el clip desde una habitación de hospital, sin conocerlo, y siente lástima. Guarda el video. El monitor cardíaco le marca el pulso. Es la primera aparición de Ruka y la semilla de su obsesión en el Vol. 2: el corazón literal y metafórico, roto y latiendo al mismo tiempo.
 - **Lo que NO hace en el Vol. 1:** aparecer, hablar, confrontar. Solo escribe tres palabras.
 
 ---
