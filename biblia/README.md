@@ -11,7 +11,7 @@ Documentación de referencia del universo de *Rent a Girlfriend* (彼女、お�
 5. [Temporada IV (ハワイアンズ編 1.º cour) — resumen por episodio con spoilers](05-temporada-iv.md) ✅
 6. [Temporada V (ハワイアンズ編 2.º cour) — resumen por episodio con spoilers](06-temporada-v.md) ✅
 7. [Personajes principales (主要人物)](07-personajes-principales.md) ✅
-8. Personajes secundarios (⏳ pendiente)
+8. [Personajes secundarios (脇役・関係者)](08-personajes-secundarios.md) ✅
 9. Diferencias anime vs manga (⏳ pendiente)
 10. La cultura del "rental dating" en Japón: la agencia Diamond, reglas y ética (⏳ pendiente)
 11. Datos curiosos (⏳ pendiente)
