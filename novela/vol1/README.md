@@ -1,6 +1,6 @@
 # Volumen 1: *El ensayo*
 
-**Título oficial:** *El corazón no se alquila* (「心はレンタルできない」)
+**Título oficial:** *El corazón no se alquila* (「心はレンタルできない」) — aprobado por Chuy el 18/10/2026.
 **Serie:** *The Jesús Fujioka Story*
 **Volumen:** 1 de 2 (la obra queda abierta a un Vol. 3)
 **Formato:** novela ligera · 13 capítulos · ~67,600 palabras objetivo

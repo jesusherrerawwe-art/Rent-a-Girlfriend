@@ -12,7 +12,7 @@
 
 *"El corazón no se alquila... se gana."*
 
-**Título oficial:** *El corazón no se alquila* (「心はレンタルできない」) · **Volumen 1: El ensayo**
+**Título oficial (aprobado 18/10/2026):** *El corazón no se alquila* (「心はレンタルできない」) · **Volumen 1: El ensayo**
 
 </div>
 
