@@ -216,11 +216,13 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 
 ### 5.4 Lo que esta elección le hace al Vol. 2
 
-- Chizuru sale del programa y empieza a filmar 「さよならの練習」. La mentira se vuelve insostenible cuando ella se vuelve famosa.
-- Jesús se queda en la casa, con Hina, con las cámaras y con la mentira.
-- El conflicto es la distancia: ella sube, él se estanca. La misma ciudad, dos velocidades.
-- Mami entra desde afuera. El público sigue shippeando a Jesús y Hina; la prensa empieza a preguntar por Chizuru.
-- El Vol. 2 se juega entre la casa (encerrado) y el set de la drama (libre). Dos cárceles distintas.
+- Jesús sale del reality (despedido o apartado) y entra al drama de Chizuru como **el exnovio**. No lo sabe, pero Chizuru lo pidió como condición de su contrato.
+- El nuevo escenario es el set de 「さよならの練習」: la ficción donde ella tiene que despedirse de él y la realidad donde él no puede perdonarla.
+- Ruka entra por el hospital, Sumi por Diamond, Mini por la cuenta de fans. Mami entra desde el pasado. Hina es la villana que se disculpa.
+- El conflicto ya no es la distancia: es la cercanía. Tienen que actuar el amor que no pueden decir.
+- El Vol. 2 se juega entre el guion (lo que está escrito) y el set (lo que se siente). Dos verdades en el mismo plano.
+
+Ver `novela/04-vol2-esbozo.md`.
 
 ---
 
