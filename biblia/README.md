@@ -14,7 +14,7 @@ Documentación de referencia del universo de *Rent a Girlfriend* (彼女、お�
 8. [Personajes secundarios (脇役・関係者)](08-personajes-secundarios.md) ✅
 9. [Diferencias anime vs manga (アニメと原作の違い)](09-anime-vs-manga.md) ✅
 10. [La cultura del "rental dating" en Japón: la agencia Diamond, reglas y ética](10-cultura-rental-dating.md) ✅
-11. Datos curiosos (⏳ pendiente)
+11. [Datos curiosos (トリビア)](11-datos-curiosos.md) ✅
 12. Cómo son tratados mestizos y extranjeros en Japón — hāfu (⏳ pendiente)
 13. Temporada VI (同棲編) — cuando se emita (⏳ pendiente)
 
