@@ -4,7 +4,7 @@
 **Serie:** *The Jesús Fujioka Story*
 **Volumen:** 1 de 2 (la obra queda abierta a un Vol. 3)
 **Formato:** novela ligera · 13 capítulos · ~67,600 palabras objetivo
-**Estado:** en curso. Prólogo y capítulos 1 a 5 entregados el 18/10/2026.
+**Estado:** en curso. Prólogo y capítulos 1 a 6 entregados el 18/10/2026 (el cap. 6 espera lectura de Chuy).
 
 ---
 
@@ -18,7 +18,7 @@
 | [`03-lo-que-se-dice-en-confianza.md`](03-lo-que-se-dice-en-confianza.md) | Capítulo 3 | 6,034 | ✅ Entregado |
 | [`04-el-ensayo.md`](04-el-ensayo.md) | Capítulo 4 | 5,383 | ✅ Entregado |
 | [`05-la-audicion.md`](05-la-audicion.md) | Capítulo 5 | 5,250 | ✅ Entregado |
-| `06-bienvenidos-a-hatsukoi-house.md` | Capítulo 6 | — | ⏳ Pendiente |
+| [`06-bienvenidos-a-hatsukoi-house.md`](06-bienvenidos-a-hatsukoi-house.md) | Capítulo 6 | 5,520 | 🟡 En lectura |
 | `07-la-coach.md` | Capítulo 7 | — | ⏳ Pendiente |
 | `08-la-primera-cita.md` | Capítulo 8 | — | ⏳ Pendiente |
 | `09-la-escalera.md` | Capítulo 9 | — | ⏳ Pendiente |
@@ -27,8 +27,8 @@
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 28,635 palabras (prólogo + caps. 1 a 5).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,939, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383 y el cap. 5 a 5,250; no es un problema, mientras el volumen no se desborde.
+**Total entregado:** 34,155 palabras (prólogo + caps. 1 a 6).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,939, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383, el cap. 5 a 5,250 y el cap. 6 a 5,520; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~72,000 palabras.
 
 ---
 
@@ -140,6 +140,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 6. Registro de cambios
 
+- **18/10/2026:** se entrega el cap. 6 «Bienvenidos a Hatsukoi House» (5,520 palabras). Domingo 6/12/2026: la mudanza, la casa de Sakurashinmachi, el elenco de diez, las cinco reglas firmadas, cuatro confesionarios en 3.ª persona presente, el curry quemado, la caseta de cristal, la reja con Chizuru y la llamada de Kenjiro. Se resuelven la lista de diez (更科るか no entra: queda de reserva para el Vol. 2), la contradicción del «sin contacto con el exterior» y el recuento de cámaras (21 en el recorrido + la de la azotea = 22). Se corrige el final del plan: el mensaje sin contestar pasa a las 23:55, antes de la caja de teléfonos, y la azotea se queda sin teléfono.
 - **18/10/2026:** se entrega el cap. 5 «La audición» (5,250 palabras). Formato híbrido: primera persona fuera del Estudio 4 y guion (台本) dentro, con dos rupturas. Entra Hina como persona: la sala de espera, la improvisación, el pasillo, la deuda de la panadería y el melon pan. Se establecen la mentira de Jesús sobre su padre, la nota «Ship» de la 構成表, la regla 4 escrita por Jesús y la presentación de Chizuru pendiente para el cap. 6. Se corrigieron el número de finalistas, el nombre de Hina, la ignorancia de Kibe sobre el contrato y la cronología de los trenes.
 - **18/10/2026:** se entrega el cap. 4 «El ensayo» (5,383 palabras). Tres reglas escritas (madre, escucha, verdad), la lavandería como primera escena de amor real, la llamada del hospital como primera sombra y el sobre de producción con la foto de Hina. Se cierra con la Regla 7 escrita a mano. Se corrigieron la línea temporal del sobre (24/11, a once días de la audición), la contradicción del encargo de Kenjiro y la repetición de la risa y de la «sonrisa de Diamond». Se añadieron las tres sesiones de la primera semana y el reglamento de producción del cap. 6.
 - **18/10/2026:** se entrega el cap. 3 «Lo que se dice en confianza» (6,024 palabras). Tres lecciones vividas (cuerpo, silencio, mentira), confesión en la terraza, contrato como giro de la mitad, primera aparición pública con la playera guardada en la mochila y cierre con la pregunta de Kibe. Se añaden la referencia D-54 en el correo de producción, cuatro páginas del cuaderno (15, 18, 22, 31) y el contrato completo. Se corrige la línea temporal: 29/10, 01/11, 05/11, 12/11 y 13/11. Se actualiza la tabla de la playera en el plan §3.3 y se añade la nota del manual al §cap. 4.
