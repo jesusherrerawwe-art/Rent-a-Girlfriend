@@ -99,7 +99,7 @@ El repo dice que el manga va por **満足度443 “前日と彼女”** (2026年
 
 **Por qué conviene revisarlo:** un fanfic puede usar personajes con un disclaimer claro, pero **no debe presentarse como material licenciado ni anunciar una emisión oficial**. Esa línea y el “放送決定” hacen que el póster parezca una pieza promocional de la franquicia.
 
-**Corrección aplicada (revisada tras conversación con Chuy):** **el arte es de Chuy y se respeta tal como lo creó.** No se edita la imagen. El disclaimer va en **texto**, en el README y en la sinopsis de Wattpad:
+**Corrección aplicada (revisada tras conversación con Chuy):** **el arte es de Chuy y se respeta tal como lo creó.** No se edita la imagen. El disclaimer va en **texto**, en el README y en la portada del repo privado (el proyecto no se publica en plataformas públicas):
 > “Fan art no oficial — homenaje a 彼女、お借りします. Personajes y obra original ©宮島礼吏・講談社. Sin afiliación ni fines comerciales.”
 
 Si en algún momento se quiere una versión sin el texto japonés ni el logo, se hace **una pieza nueva** y con su aprobación, nunca retocando la original.

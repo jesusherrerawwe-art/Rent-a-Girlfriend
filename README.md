@@ -28,6 +28,8 @@ Entre balcones, trenes de medianoche, ajolotes y mil grullas de papel, Jesús te
 >
 > **Formato:** 26 capítulos · novela ligera · Universidad de Nerima, Tokio
 >
+> **Distribución:** repo privado, acceso por invitación. Sin publicación pública ni fines comerciales.
+>
 > **Estado:** en desarrollo (biblia completa; ficha de personaje y outline en curso)
 
 ---
@@ -62,9 +64,9 @@ Toda la documentación de referencia vive en [`biblia/`](biblia/README.md):
 
 Este es un **proyecto de fan, sin afiliación, patrocinio ni fines comerciales**. *Kanojo, Okarishimasu* (彼女、お借りします), sus personajes y su universo son obra de **Miyajima Reiji (宮島礼吏)** y propiedad de **Kodansha** y del comité de producción de la serie.
 
+- El proyecto **no se publica en plataformas públicas**: vivirá en este repositorio privado y se compartirá por invitación, sin fines comerciales.
 - El proyecto no se presenta como material oficial ni anuncia ninguna emisión, publicación o licencia.
 - Los pósters son **fan art original de Chuy** y se reproducen tal como él los creó.
-- Se respetan las reglas de contenido de las plataformas donde se publique (Wattpad y afines).
 - Si algún titular de derechos solicita un cambio o la retirada de material, se atenderá de inmediato.
 
 *Créditos de la obra original: ©宮島礼吏・講談社 / 「彼女、お借りします」製作委員会.*
