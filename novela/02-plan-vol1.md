@@ -435,6 +435,12 @@ Ver `novela/04-vol2-esbozo.md`.
 
 **Por qué existe:** porque es el capítulo donde Chizuru deja de ser un servicio y se vuelve una **presencia** en la vida de Jesús. Y porque el lector necesita verla trabajar para entender por qué Kenjiro la va a elegir después.
 
+**Decisiones cerradas para este capítulo (18/10/2026, Chuy):**
+
+1. **Hina no ve el reconocimiento.** Cuando Chizuru entra al set y Jesús la reconoce, Hina no está en cuadro o está de espaldas. Se entera después, por un detalle. El lector ve el instante completo y Hina no: esa asimetría es la que va a doler en el cap. 8 y el 9. El detalle exacto del descubrimiento se decide al escribir el cap. 8.
+2. **La coach le enseña a todo el elenco.** Los diez pasan por sus clases. Eso la mete en la intimidad de todos, no solo en la de Jesús, y obliga a que el elenco tenga cuerpo: Rin, Mei, Kenta y Daiki también son sus alumnos. La escena de «llorar a demanda» es para el grupo, no para la pareja.
+3. **El contrato se rompe en este capítulo.** Chizuru lo cancela en la cara de Jesús. Después del cap. 7 no hay dinero entre ellos, y por eso todo lo que pase después tiene que sostenerse en otra cosa: el trabajo, la mentira compartida y lo que los dos ya se dijeron en la lavandería. Al escribir el cap. 7 hay que decidir **cómo** lo rompe: si se lo dice en el pasillo, si le devuelve algo (el sobre, la llave, el manual) o si lo hace delante de Kenjiro.
+
 ---
 
 ### Capítulo 8 — La primera cita
@@ -453,6 +459,8 @@ Ver `novela/04-vol2-esbozo.md`.
 4. **La verdad de Hina.** Le cuenta lo de la panadería. Le dice que no cree en el amor. Le dice que él le cae bien, «pero no así». La cámara lo capta todo. El productor sonríe: es mejor que el guion.
 5. **La sala de control.** Chizuru mira. El productor le pregunta: «¿Cómo va la química?» Ella contesta profesionalmente. Luego va al baño y se agarra del lavabo. No llora. Eso es peor.
 6. **El beso.** Al final de la cita, Hina se acerca. No es guion. Es ella. Lo besa. Es el primer beso de la vida de Jesús, y ocurre frente a cuatro cámaras. Él siente el lente antes que los labios. El productor dice: «Perfecto.» Chizuru ya se fue.
+
+   > ⚠️ **Choque de canon, pendiente de decisión.** El cap. 10 se sostiene sobre que Hina revela en vivo que Jesús nunca había besado a nadie antes de esa noche («Se le notó»). Si este beso existe, el cap. 10 deja de funcionar. La salida más limpia es convertir este beat en un **casi**: la cita termina, Hina se acerca, y algo la detiene (el pinganillo, una camarógrafa, el valor que se le acaba). El cap. 10 sería entonces el primer beso real de los dos, no solo el de él. Se decide al escribir el cap. 8.
 7. **Cierre.** Kenjiro, en la sala de control, mira la toma repetida. Dice: «Ese es mi hijo.» No se sabe si es orgullo o evaluación.
 
 **Dispositivo estructural:** **todo el capítulo es lo que ven los monitores**. No hay 1.ª persona. No hay interioridad de Jesús. Solo imágenes, órdenes y reacciones. La única Interioridad que se filtra es la de Chizuru, y solo a través de su cuerpo. El lector se convierte en un productor más. Es incómodo a propósito.

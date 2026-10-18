@@ -36,7 +36,7 @@ Lo que está en el póster es canon. Esta sección existe para que la prosa no l
 >
 > **Consecuencia de escritura:** el dije hereda las reglas del objeto sagrado. Nunca es chiste, nunca es ecchi, nunca se convierte en merch del programa, nunca se lo quita nadie en una escena de desnudo o de humillación. Si el programa lo usa como gancho de producto, es la misma violación que con la playera: el escudo que su padre compró en un tianguis de Guadalajara convertido en logo de temporada.
 
-◆ **El rubio, ¿natural o de tinte?** Mi propuesta: **de tinte**, sobre su negro natural, y que el negro se le vea en los lados rapados. Así el personaje carga su propia contradicción en la cabeza: se tiñó a los 15, en Guadalajara, para parecerse a su madre en las telenovelas. En Tokio el tinte cambió de significado sin que él lo pidiera: ahora lo hace ver más extranjero, y la industria se lo cobra como valor de cartel. **Sujeto a tu decisión.**
+**El rubio: de tinte.** (Canon cerrado el 18/10/2026.) Su pelo natural es negro. Se lo tiñó a los 15, en Guadalajara, mirando a su madre en *Corazón de Azúcar*: quería el pelo claro de las protagonistas. Sobre el negro natural, los lados y la nuca rapados se le ven negros, y por eso el corte carga la contradicción a la vista: arriba el rubio que se puso, abajo el negro que trae. En Tokio el tinte cambió de significado sin que él lo pidiera: ahora lo hace ver más extranjero y la industria se lo cobra como valor de cartel. En doce semanas de reality, sin espejos en la casa, la raíz le va a ir ganando la cabeza frente a las cámaras.
 
 ◆ **Regla de escritura del aspecto:** no se describe a Jesús en bloque. Se usa en tres formas, y ninguna es un retrato:
 
