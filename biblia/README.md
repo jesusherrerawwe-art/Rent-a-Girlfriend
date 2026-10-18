@@ -6,7 +6,7 @@ Documentación de referencia del universo de *Rent a Girlfriend* (彼女、お�
 
 1. [Historia detrás del anime (producción)](01-historia-produccion.md) ✅
 2. [Temporada I — resumen por episodio con spoilers](02-temporada-i.md) ✅
-3. Temporada II — resumen por episodio (⏳ pendiente)
+3. [Temporada II — resumen por episodio con spoilers](03-temporada-ii.md) ✅
 4. Temporadas III–VI — resúmenes por episodio (⏳ pendiente)
 5. Personajes principales (⏳ pendiente)
 6. Personajes secundarios (⏳ pendiente)
