@@ -34,8 +34,8 @@
 ## 4. La música (la firma sonora de la serie)
 
 - **El BGM lo compone ヒャダイン (Hyadain)** — elegido por el director Koga, fan confeso, con una idea precisa: *"en la era del streaming, donde casi todos ven con audífonos, quise un sonido pegajoso que se quede en el oído de esa generación"* (Animate Times, entrevista a Koga).
-- **Hyadain, agente doble:** la T1 terminaba con el ED 「告白バンジージャンプ」 (halca)... **escrito y compuesto por 前山田健一 — el nombre real de Hyadain**. El mismo cerebro musical detrás del BGM y del ED.
-- **halca, la voz del "satisfacción":** cantó el ED de la T1, el ED especial de Ruka del ep. 7 (que convirtió el capítulo 28 del manga en un video musical completo — Miyajima: *"el poder de la música, algo que el manga jamás puede usar"*) y luego el OP de la T3 (「ミライカナイ」, compuesto por Yūho Kitazawa de the peggies).
+- **Hyadain, agente doble:** la T1 terminaba con el ED 「告白バンジージャンプ」 (halca)... **escrito y compuesto por 前山田健一 — el nombre real de Hyadain**. El mismo cerebro musical detrás del BGM y del ED — y también de 「Favorite Lover」, el inserto del ep. 24 de la T2 cantado a cuatro voces por las chicas, con letra del propio Miyajima.
+- **halca, la voz del "satisfacción":** cantó el ED de la T1, el ED especial de Ruka del ep. 7 (que convirtió el capítulo 28 del manga en un video musical completo — Miyajima: *"el poder de la música, algo que el manga jamás puede usar"*) y luego el OP de la T3 (「恋愛ミリフィルム」, compuesto por Yūho Kitazawa de the peggies).
 - **Los OP/ED como linaje:** the peggies (T1), CHiCO with HoneyWorks (T2), halca (T3), ClariS (T4), y para la T5 el ED 「204号室」 de なきごと — **titulado como el cuarto de Chizuru (el 204)**, la habitación vecina a la de Kazuya que el terremoto dejó inhabitable.
 - **La canción que llora:** en el ep. 52 de la T5, 「204号室」 se usó insertada en plena exposición de la verdad, con el ED cambiado a 「ぼくのベガ (Acoustic ver.)」 de リーガルリリー.
 
