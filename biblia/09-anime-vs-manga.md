@@ -4,7 +4,9 @@
 >
 > かのかり es de las adaptaciones más fieles de su generación — el propio autor 宮島礼吏 calificó la T1 como *"これ以上ない12話"* ("no pudieron existir mejores 12 episodios") — pero anime y manga son dos medios con gramáticas distintas, y la obra los aprovecha a los dos. Esta sección documenta: el mapa de cobertura (qué tomos adapta cada temporada), las reglas de adaptación que el autor le pidió al estudio, lo que el anime agrega (música, voz, animación) y lo que el manga tiene que el anime aún no.
 >
-> **Estado de ambos medios (octubre 2026):** el manga va por el capítulo **満足度443 「前日と彼女」** (Shūkan Shōnen Magazine 2026年45号, 47 tomos, **16 millones de ejemplares**); el anime terminó la T5 en el episodio **満足度60**, que equivale al manga alrededor del **capítulo 255 (tomo 29)**. El anime está **~190 capítulos atrás** del manga.
+> **Estado de ambos medios (corte: 18 de octubre de 2026):** el manga va por el capítulo **満足度444 「ラーメンと彼女①」** (Shūkan Shōnen Magazine, 47 tomos, **16 millones de ejemplares**); el anime terminó la T5 en el episodio **満足度60**, que equivale al manga alrededor del **capítulo 257 (tomo 30)**. El anime está **~187 capítulos atrás** del manga.
+>
+> *Nota de método: los rangos de capítulo son reconstrucciones a partir de guías japonesas que no siempre coinciden entre sí; los anclajes duros (T2 = 103, T3 = 104-167, T4 = 168 en adelante) están verificados con varias fuentes y se citan abajo.*
 
 ---
 
@@ -12,7 +14,7 @@
 
 Ambos medios numeran sus unidades con **満足度** ("grado de satisfacción", como si cada historia fuera una reseña de rental girlfriend), y ambos titulan con el formato 「〇〇と彼女 -○○カノ-」. PERO:
 
-- **Manga:** 満足度1-443 (octubre de 2026), un capítulo semanal en 週刊少年マガジン.
+- **Manga:** 満足度1-444 (octubre de 2026), un capítulo semanal en 週刊少年マガジン.
 - **Anime:** 満足度1-60, **su propio conteo de episodios** que NO coincide con los números de capítulo del manga.
 
 **La regla de correspondencia:** el título de cada episodio del anime **es el título del bloque de capítulos del manga que adapta**. Ejemplos verificados:
@@ -27,16 +29,16 @@ Así, "el episodio 39" y "el capítulo 39" son cosas completamente distintas —
 
 | Temporada | Episodios | Manga adaptado (aprox.) | Tomos | Ritmo |
 |---|---|---|---|---|
-| T1 (2020) | 1-12 | cap. 1 → ~50 | 1-7 | ~4 capítulos/episodio |
-| T2 (2022) | 13-24 | cap. ~51 → ~96 | 7-12 | ~3.8 |
-| T3 (2023) | 25-36 | cap. ~97 → ~167 | 13-20 | ~5.8 (la más comprimida) |
-| T4 (2025) | 37-48 | cap. ~168 → ~212 | 20-25 | ~3.7 |
-| T5 (2026) | 49-60 | cap. ~213 → ~255 | 26-29 | ~3.5 |
-| **T6 (同棲編, por emitir)** | 61-? | cap. ~256 (tomo 30) → ? | 30+ | ? |
+| T1 (2020) | 1-12 | cap. 1 → ~50 | 1-7 | ~4.2 capítulos/episodio |
+| T2 (2022) | 13-24 | cap. ~51 → **103** | 7-12 | ~4.4 |
+| T3 (2023) | 25-36 | cap. **104 → 167** | 13-20 | ~5.3 (la más comprimida) |
+| T4 (2025) | 37-48 | cap. **168** → ~211-214 | 20-25 | ~3.7 |
+| T5 (2026) | 49-60 | cap. ~212-215 → ~257 | 25-30 | ~3.7 |
+| **T6 (同棲編, por emitir)** | 61-? | cap. **~258 (tomo 30)** → ? | 30+ | ? |
 
-*Los rangos de capítulo son reconstrucciones aproximadas (las guías japonesas de correspondencia difieren en el detalle; los anclajes duros verificados son los citados en la sección 1, más el dato de la T4: su episodio final corresponde a los alrededores del cap. 212, tomo 25).*
+*Los rangos de capítulo son reconstrucciones aproximadas: las guías japonesas de correspondencia difieren en el detalle (para el final de la T4, unas señalan el cap. 211 y otras el 214; para el arranque de la T5, unas el 212 y otras el 215). Anclajes duros y verificados: la T2 cierra en el cap. 103 (tomo 12) y la T3 abre en el 104 (tomo 13); la T3 cierra en el 167 (tomo 20) y la T4 abre en el 168 (el tomo 20 contiene, por tanto, el cierre de una temporada y la apertura de la siguiente: no es un error). La T5 cierra el arco ハワイアンズ (cap. 231, tomo 27) y sigue con los arcos posteriores (duelo, San Valentín, lavandería, casa Ichinose, terremoto y mudanza, izakaya) hasta ~257 (tomo 30), donde arranca la T6.*
 
-**La lectura interesante del cuadro:** el arco Hawaiians (T4+T5) recibió **24 episodios** para unos ~45 capítulos — el punto donde TMS desaceleró deliberadamente para no recortar el clímax de la obra, exactamente lo contrario de la T3, que comprimió todo el arco de la película (crowdfunding, rodaje, muerte de Sayuri y duelo) en 12 episodios.
+**La lectura interesante del cuadro:** el arco Hawaiians (T4+T5) recibió **24 episodios** para unos 64 capítulos (los 168-231), con un ritmo muy pausado en la segunda mitad para no recortar el clímax de la obra — exactamente lo contrario de la T3, que comprimió todo el arco de la película (crowdfunding, rodaje, muerte de Sayuri y duelo) en 12 episodios y unos 64 capítulos.
 
 ## 3. Las dos reglas que el autor le pidió al estudio
 
@@ -67,7 +69,7 @@ Es un caso poco común de canon circular: el anime se hizo fiel al manga, y el m
 
 ## 6. Lo que el manga tiene y el anime (todavía) no
 
-- **~190 capítulos de ventaja.** El manga (満足度443) ya pasó el arco 同棲編 (convivencia) que será la T6 y sigue avanzando; el anime recién llega al umbral (ep. 60 de la T5 = ~cap. 255). Quien lea el manga desde el tomo 30 conoce el "futuro" de la serie respecto al anime.
+- **~187 capítulos de ventaja.** El manga (満足度444) ya pasó el arco 同棲編 (convivencia) que será la T6 y sigue avanzando; el anime recién llega al umbral (ep. 60 de la T5 ≈ cap. 257). Quien lea el manga desde el tomo 30 conoce el "futuro" de la serie respecto al anime.
 - **Los 番外編 (capítulos extra):** el manga intercala capítulos especiales numerados dentro del 満足度 (p. ej., 満足度54 「番外編 桜沢墨かんさつにっき」, el diario de observación de Sumi, tomo 7) que el anime integra de forma parcial o reparte en temporadas.
 - **El one-shot de colaboración con Nakano (Nagano):** 「彼女、お借りします～長野県中野市番外編『宮島と彼女』～」, el manga corto oficial dibujado para el proyecto de turismo de la ciudad natal del autor (el "なかのかのかり祭" de diciembre de 2024, con proyección animada del one-shot).
 - **El spin-off de Sumi:** 「彼女、人見知ります」 (Kanojo, Hitomishirimasu), serie propia en la app マガポケ — sin adaptación al anime.
@@ -84,8 +86,8 @@ La **adaptación dramática de TV Asahi (2022)** sí introdujo cambios propios: 
 
 ## 9. Guía práctica para el fanfic
 
-1. **Canon de referencia de esta biblia:** el **anime hasta la T5** (que equivale al manga ~cap. 255) + el manga como "futuro oficial".
-2. Si el fanfic se sitúa **después de la T5**, el material de referencia inevitable es el manga desde el **tomo 30 (cap. ~256 en adelante)**: el arco 同棲編 que la T6 adaptará.
+1. **Canon de referencia de esta biblia:** el **anime hasta la T5** (que equivale al manga ~cap. 257) + el manga como "futuro oficial".
+2. Si el fanfic se sitúa **después de la T5**, el material de referencia inevitable es el manga desde el **tomo 30 (cap. ~258 en adelante)**: el arco 同棲編 que la T6 adaptará.
 3. El tono de Chizuru: mantener el "dere" racionado — la regla del autor es canon de carácter, no solo de producción.
 4. Los números: si se citan capítulos/episodios, recordar que **満足度 del anime ≠ 満足度 del manga** (la tabla de la sección 2 es la brújola).
 5. Las voces del anime son canon aprobado por Miyajima — los "así diría él/ella" del fanfic pueden apoyarse en las interpretaciones de los CV.
@@ -95,12 +97,12 @@ La **adaptación dramática de TV Asahi (2022)** sí introdujo cambios propios: 
 ## Fuentes (主な出典 / fuentes principales, en japonés)
 
 1. Animate Times — entrevista a Miyajima Reiji (2020-10-10): las dos peticiones al staff, el ED especial de Ruka (ep. 7), "no pudieron existir mejores 12 episodios", el feedback de las voces, T1 drama vs T2 personajes: https://www.animatetimes.com/news/details.php?id=1601576040&p=2
-2. Wikipedia japonesa — 彼女、お借りします: manga en 満足度443 (2026年45号) y 16 millones de ejemplares; anclajes de capítulos citados con tomo y 満足度 (28, 66-69, 77, 92, 245-247, 249); peticiones del autor al staff; efecto del anime en las ventas del manga (3M → 5M en 2020): https://ja.wikipedia.org/wiki/彼女、お借りします
+2. Wikipedia japonesa — 彼女、お借りします: manga en 満足度444 (2026年, 47 tomos) y 16 millones de ejemplares; anclajes de capítulos citados con tomo y 満足度 (28, 66-69, 77, 92, 245-247, 249); peticiones del autor al staff; efecto del anime en las ventas del manga (3M → 5M en 2020): https://ja.wikipedia.org/wiki/彼女、お借りします
 3. Real Sound — 「『彼女、お借りします』から見える、アニメと原作の相乗効果」 (2020-08-28): el análisis del efecto sinérgico anime-manga y la multiplicación x10 de las ventas del tomo 1: https://realsound.jp/movie/2020/08/post-609003.html
-4. Guías japonesas de correspondencia anime-manga (cálculos aproximados de fans, citadas como estimaciones): Yahoo!知恵袋 (T4 ep. 12 ≈ tomo 25, cap. 212), putirafa.com (T4: tomos 20-25; T5: tomos 26-29), anisaki.hatenadiary.com (T5 final ≈ cap. 255; T6 desde el tomo 30)
+4. Guías japonesas de correspondencia anime-manga (citadas como estimaciones; entre sí no coinciden en el detalle): coolbee1.com (T2 = 12 tomos/103 caps; T3 = 104-167; T4 abre en 168), originalworks.jp (T4 ≈ 168-214; T5 = 215 en adelante; T6 desde el tomo 30), multi-shumi-blog.com (T3 final ≈ cap. 240) y anichoice.com (arco Hawaiians = caps. 168-231)
 5. Yomiuri Shimbun Online — el 番外編 de Nakano y el なかのかのかり祭 (2024-12-08): https://www.yomiuri.co.jp/culture/subcul/20241205-OYT1T50278/
 6. Secciones 2-8 de esta biblia (resúmenes verificados por episodio, base para el mapa de cobertura).
-7. Manga original — 宮島礼吏 「彼女、お借りします」, Kodansha, 週刊少年マガジン: 47 tomos (agosto de 2026), cap. 満足度443 en curso (2026年45号).
+7. Manga original — 宮島礼吏 「彼女、お借りします」, Kodansha, 週刊少年マガジン: 47 tomos (agosto de 2026); cap. 満足度444 「ラーメンと彼女①」 en curso (octubre de 2026).
 
 ---
 

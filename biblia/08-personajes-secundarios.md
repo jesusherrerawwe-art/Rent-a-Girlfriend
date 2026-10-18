@@ -184,7 +184,8 @@ La agencia donde Ruka **trabajaba** (modo rental 更科るか). Poco mostrada en
 |---|---|---|
 | **Mini** | Todo (rental, mentira familiar, sentimientos del 203) | Grabó la conversación Ruka-Chizuru (T3, ep. 26) |
 | **Mami** | Todo + el crowdfunding + el anillo de Harumi | Investigación propia desde la T1 |
-| **Kuribayashi** | Chizuru es rental; Ruka era rental | El double date (T1) y el "date de recepción" (T2) |
+| **Kuribayashi** | Ruka era rental (no que Chizuru lo fuera) | El double date con Ruka (T1) — la descubre al verla trabajar |
+| **Kuribayashi** | Chizuru es rental | El "date de recepción" (T2) — Kazuya le renta a Chizuru para consolarlo |
 | **Kibe** | La verdad explotada de Hawaiians | Fue testigo en la T5 (ep. 51) |
 | **Sayuri** | **Nunca supo la verdad** — murió creyendo el amor real | — |
 | **Kazuo (padre)** | Vio el intercambio de dinero | 満足度55; lo confesó públicamente en T5 ep. 51 |

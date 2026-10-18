@@ -95,7 +95,7 @@
 | Altura | **153 cm** (pequeña... y 悪戦苦闘 contra su volumen pectoral, dato oficial del manga) |
 | Marca registrada | Cabello corto con listón (リボン) |
 | Agencia | **Maple (メイプル)** — nombre de rental: 更科るか (misma lectura) |
-| Condición médica | **bradicardia congénita (徐脈): ~60 pulsaciones por minuto** |
+| Condición médica | **bradicardia congénita (先天性の徐脈)**: en reposo ronda las **60 pulsaciones por minuto** (por debajo del rango normal de 60-100). Su reloj/celular muestra el número en pantalla cuando se emociona: en el canon sube a ~90 con Kazuya |
 
 **Quién es:** la "妹系アイドル彼女" (novia idol de estilo hermanita menor) súper agresiva del bio oficial. Su condición cardíaca le negó toda la vida los dokidoki normales (mareos y falta de aire de niña al emocionarse), así que buscó trabajo de rental girlfriend **para experimentar el corazón acelerado** — y cuando encontró a Kazuya (un cliente que trataba a una rental como oro), decidió que él era "el que le hace dokidoki" y no lo soltó más.
 

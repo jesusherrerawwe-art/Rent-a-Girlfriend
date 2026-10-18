@@ -2,13 +2,13 @@
 
 > **Biblia del universo de Rent a Girlfriend (かのかり) — Documento de referencia para el proyecto "The Jesús Fujioka Story"**
 >
-> Emitida del **11 de abril al 27 de junio de 2026** (viernes 2:23 a.m., "アニメイズム" de MBS/TBS/BS-TBS). 12 episodios (**満足度49 a 60**). Es la **segunda mitad del arco ハワイアンズ編** anunciado como split 2-cour desde la T4: la primera mitad cerró con la confesión en la capilla; esta la responde... y detona todo.
+> Emitida del **11 de abril al 27 de junio de 2026** (madrugada del viernes, 2:23 a.m.; en fecha calendario, sábado, "アニメイズム" de MBS/TBS/CBC). 12 episodios (**満足度49 a 60**). Cubre los tomos **25 a 30** (caps. ~212-257): el cierre del arco ハワイアンズ編 (cap. 231) y los arcos posteriores —el duelo, San Valentín, la lavandería, la casa Ichinose, el terremoto y la mudanza— hasta el izakaya del episodio 60. Es la **segunda mitad del arco ハワイアンズ編** anunciado como split 2-cour desde la T4: la primera mitad cerró con la confesión en la capilla; esta la responde... y detona todo.
 >
 > **Música:**
 > - OP: 「ノンシナリオ・エチュード」 (Non-Scenario Étude) de **雨宮天 (Amamiya Sora)** — detalle histórico: la voz de Chizuru canta el opening de su propia temporada, con **letra y música de su autoría** (arreglos de Toshima Yūsuke y Kawashima Akihiro).
 > - ED: 「204号室」 (Habitación 204) del grupo **なきごと (Nakigoto)** — el título es el guiño perfecto: **204 es el número del cuarto de Chizuru**, la vecina del 203 de Kazuya. En el episodio 52 se usó como canción insertada, y el ED de ese episodio fue 「ぼくのベガ（Acoustic ver.）」 de リーガルリリー.
 >
-> **Staff sin cambios:** dirección Koga Kazuomi, composición Hirota Mitsutaka, diseño de personajes Hirayama Kanna, música Hyadain, animación TMS Entertainment.
+> **Staff:** dirección Koga Kazuomi, composición Hirota Mitsutaka, diseño de personajes Hirayama Kanna, música Hyadain, animación TMS Entertainment (6.º estudio).
 >
 > **Anuncio de continuación:** al terminar el episodio 60 se confirmó la **6.ª temporada (同棲編, arco de convivencia)** — "TVアニメ6期制作決定！".
 

@@ -2,13 +2,13 @@
 
 > **Biblia del universo de Rent a Girlfriend (かのかり) — Documento de referencia para el proyecto "The Jesús Fujioka Story"**
 >
-> Emitida del **5 de julio al 20 de septiembre de 2025** (viernes 2:23 a.m.) en el bloque アニメイズム de MBS/TBS. 12 episodios (**満足度37 a 48**, la numeración global continúa). Primer cour del arco ハワイアンズ編, anunciado como **分割2クール** (split 2-cour): la segunda mitad se emitió como **5.ª temporada en 2026**.
+> Emitida del **5 de julio al 20 de septiembre de 2025** (madrugada del viernes, 2:23 a.m.; en fecha calendario, sábado) en el bloque アニメイズム de MBS/TBS. 12 episodios (**満足度37 a 48**, la numeración global continúa). Primer cour del arco ハワイアンズ編, anunciado como **分割2クール** (split 2-cour): la segunda mitad se emitió como **5.ª temporada en 2026**.
 >
 > **Streaming:** desde el 1 de julio de 2025, DMM TV y dアニメストア la estrenaron 3 días antes que la TV terrestre (los martes 22:00).
 >
 > **Música:** OP 「Umitsuki」 de ClariS; ED 「ぼくのベガ」 (Boku no Vega) de リーガルリリー (Legal Lilly).
 >
-> **Staff principal sin cambios:** dirección Koga Kazuomi, composición de serie Hirota Mitsutaka, diseño de personajes Hirayama Kanna, música Hyadain, animación TMS Entertainment (トムス・エンタテインメント).
+> **Staff principal:** dirección **Koga Kazuomi** (regresa tras la T3 de Une Nobuya), composición de serie Hirota Mitsutaka, diseño de personajes Hirayama Kanna, música Hyadain, animación TMS Entertainment (トムス・エンタテインメント).
 >
 > **Dato de producción:** el スパリゾートハワイアンズ que da nombre al arco **existe de verdad** (Iwaki, Fukushima) y colaboró en la producción; entre septiembre y noviembre de 2025 se hizo un evento oficial de colaboración en el parque real.
 

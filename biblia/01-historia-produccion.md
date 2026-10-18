@@ -57,11 +57,11 @@ Dato poco conocido: la 1.ª temporada **iba a emitirse en el bloque アニメイ
 
 ### 3.3 El equipo
 
-- **Estudio**: **TMS Entertainment (トムス・エンタテインメント)**, en su 6.º estudio de animación, con **Studio Comet (スタジオコメット)** como cooperación de animación. Es el mismo trío estudio/departamento en TODAS las temporadas (1 a 5).
-- **Director**: **Koga Kazuomi (古賀一臣)**. Llegó al proyecto por su relación de trabajo previa con el productor de TMS **Yamakawa Tsuyoshi**. Del desarrollo dijo sin rodeos: *"¿Dificultades? Ninguna. No, en serio, ninguna (risas)"* — una producción inusualmente fluida.
-- **Guion/serie**: **Hirota Mitsutaka (広田光毅)**.
-- **Diseño de personajes**: **Hirayama Hiyori (平山寛菜)**, animadora de TMS que **pidió ella misma entrar al concurso de diseños**; su propuesta gustó tanto a Miyajima que ganó el puesto a la primera. El autor la elogió en 2020: *"ya era muy buena, pero se está volviendo todavía mejor con cada episodio"*.
-- **Música**: **Hyadain (ヒャダイン / Maeyada Ken'ichi, 前田健一)**. Koga lo eligió pensando en la era del streaming: *"casi todos ven anime con audífonos; quería un sonido pegajoso que se les quedara en el oído"*. El ofrecimiento se canalizó a través de **DMM**, la productora del comité.
+- **Estudio**: **TMS Entertainment (トムス・エンタテインメント)**, en su 6.º estudio de animación, en las cinco temporadas. **Studio Comet (スタジオコメット)** aparece como cooperación de animación en T1 y T3 (verificar créditos finos de T2, T4 y T5).
+- **Director**: **Koga Kazuomi (古賀一臣)** en T1, T2, T4 y T5; **Une Nobuya (宇根信也)** dirigió la **T3 (2023)**. Koga regresó para la T4. Llegó al proyecto por su relación de trabajo previa con el productor de TMS **Yamakawa Tsuyoshi**. Del desarrollo de la T1 dijo sin rodeos: *"¿Dificultades? Ninguna. No, en serio, ninguna (risas)"* — una producción inusualmente fluida.
+- **Guion/serie**: **Hirota Mitsutaka (広田光毅)** en las cinco temporadas.
+- **Diseño de personajes**: **Hirayama Kanna (平山寛菜)**, animadora de TMS que **pidió ella misma entrar al concurso de diseños**; su propuesta gustó tanto a Miyajima que ganó el puesto a la primera. El autor la elogió en 2020: *"ya era muy buena, pero se está volviendo todavía mejor con cada episodio"*.
+- **Música**: **Hyadain (ヒャダイン / Maeyada Ken'ichi, 前山田健一)** como compositor principal; la ficha de staff de la T3 suma a **Itagaki Yūsuke (板垣祐介)**, **Otake Tomoyuki (大竹智之)** y **Tsukada Tadaaki (塚田忠昭)**. Koga lo eligió pensando en la era del streaming: *"casi todos ven anime con audífonos; quería un sonido pegajoso que se les quedara en el oído"*. El ofrecimiento se canalizó a través de **DMM**, la productora del comité.
 
 ### 3.4 Las dos peticiones del autor
 
@@ -80,14 +80,14 @@ Koga declaró que el gran deseo del lado del cliente era **"que salieran las cua
 
 ## 4. Las temporadas: línea de tiempo completa
 
-| Temporada | Emisión (Japón) | Episodios | Bloque TV | Arco |
-|---|---|---|---|---|
-| **1.ª** | 10 jul – 25 sep **2020** | 12 | スーパーアニメイズム | Presentación y "novia prestada" |
-| **2.ª** | 2 jul – 17 sep **2022** | 12 | スーパーアニメイズム | La falsa doble vida se complica |
-| **3.ª** | 8 jul – 30 sep **2023** | 12 | スーパーアニメイズム | Elrodaje de la película y el cumpleaños |
-| **4.ª** | 5 jul – 20 sep **2025** | 12 | アニメイズム B2 | **ハワイアンズ編** (1.er cour, emitido en 2 cours divididos) |
-| **5.ª** | 11 abr – 27 jun **2026** | 12 | アニメイズム | **ハワイアンズ編** (2.º cour) |
-| **6.ª** | **Confirmada, en producción** | — | — | **同棲編** (arco de la convivencia) |
+| Temporada | Emisión (Japón) | Episodios | Bloque TV | Dirección | Arco |
+|---|---|---|---|---|---|
+| **1.ª** | 10 jul – 25 sep **2020** | 12 | スーパーアニメイズム | Koga Kazuomi | Presentación y "novia prestada" |
+| **2.ª** | 2 jul – 17 sep **2022** | 12 | スーパーアニメイズム | Koga Kazuomi | La falsa doble vida se complica |
+| **3.ª** | 8 jul – 30 sep **2023** | 12 | スーパーアニメイズム | **Une Nobuya** | El rodaje de la película y el cumpleaños |
+| **4.ª** | 5 jul – 20 sep **2025** | 12 | アニメイズム B2 | Koga Kazuomi | **ハワイアンズ編** (1.er cour, emitido en 2 cours divididos) |
+| **5.ª** | 11 abr – 27 jun **2026** | 12 | アニメイズム | Koga Kazuomi | **ハワイアンズ編** (2.º cour) |
+| **6.ª** | **Confirmada, en producción** | — | — | — | **同棲編** (arco de la convivencia) |
 
 > Con 5 temporadas emitidas son **60 episodios**, más el mini-anime ぷち por temporada.
 
