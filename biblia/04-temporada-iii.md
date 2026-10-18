@@ -2,7 +2,7 @@
 
 > **Biblia del universo de Rent a Girlfriend (かのかり) — Documento de referencia para el proyecto "The Jesús Fujioka Story"**
 >
-> Emitida del **8 de julio al 30 de septiembre de 2023** (estreno la madrugada del viernes 7 a la 1:23) en el bloque スーパーアニメイズム (MBS/TBS, red nacional de 28 estaciones). 12 episodios (**満足度25 a 36**). Cubre aproximadamente los tomos 15 a 21 del manga: el arco completo de la película.
+> Emitida del **8 de julio al 30 de septiembre de 2023** (estreno la madrugada del viernes 7 a la 1:23) en el bloque スーパーアニメイズム (MBS/TBS, red nacional de 28 estaciones). 12 episodios (**満足度25 a 36**). Cubre aproximadamente los tomos 13 a 20 del manga (caps. ~97-167): el arco completo de la película.
 >
 > **Música:** OP 「恋愛ミリフィルム」 (Ren'ai Mirifirumu, "Milifotos del amor") de halca; ED 「エンドロール」 (End Roll) de Amber's. En los episodios 32 y 33 el ending cambió a la versión **「エンドロール (Ballad Version)」** — la banda sonora se apagó para acompañar el episodio más triste de la serie.
 >
