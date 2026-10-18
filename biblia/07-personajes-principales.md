@@ -169,7 +169,7 @@
                                   
   Familia Kinoshita: abuela 和 (Nagomi) — corazón moral; Kazuo (padre, vio el pago); Harumi (madre, el anillo)
   Familia Ichinose: Sayuri (abuela, fallecida en T3) — el origen del sueño de Chizuru
-  Apartamento: 202 Mini · 203 Chizuru · 204 Kazuya
+  Apartamento: 202 Mini · 203 Kazuya · 204 Chizuru
 ```
 
 **Quién sabe qué (la tabla del secreto, al final de la T5):** la verdad de la relación rental ya es **pública** (explotó en Hawaiians ante la familia y amigos). Persisten como secretos menores: lo que exactamente siente Chizuru (ni ella tiene "nombre" para eso), lo que pasó en la capilla (la confesión y su respuesta), y lo que Chizuru le susurró/miró al Kazuya dormido en el final de la T5.
@@ -180,7 +180,7 @@
 
 - **Jerarquía de información:** en una escena con varios protagonistas, siempre preguntar quién sabe qué: Mami sabe todo (y lo usa), Mini sabe casi todo (y lo protege), Ruka sabe lo que Mami le filtró, Sumi no sabe nada de la mentira familiar, la familia supo todo en la T5.
 - **Registro del habla:** Kazuya monologa en voz alta; Chizuru alterna registros completos (modos Mizuhara/Ichinose/actriz); Ruka ataca en ráfagas; Sumi casi no habla (gestos, cuadernos, silencios elocuentes); Mini usa jerga de internet y "-ssu"; Mami tiene doble discurso (público dulce / cuenta secreta venenosa).
-- **Props con historia:** el pez pulmonado de Kazuya; el listón de Ruka; el álbum de fotos Ichinose; los boletos de teatro de Chizuru; el cuarto 204 (ahora en zona prohibida tras el terremoto).
+- **Props con historia:** el pez pulmonado de Kazuya; el listón de Ruka; el álbum de fotos Ichinose; los boletos de teatro de Chizuru; el edificio Royal Hills con sus tres cuartos (202-203-204), hoy en zona prohibida tras el terremoto.
 - **Los cumpleaños canónicos** (para fechas de capítulos): Kazuya 1/6, Chizuru 19/4, Mami 13/11, Ruka 26/8, Sumi 20/3, Mini 8/4.
 
 ---
