@@ -4,7 +4,7 @@
 **Serie:** *The Jesús Fujioka Story*
 **Volumen:** 1 de 2 (la obra queda abierta a un Vol. 3)
 **Formato:** novela ligera · 13 capítulos · ~67,600 palabras objetivo
-**Estado:** en curso. Prólogo y capítulo 1 entregados el 18/10/2026.
+**Estado:** en curso. Prólogo, capítulo 1 y capítulo 2 entregados el 18/10/2026.
 
 ---
 
@@ -14,7 +14,7 @@
 |---|---|---|---|
 | [`00-prologo.md`](00-prologo.md) | Portadilla, epígrafe y prólogo | 720 | ✅ Entregado |
 | [`01-el-hijo-del-director.md`](01-el-hijo-del-director.md) | Capítulo 1 | 5,937 | ✅ Entregado |
-| `02-noventa-minutos.md` | Capítulo 2 | — | ⏳ Pendiente |
+| [`02-noventa-minutos.md`](02-noventa-minutos.md) | Capítulo 2 | 5,260 | ✅ Entregado |
 | `03-lo-que-se-dice-en-confianza.md` | Capítulo 3 | — | ⏳ Pendiente |
 | `04-el-ensayo.md` | Capítulo 4 | — | ⏳ Pendiente |
 | `05-la-audicion.md` | Capítulo 5 | — | ⏳ Pendiente |
@@ -27,8 +27,8 @@
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 6,657 palabras (prólogo + cap. 1).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,937; no es un problema, mientras el volumen no se desborde.
+**Total entregado:** 11,917 palabras (prólogo + caps. 1 y 2).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,937 y el cap. 2 a 5,260; no es un problema, mientras el volumen no se desborde.
 
 ---
 
@@ -61,7 +61,15 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 | **Mami** | Lo dejó hace un año, sin explicación. Karaoke en Shibuya: le tomó la mano cuatro minutos y luego lo bloqueó. | Cap. 1, plan §7 |
 | **Playera** | Réplica pirata de las Chivas, comprada en 2014 en el tianguis del Estadio Akron. Mancha de café de olla de 2015. En 2026 le queda bien. | Ficha §6.1, plan §3.3 |
 | **Objetos** | Foto de Laura, Sergio y Jesús (Kenjiro no aparece porque la tomó él). Cajón con 41 notas. Carpeta negra del programa. Tarjeta de Diamond. | Cap. 1 |
-| **Diamond** | Tarjeta negra con letras doradas. Kibe la consiguió de su primo. Reglas: pagas por tiempo, no por sexo; no preguntas el nombre real; no hay contacto fuera de la cita; no hay fotos; no hay contacto físico; no te enamoras. | Cap. 1, biblia §10 |
+| **Diamond** | Tarjeta negra con letras doradas. Kibe la consiguió de su primo. Reglas: no romance; no contacto fuera de la cita; el cliente no pregunta nombre real, dirección, escuela ni historia amorosa (la cast sí puede preguntar); no se toca; no fotos; nada de playa, alberca ni onsen; no espacios cerrados; todo es tiempo. Cláusula 8: la cast puede terminar antes; el cliente paga completo. | Cap. 2, biblia §10 |
+| **Tarifa** | Fresh: 5,000 ¥/hora. Primera cita: 90 minutos de prueba = 7,500 ¥ + 3,000 ¥ de traslado = 10,500 ¥, más consumo. Después: bloques de 2 horas. | Cap. 2, biblia §10 |
+| **Chizuru** | 19 años (cumple 19/4), 162.5 cm, 練馬大学 Literatura, mismo año que Jesús. Agencia Diamond, No. 1 de Fresh: 51 citas, 51 reseñas, todas de 5 estrellas. Nombre real 一ノ瀬ちづる (secreto). Vive en el 204, al lado de Jesús; él aún no lo sabe. | Biblia §7, cap. 2 |
+| **Primera cita** | Miércoles siguiente al cap. 1, 19:00, Kissaten Aoi (Shibuya). Termina a los 75:12 de los 90 minutos. Chizuru le da 5 estrellas; la app cobra los 90. | Cap. 2 |
+| **Cuaderno de Chizuru** | Negro, pequeño, esquinas gastadas. Anota datos: «Que te gustan las películas malas». Es la semilla de los documentos del cap. 3. | Cap. 2, plan §6 |
+| **Vecina del 204** | La noche de la primera cita, la luz del 204 está encendida; hay zapatos pequeños, un paquete y una planta. Jesús no conecta. | Cap. 2 |
+| **Calificación de Jesús** | 5.0 como cliente tras las primeras citas. Las reseñas de Chizuru no llevan texto, solo estrellas. | Cap. 2 |
+| **Kibe** | Le advierte del gasto (30,000 ¥ en dos semanas). Su mamá remodela la cocina. | Cap. 2 |
+| **Aoki-sensei / Mika** | Ejercicio de «querer irse / querer que se quede» sin palabras. Aoki: «La mitad de actuar es no llenar los silencios». | Cap. 2 |
 | **Última línea del cap. 1** | "Que no sea actriz." | Cap. 1 |
 
 ---
@@ -80,9 +88,9 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 5. Pendientes de continuidad (para no contradecirnos)
 
-- **Cap. 2:** el plan lo titula "Noventa minutos" y habla de una sesión de 90 minutos. La agencia real tiene mínimo de 2 horas; la biblia §10 lo documenta. Decidir si Diamond mantiene el mínimo de 90 minutos (y el título se refiere a otra cosa) o si la sesión es de 2 horas y el título es metafórico. **No afecta al cap. 1.**
-- **Cap. 2:** Chizuru debe entrar sin que Jesús sepa que es su vecina del 204. La nota de la llave en el 204 es la primera semilla.
-- **Cap. 3:** el cuaderno de Chizuru. Confirmar la fecha de la primera cita y el momento en que ella descubre quién es Kenjiro.
+- ✅ **Cap. 2, duración:** resuelto. La primera cita es una prueba de 90 minutos; después, bloques de 2 horas. El título se refiere a la sesión comprada, y el corte a los 75:12 es el primer síntoma de Chizuru.
+- 🟡 **Cap. 2, vecina:** el cap. 2 sembró la luz del 204, los zapatos y la planta. La nota de la llave del cap. 1 sigue pendiente de cobrar sentido.
+- 🟡 **Cap. 3, cuaderno:** ya apareció en el cap. 2. Falta dramatizar el momento en que Chizuru supo quién era Kenjiro (antes de la primera cita) y la página del cuaderno en el cap. 3.
 - **Cap. 4:** la foto de Hina en el sobre de producción. Hina no debe aparecer antes.
 - **Cap. 5:** la audición/prueba de química. Jesús ya está dentro desde el cap. 1; la prueba es de química con el elenco, no de casting.
 - **Caps. 10-11:** los dos besos grabados. La playera oficial y la real deben estar en el set; Kenjiro pisa la oficial en el camerino.
@@ -92,6 +100,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 6. Registro de cambios
 
+- **18/10/2026:** se entrega el cap. 2 «Noventa minutos» (5,260 palabras). Se resuelve la duración de la primera cita: 90 minutos de prueba, bloques de 2 horas después. Se establecen las reglas de Diamond, la tarifa (10,500 ¥ por 90 min), la cláusula 8, el cuaderno de Chizuru y la luz del 204. Se corrige la línea temporal: la clase de Aoki-sensei pasa al jueves, antes de la segunda cita, para que la frase sobre los silencios no se adelante.
 - **18/10/2026:** se crea la carpeta del Vol. 1. Se entregan el prólogo y el capítulo 1. Se corrigen las siguientes inconsistencias en los documentos de trabajo:
   - Laura muere en 2022, a los 14 de Jesús (antes la ficha decía 16).
   - El departamento de Jesús es el 203 (antes la ficha decía 205; la premisa ya decía 203/204).

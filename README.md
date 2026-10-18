@@ -38,7 +38,7 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 >
 > **Distribución:** repo privado, acceso por invitación. Sin publicación pública ni fines comerciales.
 >
-> **Estado:** Vol. 1 en escritura (prólogo y capítulo 1 entregados)
+> **Estado:** Vol. 1 en escritura (prólogo, capítulos 1 y 2 entregados)
 
 ---
 
@@ -56,7 +56,8 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 | Formato y triángulo amoroso | ✅ [`novela/05-formato-y-triangulo.md`](novela/05-formato-y-triangulo.md) |
 | Prólogo del Vol. 1 | ✅ [`novela/vol1/00-prologo.md`](novela/vol1/00-prologo.md) |
 | Capítulo 1 — El hijo del director | ✅ [`novela/vol1/01-el-hijo-del-director.md`](novela/vol1/01-el-hijo-del-director.md) |
-| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (1 de 13 capítulos) |
+| Capítulo 2 — Noventa minutos | ✅ [`novela/vol1/02-noventa-minutos.md`](novela/vol1/02-noventa-minutos.md) |
+| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (2 de 13 capítulos) |
 
 ---
 

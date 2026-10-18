@@ -185,7 +185,7 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 | **III. La transmisión** | 10–13 | ¿Cuánto cuesta que te vean? | ~20,800 palabras |
 | **Total** | 13 | | **~67,600 palabras** |
 
-**Nota:** las extensiones por capítulo de §6 son estimaciones de trabajo; el objetivo cerrado es 67,600 (13 × 5,200). El cap. 1 entregó 5,937.
+**Nota:** las extensiones por capítulo de §6 son estimaciones de trabajo; el objetivo cerrado es 67,600 (13 × 5,200). El cap. 1 entregó 5,937 y el cap. 2 entregó 5,260.
 
 ### 5.2 Los siete giros
 
@@ -264,20 +264,21 @@ Ver `novela/04-vol2-esbozo.md`.
 ### Capítulo 2 — Noventa minutos
 
 **POV:** Jesús, 1.ª persona, pasado. Secciones marcadas con la hora.
-**Tiempo:** una sesión de 90 minutos + el resto de la noche.
-**Extensión:** 4,500 palabras.
+**Tiempo:** una sesión de 90 minutos + el resto de la noche. La primera cita es una prueba de 90 minutos; después, bloques de 2 horas.
+**Extensión:** 5,200 palabras (entregado: 5,260).
+**Estado:** ✅ Entregado el 18/10/2026.
 
 **Logline:** Jesús conoce a Chizuru. Es la primera mujer que lo trata como cliente, y la primera que lo ve actuar.
 
 **Beats:**
 
 1. **Las reglas de Diamond.** El empleado le explica: no hay romance, no hay contacto fuera de la cita, no se puede preguntar el nombre real. Todo lo que se compra es tiempo. Jesús piensa que eso es lo que quiere.
-2. **La llegada.** Chizuru aparece en la cafetería. Antes de abrir la puerta, se arregla la cara. Jesús lo ve. Es actor: reconoce el gesto. Esa es la primera cosa que nota de ella, y la que lo enamora: **sabe que está actuando.**
+2. **La llegada.** Chizuru aparece en Hachikō. Caminan hasta el café. Antes de abrir la puerta, se arregla la cara. Jesús lo ve. Es actor: reconoce el gesto. Esa es la primera cosa que nota de ella, y la que lo enamora: **sabe que está actuando.**
 3. **La cita.** Él es un desastre. Habla de su madre. Habla de su padre. Habla demasiado. Ella lo rescata tres veces con preguntas. Él no se da cuenta de que lo está rescatando; cree que están conectando.
 4. **El momento verdadero.** Ella se ríe de algo que él dice —una tontería sobre el té— y la risa le sale sin permiso. Un segundo. Luego recupera la cara. Jesús lo ve todo. No dice nada.
-5. **La cuenta.** Setenta y cinco minutos. Ella le da cinco estrellas. Él pregunta si puede volver a verla. Ella dice: «Puede agendar.» Es la frase más fría del capítulo, y él la escucha como una promesa.
-6. **Después.** Jesús camina a casa. Se da cuenta de que no sabe su nombre. Solo «Chizuru». Se siente ridículo. Se siente vivo.
-7. **Cierre.** Agenda otra cita. Y otra. En el transcurso de dos semanas, gasta el dinero de un mes en noventa minutos semanales.
+5. **La cuenta.** Setenta y cinco minutos de los noventa contratados. Ella le da cinco estrellas; la app cobra los noventa. Él pregunta si puede volver a verla. Ella dice: «Puede agendar.» Es la frase más fría del capítulo, y él la escucha como una promesa.
+6. **Después.** Jesús camina hasta Shinjuku y toma el tren. Se da cuenta de que no sabe su nombre. Solo «Chizuru». Se siente ridículo. Se siente vivo.
+7. **Cierre.** Agenda otra cita. Y otra. En el transcurso de dos semanas, tres citas, gasta el dinero de un mes en noventa minutos semanales.
 
 **Dispositivo estructural:** la cita está dividida en **marcas de tiempo** (19:00, 19:15, 19:40…). El reloj es el verdadero narrador: el lector ve el tiempo comprado agotarse. Después de la última marca, el capítulo cambia a «Después» y la prosa se vuelve más lenta, más íntima. El contraste entre el cronómetro y la memoria es el personaje.
 
