@@ -29,7 +29,7 @@ Lo que está en el póster es canon. Esta sección existe para que la prosa no l
 | **Piel** | Color canela, cálida, de las que en Tokio no pasan inadvertidas | En verano se le marca la playera. En invierno se le pone roja con el frío antes que a nadie |
 | **Ojos** | Café oscuro, grandes, con cejas negras y pobladas | Son su herramienta de trabajo. Sabe llorar con ellos a comando |
 | **Arete** | Uno solo, pequeño, en la oreja izquierda | Se lo puso a los 16. Su padre no dijo nada, y eso fue peor que un regaño |
-| **Cadena** | Plateada, fina, al cuello. Casi nunca se la quita | No tiene dije. La compró él |
+| **Cadena** | Plateada, fina, al cuello, con ◆ un dije del tamaño de una uña: el escudo de las Chivas | La playera vive doblada en el fondo de la bolsa; el escudo vive en su cuello. En Japón nadie lo reconoce y todos creen que es un equipo |
 | **Complexión** | Delgado, hombros anchos, cuerpo de alguien que camina mucho y entrena poco | Se ve más chico de lo que es hasta que se para junto a alguien |
 
 ◆ **El rubio, ¿natural o de tinte?** Mi propuesta: **de tinte**, sobre su negro natural, y que el negro se le vea en los lados rapados. Así el personaje carga su propia contradicción en la cabeza: se tiñó a los 15, en Guadalajara, para parecerse a su madre en las telenovelas. En Tokio el tinte cambió de significado sin que él lo pidiera: ahora lo hace ver más extranjero, y la industria se lo cobra como valor de cartel. **Sujeto a tu decisión.**
