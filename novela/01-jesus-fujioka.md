@@ -32,6 +32,10 @@ Lo que está en el póster es canon. Esta sección existe para que la prosa no l
 | **Cadena** | Plateada, fina, al cuello, con ◆ un dije del tamaño de una uña: el escudo de las Chivas | La playera vive doblada en el fondo de la bolsa; el escudo vive en su cuello. En Japón nadie lo reconoce y todos creen que es un equipo |
 | **Complexión** | Delgado, hombros anchos, cuerpo de alguien que camina mucho y entrena poco | Se ve más chico de lo que es hasta que se para junto a alguien |
 
+> **CANON CERRADO (18/10/2026, Chuy):** la playera y el dije son **los dos de las Chivas**. El dije es el escudo del Club Deportivo Guadalajara, en miniatura. No es un amuleto genérico, no es un santo, no es una cadena cualquiera: es el mismo escudo que trae la playera estampado al pecho. Uno se lleva doblado en el fondo de la bolsa; el otro se lleva puesto todos los días.
+>
+> **Consecuencia de escritura:** el dije hereda las reglas del objeto sagrado. Nunca es chiste, nunca es ecchi, nunca se convierte en merch del programa, nunca se lo quita nadie en una escena de desnudo o de humillación. Si el programa lo usa como gancho de producto, es la misma violación que con la playera: el escudo que su padre compró en un tianguis de Guadalajara convertido en logo de temporada.
+
 ◆ **El rubio, ¿natural o de tinte?** Mi propuesta: **de tinte**, sobre su negro natural, y que el negro se le vea en los lados rapados. Así el personaje carga su propia contradicción en la cabeza: se tiñó a los 15, en Guadalajara, para parecerse a su madre en las telenovelas. En Tokio el tinte cambió de significado sin que él lo pidiera: ahora lo hace ver más extranjero, y la industria se lo cobra como valor de cartel. **Sujeto a tu decisión.**
 
 ◆ **Regla de escritura del aspecto:** no se describe a Jesús en bloque. Se usa en tres formas, y ninguna es un retrato:
