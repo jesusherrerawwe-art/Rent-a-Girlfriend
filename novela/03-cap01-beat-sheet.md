@@ -4,7 +4,7 @@
 **Volumen:** 1, *El ensayo* · **Capítulo:** 1 de 13
 **POV:** Jesús, 1.ª persona, pasado — con cold open en 3.ª persona, presente (documental)
 **Tiempo narrativo:** un día (de la mañana a la noche)
-**Extensión objetivo:** 5,000 palabras
+**Extensión objetivo:** 5,200 palabras (mínimo). Entregado: 5,937.
 **Título japonés de trabajo:** 監督の息子 (*Kantoku no Musuko*)
 
 ---
@@ -36,7 +36,7 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 **Nota:** la novela no suelta esta tabla de golpe. En el capítulo 1 solo se necesitan cuatro datos: la película existe, la madre murió, el hermano está en Estados Unidos, el padre produce televisión. El resto se revela en los capítulos 3, 6 y 10.
 
-**Detalle pendiente:** la causa de la muerte de Laura se decide en la ficha de Jesús. En este capítulo no se nombra. Solo se siente.
+**Decidido:** Laura muere en 2022, cuando Jesús tiene 14, después de una enfermedad larga. En este capítulo no se nombra la enfermedad. Solo se siente.
 
 ---
 
@@ -138,15 +138,15 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 ### Movimiento 4 — El pánico (600 palabras)
 
-**Lugar:** tren de la línea Seibu Shinjuku, 8:15 p.m.
+**Lugar:** tren de la línea Seibu Ikebukuro, 8:15 p.m.
 
 **Qué pasa:**
 
 - Jesús lee la carpeta en el tren. Las reglas: sin teléfonos después de medianoche; una rosa por semana; confesión final ante las cámaras. La frase «primer amor» aparece once veces. Él las cuenta.
 - Se da cuenta: el programa se trata de enamorarse. De besarse. De confesar. Y él nunca ha tenido novia.
 - **Flashback de Mami (200 palabras máximo).** Un karaoke, hace un año. Mami le agarra la mano. Él no sabe qué hacer con la mano. Ella se ríe. Al día siguiente, no le contesta. A la semana, lo bloqueó. Nunca le dijo por qué. Él todavía no sabe si estaban saliendo.
-- El tren se detiene. Jesús se baja en la estación equivocada. Camina dos cuadras. Se sienta en un parque. La carpeta en las rodillas. Respira.
-- Piensa: dieciocho años, cero novias. En tres semanas, un país entero va a verlo fracasar en tiempo real.
+- El tren se detiene. Jesús se pasa de estación y se baja en Shakujii-kōen. Camina dos cuadras. Se sienta en un parque. La carpeta en las rodillas. Respira.
+- Piensa: dieciocho años, cero novias. En setenta días, un país entero va a verlo fracasar en tiempo real.
 
 **Objetivo:** sobrevivir al pánico.
 **Conflicto:** el formato del programa contra su historia personal.
@@ -253,7 +253,7 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 - [ ] ¿El lector sabe qué quiere Jesús antes de la página 1,000? (Sí: que su padre lo mire.)
 - [ ] ¿Sabe qué se lo impide? (Sí: su padre solo sabe mirarlo a través de una cámara.)
-- [ ] ¿Sabe cuál es el riesgo? (Sí: el programa empieza en tres semanas y lo van a ver fracasar.)
+- [ ] ¿Sabe cuál es el riesgo? (Sí: el programa empieza en setenta días y lo van a ver fracasar.)
 - [ ] ¿Hay una pregunta que lo haga pasar de página? (Sí: ¿a quién va a contratar, y qué pasa cuando su padre se entere?)
 - [ ] ¿Kenjiro es una persona, no un villano? (Sí: tiene encanto, cansancio y un «ah» que lo delata.)
 - [ ] ¿Hay al menos tres imágenes memorables? (El cajón de notas, la foto sin el padre, la tarjeta sobre la mesa.)
@@ -289,13 +289,20 @@ Aparece tres veces, y las tres veces significa algo distinto:
 
 ---
 
-## 10. Lo que necesito de Chuy antes de escribir
+## 10. Decisiones cerradas (18/10/2026)
 
-1. **¿Apruebas la apertura con el documental?** Es el corazón del capítulo. Si no te convence, la cambio por una escena en la academia, pero perdemos el tema.
-2. **¿El nombre de la academia?** Tengo «la academia» a secas. Si quieres un nombre japonés, lo invento.
-3. **¿Kibe es compañero de academia o amigo de la infancia?** Yo lo puse de academia. Si lo prefieres de barrio, cambia el tono de la escena 2.
-4. **¿La causa de la muerte de Laura?** No la necesito en el capítulo 1, pero la voy a necesitar en el 3. Si tienes una idea, mejor.
+1. **Apertura con documental:** aprobada. El prólogo abre con el fragmento de 「El Sol tras el Nopal」 y la primera línea de la novela es "Esa no es mi voz."
+2. **Academia:** 東京演技塾 (Tokyo Acting Juku), en Nerima. El profesor es Aoki-sensei, actor de reparto venido a menos.
+3. **Kibe:** amigo de la infancia desde los 11 (no compañero de academia). Su familia tiene el ramen 木部食堂 en Nerima. No estudia actuación.
+4. **Laura:** muere en 2022, cuando Jesús tiene 14, después de una enfermedad larga. En el capítulo 1 no se nombra la enfermedad.
 
-Con tu visto bueno, escribo el capítulo completo. Y si algo de esto no te suena, lo tiramos y lo volvemos a armar. Sin drama. Así trabaja un profesional.
+---
 
-— Alejandra
+## 11. Registro de la entrega
+
+- **Prólogo:** `novela/vol1/00-prologo.md` (720 palabras).
+- **Capítulo 1:** `novela/vol1/01-el-hijo-del-director.md` (5,937 palabras).
+- **Cambios respecto al beat sheet:** el mensaje de Kenjiro llega al final de la clase; se añadieron Ono y Mika como espejos del ejercicio de la confesión; la cuenta regresiva es D-70 (diez semanas), no tres; el tren es la línea Seibu Ikebukuro y Jesús se pasa de estación.
+- **Pendiente para el cap. 2:** decidir si la sesión es de 90 minutos (título del plan) o de 2 horas (mínimo real de la agencia). No afecta al cap. 1.
+
+Alejandra

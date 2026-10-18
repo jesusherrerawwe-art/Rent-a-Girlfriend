@@ -185,6 +185,8 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 | **III. La transmisión** | 10–13 | ¿Cuánto cuesta que te vean? | ~20,800 palabras |
 | **Total** | 13 | | **~67,600 palabras** |
 
+**Nota:** las extensiones por capítulo de §6 son estimaciones de trabajo; el objetivo cerrado es 67,600 (13 × 5,200). El cap. 1 entregó 5,937.
+
 ### 5.2 Los siete giros
 
 1. **Cap. 3 — El pacto.** La mentira se vuelve contrato. Jesús cree que está usando a Chizuru; Chizuru cree que está usando a Jesús. Los dos tienen razón, y los dos se equivocan.
@@ -234,7 +236,7 @@ Ver `novela/04-vol2-esbozo.md`.
 
 **POV:** Jesús, 1.ª persona, pasado. Cold open en 3.ª persona presente (el documental).
 **Tiempo:** un día. Del amanecer al amanecer siguiente.
-**Extensión:** 5,000 palabras.
+**Extensión:** 5,200 palabras (entregado: 5,937).
 
 **Logline:** Jesús, dieciocho años, descubre que su padre lo ha metido a su nuevo reality de amor. El problema no es el programa. El problema es que nunca ha tenido novia.
 
@@ -244,7 +246,7 @@ Ver `novela/04-vol2-esbozo.md`.
 2. **La mañana.** Departamento en Nerima. Una nota de Kenjiro en la mesa: «Llave de repuesto en el 204. No llegues tarde.» Jesús desayuna cereal de pie. Su rutina: academia de actuación, tren, conbini.
 3. **La academia.** Clase en la Tokyo Acting Juku. El profesor les pide confesar un amor que no existe. Jesús se congela. Un compañero le pide que lo presente con Kenjiro. El apellido no lo deja en paz.
 4. **La llamada.** Kenjiro no llama: manda un mensaje. «Estás dentro. Te espero a las siete.» No hay audición. No hay prueba. Solo el apellido.
-5. **La oficina de Kenjiro.** Primera escena real padre-hijo. Kenjiro habla del programa como producto: «Es *Hatsukoi House*. Cinco chicos, cinco chicas, una casa, doce semanas. Amor de primera vez.» Jesús pregunta si lo eligió por él. Kenjiro contesta con una nota de producción. No es crueldad: es distracción.
+5. **La oficina de Kenjiro.** Primera escena real padre-hijo. Kenjiro habla del programa como producto: «Es *Hatsukoi House*. Cinco chicos, cinco chicas, una casa, doce semanas. Amor de primera vez.» Jesús pregunta por qué lo eligió. Kenjiro: «Porque eres mi hijo. Y porque tienes cara de que no has besado a nadie.» El «ah» que sigue es la sospecha. No es crueldad: es distracción.
 6. **El pánico.** Jesús lee el formato. Confesiones a cámara. Citas. Besos. «Primera vez» como concepto central. Y él nunca ha tenido novia. Ni una. Ni un casi. Solo Mami, que lo dejó sin explicación hace un año.
 7. **El ramen de Kibe.** Kibe es el hijo de los dueños del ramen shop de Nerima y el primer amigo que Jesús hizo en Tokio. No estudia actuación; trabaja en el negocio familiar. Le cuenta una historia de Laura. Y le da la tarjeta: *Diamond, agencia de acompañantes*. «Mi primo las usa. Es legal. Es raro. Pero es legal.»
 8. **Cierre.** Jesús marca el número. Una voz de mujer: «Diamond, ¿en qué puedo servirle?». Él tarda tres segundos en contestar. Esos tres segundos son el resto de la novela.

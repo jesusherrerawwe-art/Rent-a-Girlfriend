@@ -20,10 +20,10 @@ Un hāfu mexicano de 18 años que nunca ha tenido novia renta a una *rental girl
 **Jesús Fujioka Hernández**
 - 18 años. Nacido en Guadalajara, Jalisco. Vive en Tokio.
 - Creció rodeado de la industria del entretenimiento.
-- **Madre:** Laura, actriz de telenovelas. **Fallecida.**
+- **Madre:** Laura, actriz de telenovelas. **Fallecida en 2022, después de una enfermedad larga.**
 - **Hermano mayor:** Sergio, animador profesional y experto en efectos especiales. Se fue a Estados Unidos a estudiar animación.
 - **Padre:** **Kenjiro Fujioka**, inmigrante japonés, uno de los directores jóvenes más prometedores de México. Dirigió el cortometraje/documental **「El Sol tras el Nopal」**, sobre la vida de los hāfu que conoció en México: un homenaje a sus propios hijos. Jesús y Sergio aparecen en los créditos como **fuente de inspiración**.
-- Tras la muerte de Laura y la partida de Sergio, padre e hijo se mudan a Tokio por una oferta de trabajo.
+- En 2019, la familia se muda a Tokio por una oferta de trabajo para Kenjiro. Laura muere en 2022, después de una enfermedad larga; Sergio se va a Estados Unidos ese mismo año.
 - Kenjiro se hace un nombre en la industria japonesa y llega a ser **showrunner de un reality show de amor adolescente**.
 - Kenjiro se vuelve más serio y distante; Jesús **todavía no lo ha notado del todo**.
 - Por la reputación del padre, Jesús entra a una **academia de actuación prestigiosa** en Tokio y se prepara para unirse al elenco del reality.
@@ -80,7 +80,7 @@ Como Kazuya desaparece y Jesús tiene 18 años (academia de actuación, no unive
 
 | Personaje | Canon original | ◆ Función en esta novela |
 |---|---|---|
-| **Kibe** | Amigo de la infancia de Kazuya | Amigo de la infancia de Jesús, también de Guadalajara, también en Tokio. El que le recomienda Diamond. Su lealtad es el contrapeso moral. |
+| **Kibe** | Amigo de la infancia de Kazuya | Primer amigo de Jesús en Tokio (se conocieron a los 11). Hijo de los dueños del ramen 木部食堂 en Nerima. No pertenece al mundo del espectáculo. El que le recomienda Diamond. Su lealtad es el contrapeso moral. |
 | **Kuribayashi** | Amigo, ex-cliente de Ruka | Asistente de producción del reality. Sabe demasiado y no dice nada hasta que le conviene. |
 | **Sasano** | Senpai del círculo de tenis | Senpai de la academia de actuación. El que ya está dentro de la industria y le enseña las reglas no escritas. |
 | **Mini** | Vecina del 202, universitaria | ◆ Vecina del edificio y **fan del documental de Kenjiro**. Es la única que vio a Jesús antes de conocerlo: vio su nombre en los créditos. |

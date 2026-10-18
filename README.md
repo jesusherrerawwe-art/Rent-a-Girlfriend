@@ -12,6 +12,8 @@
 
 *"El corazón no se alquila... se gana."*
 
+**Título oficial:** *El corazón no se alquila* (「心はレンタルできない」) · **Volumen 1: El ensayo**
+
 </div>
 
 ---
@@ -20,7 +22,7 @@
 
 Jesús Fujioka Hernández tiene dieciocho años, nació en Guadalajara y creció en los sets: su madre, Laura, era actriz de telenovelas; su hermano mayor, Sergio, animador y experto en efectos especiales; y su padre, Kenjiro Fujioka, dirigió **「El Sol tras el Nopal」**, el documental sobre hāfu que puso los nombres de sus hijos en los créditos.
 
-Después de la muerte de Laura, padre e hijo se mudaron a Tokio. Kenjiro se convirtió en showrunner de un reality de amor adolescente y, sin darse cuenta, en un hombre más serio y más lejano. Jesús entró a una academia de actuación y se preparó para unirse al programa de su padre.
+En 2019, la familia se mudó a Tokio por el trabajo de Kenjiro. Laura murió en 2022, después de una enfermedad larga, y Kenjiro se convirtió en un hombre más serio y más lejano. Jesús entró a una academia de actuación y se preparó para unirse al programa de su padre: un reality de amor adolescente.
 
 Entonces cayó en cuenta de algo terrible: el show es de **amor**. De enamorarse. De besarse.
 
@@ -32,11 +34,11 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 
 > **Géneros:** slice of life · comedia romántica · drama familiar · ecchi (sugerente, no explícito)
 >
-> **Formato:** 26 capítulos · novela ligera · Tokio, Japón
+> **Formato:** 13 + 13 capítulos · novela ligera · ~67,600 palabras por volumen · Tokio, Japón
 >
 > **Distribución:** repo privado, acceso por invitación. Sin publicación pública ni fines comerciales.
 >
-> **Estado:** en desarrollo (biblia completa; premisa y ficha de Jesús en v0.1)
+> **Estado:** Vol. 1 en escritura (prólogo y capítulo 1 entregados)
 
 ---
 
@@ -49,9 +51,12 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 | Premisa y canon (v0.1) | ✅ [`novela/00-premisa-y-canon.md`](novela/00-premisa-y-canon.md) |
 | Ficha de Jesús (v0.1) | ✅ [`novela/01-jesus-fujioka.md`](novela/01-jesus-fujioka.md) |
 | Matriz de canon y cinco bisagras | 🟡 Propuesta, pendiente de validación |
-| Outline de los 26 capítulos | ⏳ Pendiente |
-| Plan de acción | ⏳ Pendiente |
-| Capítulo 1 | ⏳ Pendiente |
+| Plan del Vol. 1 (cerrado) | ✅ [`novela/02-plan-vol1.md`](novela/02-plan-vol1.md) |
+| Esbozo del Vol. 2 (v0.1) | ✅ [`novela/04-vol2-esbozo.md`](novela/04-vol2-esbozo.md) |
+| Formato y triángulo amoroso | ✅ [`novela/05-formato-y-triangulo.md`](novela/05-formato-y-triangulo.md) |
+| Prólogo del Vol. 1 | ✅ [`novela/vol1/00-prologo.md`](novela/vol1/00-prologo.md) |
+| Capítulo 1 — El hijo del director | ✅ [`novela/vol1/01-el-hijo-del-director.md`](novela/vol1/01-el-hijo-del-director.md) |
+| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (1 de 13 capítulos) |
 
 ---
 

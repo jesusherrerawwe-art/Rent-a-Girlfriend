@@ -12,7 +12,7 @@
 | Nombre en Japón | 藤岡ヘスス (Fujioka Hesusu) — “Jesús” se escribe en katakana en todos los documentos oficiales |
 | Edad | 18 |
 | Origen | Guadalajara, Jalisco, México |
-| Residencia | ◆ Royal Hills Nerima, cuarto 205, Tokio |
+| Residencia | ◆ Royal Hills Nerima, cuarto 203, Tokio |
 | Ocupación | Estudiante de academia de actuación; ◆ cliente de la agencia Diamond |
 | Nacionalidad | Mexicana y japonesa (doble nacionalidad por padre) |
 | Idiomas | Español (nativo), japonés (nativo hablado, lectura de kanji a duras penas), inglés (de serie) |
@@ -25,7 +25,7 @@
 
 **Kenjiro Fujioka — padre.** Inmigrante japonés en México; director de cine y documental; hoy showrunner en Tokio. Dirigió **「El Sol tras el Nopal」**, el documental sobre hāfu que puso los nombres de sus hijos en los créditos. No es un villano: es un hombre que aprendió a mirar a su hijo **a través de una cámara** y ya no sabe hacerlo de otra forma.
 
-**Laura — madre.** Actriz de telenovelas. Fallecida. ◆ Murió cuando Jesús tenía 16. ◆ Su última telenovela se llamaba *Corazón de Azúcar* y la repiten en un canal de cable que Jesús ve de madrugada.
+**Laura — madre.** Actriz de telenovelas. Fallecida. ◆ Murió en 2022, cuando Jesús tenía 14, después de una enfermedad larga. ◆ Su última telenovela se llamaba *Corazón de Azúcar* y la repiten en un canal de cable que Jesús ve de madrugada.
 
 **Sergio — hermano mayor.** Animador y experto en efectos especiales. Se fue a Estados Unidos a estudiar animación. ◆ Le habla a Jesús por videollamada cada dos semanas, siempre a la misma hora, y siempre se le olvida que hay diferencia de horario.
 
@@ -115,7 +115,7 @@ No es la camiseta de rayas rojiblancas. Es una **playera blanca de algodón con 
 | **Kenjiro** | Padre | Lo admira y le reprocha sin decirlo. Necesita su mirada y la teme. |
 | **Sergio** | Hermano | El que se fue. La ausencia que nadie nombra. |
 | **Laura** | Madre (fallecida) | La voz que todavía lo corrige. |
-| **Kibe** | Mejor amigo de la infancia | Hijo de los dueños de un ramen shop en Nerima. No pertenece al mundo del espectáculo. Es el único que le dice la verdad y el único al que Jesús no le miente bien. |
+| **Kibe** | Mejor amigo de la infancia | Se conocieron a los 11, cuando la familia Fujioka llegó a Tokio. Hijo de los dueños del ramen 木部食堂 en Nerima. No pertenece al mundo del espectáculo. Es el único que le dice la verdad y el único al que Jesús no le miente bien. |
 | **Chizuru** | Rental girlfriend / obsesión profesional | Ella lo usa para llegar a Kenjiro. Él la usa para aprender a amar. Ninguno lo admite. |
 | **Mami** | Ex casi-relación | La que lo dejó sin razón. La herida abierta que el show va a reabrir. |
 | **Mini** | Vecina | Vio el documental. Sabe quién es Jesús antes de conocerlo. |
