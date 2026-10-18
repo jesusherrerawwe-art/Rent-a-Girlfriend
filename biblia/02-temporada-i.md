@@ -42,7 +42,7 @@ El episodio abre en un tono distinto a todo lo anterior: **Chizuru despierta sol
 
 **Guion:** Uehara Rie · **Storyboard:** Osuka Masamoto · **Dirección:** Une Nobuya
 
-En el ryokan, la abuela los registra con ingeniería maliciosa: **la misma habitación para Kazuya y Chizuru**. *"Duérmete aquí y ya"*, dice ella, mientras él no puede cerrar los ojos... y se descubre preguntándose qué piensa Chizuru de él. Días después, su amigo **Kurihayaashi Shun** anuncia orgulloso que tiene novia, y se arma una **doble cita**. La "novia" de Kuri es **Sarashina Ruka**, una preciosa chica de coleta corta con lazo... que a Kazuya le suena muchísimo: es la joven con la que se topó por accidente en la calle. La doble cita se convierte en duelo de egos entre Chizuru y Ruka mientras Kazuya y Kuri sudan gota a gota.
+En el ryokan, la abuela los registra con ingeniería maliciosa: **la misma habitación para Kazuya y Chizuru**. *"Duérmete aquí y ya"*, dice ella, mientras él no puede cerrar los ojos... y se descubre preguntándose qué piensa Chizuru de él. Días después, su amigo **Kuribayashi Shun** anuncia orgulloso que tiene novia, y se arma una **doble cita**. La "novia" de Kuri es **Sarashina Ruka**, una preciosa chica de coleta corta con lazo... que a Kazuya le suena muchísimo: es la joven con la que se topó por accidente en la calle. La doble cita se convierte en duelo de egos entre Chizuru y Ruka mientras Kazuya y Kuri sudan gota a gota.
 
 ## Episodio 7 — 満足度7「仮カノと彼女」(Karikano / "La novia provisional")
 
