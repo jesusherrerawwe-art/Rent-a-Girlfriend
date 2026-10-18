@@ -63,7 +63,7 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 | Capítulo 6 — Bienvenidos a Hatsukoi House | 🟡 [`novela/vol1/06-bienvenidos-a-hatsukoi-house.md`](novela/vol1/06-bienvenidos-a-hatsukoi-house.md) |
 | Capítulo 7 — La coach | ✅ [`novela/vol1/07-la-coach.md`](novela/vol1/07-la-coach.md) |
 | Capítulo 8 — La primera cita | 🟡 [`novela/vol1/08-la-primera-cita.md`](novela/vol1/08-la-primera-cita.md) |
-| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (8 de 13 capítulos, 46,243 palabras) |
+| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (8 de 13 capítulos, 46,351 palabras) |
 
 ---
 

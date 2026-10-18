@@ -37,16 +37,19 @@ Las 制止事項 (prohibiciones) de la agencia real (Art. 7 de sus términos de 
 1. Prohibido sacar a la cast de su trabajo: pedirle número, IDs de redes sociales o cualquier contacto privado.
 2. Prohibido llevarla a **espacios cerrados a solas**: cibercafés privados, cuartos de renta, karaoke, la casa o el trabajo del cliente, hoteles — y por supuesto locales de 風俗.
 3. Prohibido ir a **lugares con piel expuesta: albercas, playas, spas, onsen, incluso asientos de foot-bath**.
-4. Prohibido el contacto físico: abrazos, besos, tocar, pegarse, bromas sexuales, pedir servicios sexuales — **el skinship no está garantizado ni incluido**; hasta tomarse de la mano está reglamentado (no se puede exigir).
+4. Prohibido el contacto físico: abrazos, besos, tocar, pegarse, bromas sexuales, pedir servicios sexuales — **el skinship no está garantizado ni incluido**. Matiz que se suele escribir mal: **tomarse de la mano y del brazo sí se permite**, y en casi todas las agencias es la única forma de contacto autorizada. Pero no viene incluida en el precio: la cast la concede, no se le exige, y varias agencias la venden como opción de pago (5,000-5,500 ¥ por día). La regla real no es «no se toca» sino «no se exige».
 5. Prohibido preguntar por la vida privada de la cast (domicilio, escuela, trabajo, historia amorosa) — y por supuesto el acoso (ストーカー).
 6. Prohibido imponer vestuario o peinado a la cast.
 7. Prohibido publicar el date en redes sin permiso.
 8. Prohibido el uso de autos privados (solo transporte público), forzar comidas o alcohol, o llevar terceros.
 9. Solo mayores de 18 (niños de preparatoria, fuera).
+10. **Regalos: prohibidos o topados.** Las agencias serias prohíben «regalos que excedan la categoría de recuerdo» (お土産の範疇を超えるプレゼント) y los artículos de alto valor, para que el cliente no confunda la compra de tiempo con una inversión afectiva. Donde se permiten, hay un tope escrito. La lógica del tope no es moral: es que un regalo caro crea deuda, y la deuda es lo contrario del servicio.
+
+**Las reglas de Diamond en esta novela (cerradas el 18/10/2026):** nueve reglas, en el orden en que se leen en el cap. 2. La cuarta: «la piel no viene incluida: de la mano y del brazo, solo si ella quiere». La novena: «los regalos, hasta cinco mil yenes; lo que pase de ahí se devuelve y se le descuenta a ella». El descuento a la cast es invención de esta versión y es deliberado: convierte el regalo en una trampa económica para ella, no en un gesto para él.
 
 **Cómo la obra dramatiza cada regla:**
 - La regla 3 (piel expuesta) pesa sobre toda la serie: no existe un solo date de alquiler en alberca — los chapoteos de Hawaiians (T4-T5) son posibles porque el viaje es **familiar**, no un date de renta: por eso Chizuru puede estar en traje de baño sin romper el código.
-- La regla 4 es el muro del que se enamora la trama: cada contacto físico que importa (el beso de la película, el rescate en el mar, el beso público de la T5) ocurre **fuera del contrato**.
+- La regla 4 es el muro del que se enamora la trama: cada contacto físico que importa (el beso de la película, el rescate en el mar, el beso público de la T5) ocurre **fuera del contrato**. La mano no: la mano sí se permite, y ese es justo el problema. Cuando Chizuru le tiende la mano a Kazuya en público, no está rompiendo el reglamento; está trabajando. La novela explota esa ambigüedad: el único contacto legal entre ellos es el que se puede confundir con amor.
 - La regla 1 es el gatillo del destino: Chizuru y Kazuya son vecinos — el "contacto privado" no lo buscó el cliente: lo regaló el destino.
 - La regla 5 define el suspenso de identidad: nadie puede preguntarle a una cast quién es de verdad; Kazuya pasa meses sin saber que "Mizuhara" es la Ichinose de la puerta del 204.
 
@@ -86,7 +89,9 @@ Si el fanfic pone a un personaje nuevo (por ejemplo, un extranjero o un hāfu co
 4. ザ・ベスト — 「デートクラブ（交際クラブ）とは何？違法？」: la zona gris del date club con premisa sexual y su relación con la 風営法: https://the-best.jp/column/other/what-is-date-club/
 5. Animate Times — entrevista a Miyajima Reiji (2020-10-10): el disparador de la obra (conoció el oficio; el dato de China: servicios para "presentar pareja ante los padres"): https://www.animatetimes.com/news/details.php?id=1601576040
 6. Artículos jurídicos sobre la reforma de la 風営法 2025 y la prohibición del 色恋営業 (contexto del debate "vender sentimientos"): https://lawhana.com/column/1581/ · https://criminal.darwin-law.jp/column/1487/
-7. Secciones 7-9 de esta biblia (fichas de Chizuru/Ruka/Mami y cobertura de las escenas donde las reglas se dramatizan).
+7. Verificación del contacto permitido (18/10/2026): **手繋ぎ・腕組み (mano y brazo) es la única forma de contacto autorizada** en la mayoría de las agencias, a veces como opción de pago. 「手繋ぎ・腕組みであればサービス内で出来ます」: https://pato.today/news/m5lwra_wc9xs/ · 「腕組み・手つなぎは、レンタル彼女によっては不可の場合もあります」: https://www.koikano.jp/koikano/price.html · opción de pago 5,500 ¥/día: https://tokyo.rent-kano.net/price.html · 「手を繋ぐ、腕を組む以外の身体的な触れ合い」prohibida: https://www.nadeshikoiwate.com/利用規約/
+8. Verificación de regalos (18/10/2026): prohibición de 「お土産の範疇を超えるプレゼント」 y de 「高額商品をプレゼントする行為」: https://love-terrace.com/rental-kanojo/ y https://tokyo.rent-kano.net/price.html · agencias que directamente no aceptan regalos: https://www.koikano.jp/koikano/flow.html
+9. Secciones 7-9 de esta biblia (fichas de Chizuru/Ruka/Mami y cobertura de las escenas donde las reglas se dramatizan).
 
 ---
 

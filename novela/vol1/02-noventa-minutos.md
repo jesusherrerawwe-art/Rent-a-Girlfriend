@@ -4,7 +4,7 @@
 
 A las nueve de la mañana siguiente, Diamond me mandó una foto de la chica que iba a alquilar.
 
-Estaba en la cama, con el teléfono sobre la almohada, y por un segundo pensé que era una broma. La foto era de una mujer de mi edad, con el pelo negro largo, una sonrisa educada y un suéter beige. Miraba un poco por encima de la cámara, como si la persona que la fotografiaba le hubiera dicho "piensa en algo bonito".
+Estaba en la cama, con el teléfono sobre la almohada, y por un segundo pensé que era una broma. La foto era de una mujer de mi edad, con el pelo castaño oscuro, largo, una sonrisa educada y un suéter beige. Miraba un poco por encima de la cámara, como si la persona que la fotografiaba le hubiera dicho "piensa en algo bonito".
 
 Debajo de la foto decía:
 
@@ -140,7 +140,25 @@ Me sirvió un vaso. Se sentó frente a mí. Puso la tableta sobre la mesa.
 
 Hablaba bajo, como si estuviera diciendo un secreto en una biblioteca. Me gustó. No parecía un vendedor. Parecía un médico.
 
-"Regla uno: no hay romance. Regla dos: no hay contacto fuera de la cita. Regla tres: no se pregunta el nombre real, la dirección, la escuela ni la historia amorosa. Regla cuatro: no se toca. Regla cinco: no se toman fotos. Regla seis: nada de playa, alberca ni onsen. La piel no viene incluida. Regla siete: no se lleva a la cast a un lugar cerrado. Regla ocho: todo lo que se compra es tiempo."
+"Regla uno: no hay romance. Regla dos: no hay contacto fuera de la cita. Regla tres: no se pregunta el nombre real, la dirección, la escuela ni la historia amorosa. Regla cuatro: la piel no viene incluida. De la mano y del brazo, solo si ella quiere. Nada más. Regla cinco: no se toman fotos. Regla seis: nada de playa, alberca ni onsen. Regla siete: no se lleva a la cast a un lugar cerrado. Regla ocho: todo lo que se compra es tiempo. Regla nueve: los regalos, hasta cinco mil yenes. Lo que pase de ahí se devuelve."
+
+"¿Y si quiero tomarla de la mano?"
+
+"Se la pide."
+
+"¿Y si me dice que sí por educación?"
+
+"Entonces no es un sí."
+
+Lo dijo sin bajar la vista de la tableta.
+
+"¿Y si le quiero regalar algo?"
+
+"Hasta cinco mil. Si insiste con algo más caro, se devuelve y se le descuenta a ella."
+
+"¿A ella?"
+
+"A ella. Por eso los clientes aprenden rápido."
 
 "¿Y ella puede preguntarme a mí?"
 
@@ -282,7 +300,7 @@ Me vi en el reflejo de una vitrina. Camisa azul marino, jeans oscuros, zapatos l
 
 La vi antes de que ella me viera.
 
-Estaba junto a la salida, con el teléfono en la mano. Llevaba un abrigo color crema, una falda negra y unos tacones bajos. El pelo largo, negro, con un mechón fuera de lugar. No sonreía. Miraba la pantalla con el ceño un poco fruncido, como si estuviera leyendo algo que no le gustaba.
+Estaba junto a la salida, con el teléfono en la mano. Llevaba un abrigo color crema, una falda negra y unos tacones bajos. El pelo largo, castaño oscuro, con un mechón fuera de lugar. No sonreía. Miraba la pantalla con el ceño un poco fruncido, como si estuviera leyendo algo que no le gustaba.
 
 En la foto llevaba un suéter beige. En persona llevaba un abrigo crema. Era casi el mismo color. Me pregunté si elegía la ropa para que la foto no mintiera del todo.
 

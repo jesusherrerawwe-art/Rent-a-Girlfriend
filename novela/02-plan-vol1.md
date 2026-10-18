@@ -272,7 +272,7 @@ Ver `novela/04-vol2-esbozo.md`.
 
 **Beats:**
 
-1. **Las reglas de Diamond.** El empleado le explica: no hay romance, no hay contacto fuera de la cita, no se puede preguntar el nombre real. Todo lo que se compra es tiempo. Jesús piensa que eso es lo que quiere.
+1. **Las reglas de Diamond.** El empleado le explica: no hay romance, no hay contacto fuera de la cita, no se puede preguntar el nombre real. La piel no viene incluida, pero de la mano y del brazo sí, si ella quiere: la mano no se pide, se recibe. Los regalos, hasta cinco mil yenes. Todo lo que se compra es tiempo. Jesús piensa que eso es lo que quiere.
 2. **La llegada.** Chizuru aparece en Hachikō. Caminan hasta el café. Antes de abrir la puerta, se arregla la cara. Jesús lo ve. Es actor: reconoce el gesto. Esa es la primera cosa que nota de ella, y la que lo enamora: **sabe que está actuando.**
 3. **La cita.** Él es un desastre. Habla de su madre. Habla de su padre. Habla demasiado. Ella lo rescata tres veces con preguntas. Él no se da cuenta de que lo está rescatando; cree que están conectando.
 4. **El momento verdadero.** Ella se ríe de algo que él dice —una tontería sobre el té— y la risa le sale sin permiso. Un segundo. Luego recupera la cara. Jesús lo ve todo. No dice nada.

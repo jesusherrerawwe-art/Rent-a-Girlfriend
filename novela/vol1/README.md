@@ -14,8 +14,8 @@
 |---|---|---|---|
 | [`00-prologo.md`](00-prologo.md) | Portadilla, epígrafe y prólogo | 735 | ✅ Entregado |
 | [`01-el-hijo-del-director.md`](01-el-hijo-del-director.md) | Capítulo 1 | 5,999 | ✅ Entregado |
-| [`02-noventa-minutos.md`](02-noventa-minutos.md) | Capítulo 2 | 5,294 | ✅ Entregado |
-| [`03-lo-que-se-dice-en-confianza.md`](03-lo-que-se-dice-en-confianza.md) | Capítulo 3 | 6,034 | ✅ Entregado |
+| [`02-noventa-minutos.md`](02-noventa-minutos.md) | Capítulo 2 | 5,385 | ✅ Entregado |
+| [`03-lo-que-se-dice-en-confianza.md`](03-lo-que-se-dice-en-confianza.md) | Capítulo 3 | 6,051 | ✅ Entregado |
 | [`04-el-ensayo.md`](04-el-ensayo.md) | Capítulo 4 | 5,383 | ✅ Entregado |
 | [`05-la-audicion.md`](05-la-audicion.md) | Capítulo 5 | 5,250 | ✅ Entregado |
 | [`06-bienvenidos-a-hatsukoi-house.md`](06-bienvenidos-a-hatsukoi-house.md) | Capítulo 6 | 5,559 | 🟡 En lectura |
@@ -27,8 +27,8 @@
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 46,243 palabras (prólogo + caps. 1 a 8).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,999, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383, el cap. 5 a 5,250, el cap. 6 a 5,559, el cap. 7 a 6,663 y el cap. 8 a 5,326; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~76,000 palabras.
+**Total entregado:** 46,351 palabras (prólogo + caps. 1 a 8).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,999, el cap. 2 a 5,385, el cap. 3 a 6,051, el cap. 4 a 5,383, el cap. 5 a 5,250, el cap. 6 a 5,559, el cap. 7 a 6,663 y el cap. 8 a 5,326; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~76,000 palabras.
 
 ---
 
@@ -140,6 +140,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 6. Registro de cambios
 
+- **18/10/2026 (corrección de canon):** dos arreglos señalados por Chuy. (1) Chizuru tiene el pelo **castaño oscuro**, no negro: corregido en el cap. 2 y en las dos entradas de la biblia; queda nota de canon visual en `biblia/07-personajes-principales.md`. (2) Las reglas de Diamond **sí permiten tomarse de la mano y del brazo** (la regla real es «no se exige», no «no se toca») y **sí aceptan regalos con tope**: reescrita la regla cuatro del cap. 2, añadida la regla nueve (regalos hasta cinco mil yenes, con descuento a la cast si se pasa) y añadido el intercambio «¿Y si me dice que sí por educación?» / «Entonces no es un sí». Tres líneas nuevas en el cap. 3 para que la mano que Chizuru le tiende por primera vez cobre sentido. Documentado en `revision/09-correccion-diamond-y-chizuru-2026-10-18.md`. Cap. 2: 5,385. Cap. 3: 6,051. Total: 46,351.
 - **18/10/2026:** se entrega el cap. 8 «La primera cita» (5,326 palabras). Sábado 19/12/2026, de 13:48 a 16:00, más la junta del día anterior y la sala de control a las 22:10. **Único capítulo del volumen sin una sola línea de primera persona** (verificado). Sistema de imagen contra audio: secciones `CÁMARA n` (lo que se graba) y `CANAL 2` (lo que se ordena por el pinganillo), más la 構成表 del día como cold open. Se resuelven las tres preguntas que Chuy dejó a criterio: el beso de Hina **se queda en casi** (protege el cap. 10), la cita se cuenta **desde las cámaras** sin interioridad de Jesús, y entre Jesús y Chizuru **no queda nada**. Se añaden la escena de la mano que se detiene a diez centímetros, la pregunta prohibida que no se hace, la deuda contada en cámara, el pingüino de mil doscientos yenes y el bucle final de Kenjiro. Se corrigieron el tic de «se queda» (36 apariciones, quedaron 4), las repeticiones del canal dos y la cronología del sol de diciembre.
 
 - **18/10/2026:** se entrega el cap. 7 «La coach» (6,633 palabras). Once días, del lunes 7 al viernes 18 de diciembre. Formato ON AIR (3.ª persona presente, con número de toma) y OFF AIR (1.ª persona pasada, sin número), y una sola ruptura final: la última toma está en primera persona porque la cámara y Jesús se vuelven la misma cosa. Chizuru llega como coach contratada en septiembre, sin deberle el puesto a nadie, y le enseña al elenco completo. Se implementan las cuatro decisiones de Chuy: Hina no ve el reconocimiento, la coach trabaja con los diez, el contrato se rompe el 16/12 y el rubio es de tinte. Se añaden las siete tomas, el espejo que trae la coach, la clase de llanto, la rosa del viernes, la escena de dos sillas, la conversación oída en la caseta y el sobre que se queda en la silla. Se corrigieron el recuento de cámaras, la edad de Chizuru, el calendario del contrato (vence el 23/12, un día después de la emisión) y la cronología del baño.

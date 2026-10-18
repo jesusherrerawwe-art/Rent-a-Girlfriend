@@ -872,6 +872,8 @@ Se puso de pie. Me tendió la mano.
 
 La miré. Era la primera vez que me tendía la mano sin que fuera parte de un ejercicio.
 
+En la lista de Diamond, la mano no venía incluida. Se podía pedir. No se podía exigir.
+
 La tomé.
 
 Su mano era más pequeña que la mía. Fría. Firme.
