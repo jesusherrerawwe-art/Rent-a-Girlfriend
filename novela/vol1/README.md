@@ -4,7 +4,7 @@
 **Serie:** *The Jesús Fujioka Story*
 **Volumen:** 1 de 2 (la obra queda abierta a un Vol. 3)
 **Formato:** novela ligera · 13 capítulos · ~67,600 palabras objetivo
-**Estado:** en curso. Prólogo y capítulos 1 a 6 entregados el 18/10/2026 (el cap. 6 espera lectura de Chuy).
+**Estado:** en curso. Prólogo y capítulos 1 a 7 entregados el 18/10/2026 (los caps. 6 y 7 esperan lectura de Chuy).
 
 ---
 
@@ -19,7 +19,7 @@
 | [`04-el-ensayo.md`](04-el-ensayo.md) | Capítulo 4 | 5,383 | ✅ Entregado |
 | [`05-la-audicion.md`](05-la-audicion.md) | Capítulo 5 | 5,250 | ✅ Entregado |
 | [`06-bienvenidos-a-hatsukoi-house.md`](06-bienvenidos-a-hatsukoi-house.md) | Capítulo 6 | 5,559 | 🟡 En lectura |
-| `07-la-coach.md` | Capítulo 7 | — | ⏳ Pendiente |
+| [`07-la-coach.md`](07-la-coach.md) | Capítulo 7 | 6,633 | 🟡 En lectura |
 | `08-la-primera-cita.md` | Capítulo 8 | — | ⏳ Pendiente |
 | `09-la-escalera.md` | Capítulo 9 | — | ⏳ Pendiente |
 | `10-vivo.md` | Capítulo 10 | — | ⏳ Pendiente |
@@ -27,8 +27,8 @@
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 34,254 palabras (prólogo + caps. 1 a 6).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,999, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383, el cap. 5 a 5,250 y el cap. 6 a 5,559; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~72,000 palabras.
+**Total entregado:** 40,917 palabras (prólogo + caps. 1 a 7).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,999, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383, el cap. 5 a 5,250, el cap. 6 a 5,559 y el cap. 7 a 6,633; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~76,000 palabras.
 
 ---
 
@@ -139,6 +139,8 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 ---
 
 ## 6. Registro de cambios
+
+- **18/10/2026:** se entrega el cap. 7 «La coach» (6,633 palabras). Once días, del lunes 7 al viernes 18 de diciembre. Formato ON AIR (3.ª persona presente, con número de toma) y OFF AIR (1.ª persona pasada, sin número), y una sola ruptura final: la última toma está en primera persona porque la cámara y Jesús se vuelven la misma cosa. Chizuru llega como coach contratada en septiembre, sin deberle el puesto a nadie, y le enseña al elenco completo. Se implementan las cuatro decisiones de Chuy: Hina no ve el reconocimiento, la coach trabaja con los diez, el contrato se rompe el 16/12 y el rubio es de tinte. Se añaden las siete tomas, el espejo que trae la coach, la clase de llanto, la rosa del viernes, la escena de dos sillas, la conversación oída en la caseta y el sobre que se queda en la silla. Se corrigieron el recuento de cámaras, la edad de Chizuru, el calendario del contrato (vence el 23/12, un día después de la emisión) y la cronología del baño.
 
 - **18/10/2026:** decisiones del cap. 7 (Chuy): Hina **no** ve el reconocimiento entre Jesús y Chizuru, se entera después; la coach le enseña a **todo el elenco**; el **contrato se rompe** en el cap. 7; el rubio de Jesús es **de tinte** (se lo hizo a los 15 en Guadalajara). Se anota un choque de canon pendiente en el cap. 8: si Hina besa a Jesús en la cita del acuario, el cap. 10 se cae. Propuesta: dejar el beso del 8 en casi.
 - **18/10/2026:** canon cerrado: la playera y el dije de la cadena son **los dos de las Chivas**. El dije hereda las reglas del objeto sagrado.
