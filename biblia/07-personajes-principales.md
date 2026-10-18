@@ -23,7 +23,7 @@
 
 **Arco por temporadas:**
 - **T1:** botado por Mami a un mes de relación, renta a Chizuru por despecho, la presenta como novia real ante familia/amigos y queda atrapado en la mentira fundacional. El rescate de Chizuru en el mar (la caída del ferry en Shimoda) es su punto de no retorno emocional.
-- **T2:** la relación con Chizuru se vuelve "socios de mentira" en serio (El Dorado, el festival, el hospital de la abuela). Conoce a Sumi y sufre el asedio de Ruka, que lo obliga a ser su "novia provisional" (仮の彼女).
+- **T2:** la relación con Chizuru se vuelve "socios de mentira" en serio (el date de ensueño con uniforme escolar, la fiesta de cumpleaños conjunta, el hospital de la abuela). Conoce a Sumi y sufre el asedio de Ruka, que lo obliga a ser su "novia provisional" (仮の彼女).
 - **T3:** el productor. Lanza el crowdfunding de la película de Chizuru, fracasa, aprende con Mini, triunfa. Rueda la película y sostiene la mano de Sayuri en el lecho de muerte.
 - **T4:** el que decide. Declara terminada la tregua de Ruka, resuelve confesarse, y en Hawaiians corre a la capilla: *"¡Escúchame, Mizuhara!"*
 - **T5:** rechazado en la capilla, ve la verdad explotar (Mami, el celular, la familia), defiende a Chizuru entre lágrimas delante de todos, recibe el beso público de ella... y pasa de proteger la mentira a perseguir la verdad. Terremoto mediante, termina la temporada a una propuesta de convivencia de distancia.
