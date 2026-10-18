@@ -109,6 +109,40 @@ La novela cambia de gramática según dónde esté la cámara:
 
 **Nota de estilo:** la 1.ª persona de Jesús es seca, con humor de autodefensa, y evita el melodrama. La 3.ª persona de las cámaras es fría, precisa, con vocabulario de producción («toma», «plano», «corte», «confesionario»). El contraste es el personaje.
 
+### 3.3 El objeto sagrado: la playera de Chivas
+
+En los dos pósters, Jesús lleva una **playera blanca con el escudo de las Chivas**. No es la camiseta de rayas: es una playera de algodón, blanca, con el escudo estampado al pecho. En el póster 2, al lado de Kenjiro de traje negro, la imagen es la tesis de la novela: **México contra Japón, lo casual contra lo producido, el hijo que se queda contra el padre que se fue.**
+
+**Qué es:** una réplica pirata comprada en un tianguis afuera del Estadio Akron en 2014. El escudo está torcido. La tela ya es color hueso. El cuello está amarillento. En la manga hay una mancha de café de olla que nunca salió.
+
+**Su historia (se revela en cuotas, nunca de golpe):**
+
+- **2014.** Kenjiro, inmigrante japonés, quiere pertenecer. Un compañero lo lleva a un partido de las Chivas. Compra la playera en el tianguis. Laura se ríe: «Te vendieron la del Atlas, güey.» Él la usa igual. Lleva a Jesús, de seis años, al estadio, cargado en los hombros. Las Chivas ganan. Es la última vez que Jesús ve a su padre reír a carcajadas.
+- **2015.** Laura derrama café de olla en la manga. Dice que «ya tiene historia». Jesús nunca la lava.
+- **2019.** La familia se muda a Tokio. Kenjiro no desempaca la playera. Jesús, de once años, la saca de la maleta. Le queda enorme. Duerme con ella.
+- **2022.** Muere Laura. Es lo único que Jesús pide de la casa de Guadalajara. Kenjiro no se la disputa.
+- **2026.** Es su armadura. La usa en casa, nunca en la oficina. Es la única prenda de su vida que no es un disfraz.
+
+**El arco de la playera en los 13 capítulos:**
+
+| Cap. | Qué pasa con la playera | Qué significa |
+|---|---|---|
+| 1 | Puesta en casa; doblada en la silla cuando va a ver a Kenjiro. No entra a la oficina. | Es lo que deja afuera para entrar al mundo de su padre. |
+| 2 | La lleva a la primera cita. Chizuru: «¿Vas a venir así?» / «Es mi camisa de la suerte.» / «No es suerte. Es un escudo.» | Chizuru la lee mejor que nadie. |
+| 3 | Chizuru le pide que no la use en público. Él se niega. | Es su único límite. Renta su tiempo, su imagen y sus mentiras; la playera no. |
+| 4 | Chizuru deja de intentar cambiarla. Le pregunta por la mancha. Él le cuenta de Laura. | La playera es la puerta de entrada a la intimidad. |
+| 5 | Producción la ve. Kenjiro: «Déjatela. Es buena tele.» Vestuario le da una oficial. La real va a la mochila. | Su identidad se convierte en ángulo de marketing. |
+| 6 | La oficial está en el vestidor. La real, bajo la almohada. De noche, se pone la real. | Lo único que las cámaras no ven. |
+| 7 | Chizuru la ve en la escalera. «Esa no es la del programa.» / «No.» / «¿Cuál es la de verdad?» / «Esta.» | Chizuru distingue la persona del personaje. |
+| 8 | Se pone la oficial encima de la real. Hina lo abraza y siente el algodón viejo. «¿Tienes dos camisas?» / «Sí.» | Hina toca al Jesús real sin saberlo. |
+| 9 | El beso en la escalera. Él lleva la real. Ella pregunta por la mancha. Él dice que es café de su madre. | La playera es testigo del único beso verdadero. |
+| 10 | El país ve la oficial. Chizuru ve el episodio y sabe la diferencia. | La fama celebra la copia. |
+| 11 | Una cuenta de fans identifica la playera. Se vuelve meme. | Lo íntimo se vuelve marca. La violación es total. |
+| 12 | Kenjiro: «Esa camisa te queda grande.» / «Me queda bien.» / «Te queda como me quedaba a mí.» | El reveal: era suya. Y: «Ya eres una marca. La camisa es lo que te hace querible. No tú.» |
+| 13 | Se quita la oficial y se pone la real. | Última imagen: el chico del capítulo 1, solo, con la misma playera. Pero ya no es el mismo. |
+
+**La regla:** la playera nunca se usa para ecchi, nunca es un chiste y nunca se convierte en merch dentro de la ficción sin que eso sea un acto de violencia. Es el único objeto sagrado del libro. Cuando el programa la convierte en producto, la novela está hablando de la violación de lo íntimo, no de una camiseta.
+
 ---
 
 ## 4. Las cinco bisagras, versión 2.0

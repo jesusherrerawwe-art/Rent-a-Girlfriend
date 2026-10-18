@@ -86,8 +86,25 @@
 | ◆ **Un ajolote de peluche** que le regaló su madre | Lo lleva en la mochila. En Japón todos creen que es un ūpā rūpā. Él no corrige. |
 | ◆ **Un disco duro con todas las telenovelas de Laura** | Su manual de actuación. Lo ve cuando no puede dormir. |
 | ◆ **El guion del documental de su padre, firmado** | Lo guarda como si fuera un diploma. Es lo más parecido a una carta que le ha escrito Kenjiro. |
-| **La playera de Chivas** | Su armadura. La usa cuando necesita recordar de dónde viene. |
+| **La playera de Chivas** | Su armadura y el objeto central de la novela. Ver abajo. |
 | ◆ **Un cuaderno de “observaciones”** | Apunta gestos, frases y reacciones de la gente para robárselos como actor. Es su manera de no sentir. |
+
+### 6.1 La playera de Chivas (objeto central)
+
+No es la camiseta de rayas rojiblancas. Es una **playera blanca de algodón con el escudo de las Chivas estampado al pecho**, comprada en un tianguis afuera del Estadio Akron en 2014. El escudo está un poco torcido porque es réplica pirata. La blanca ya no es blanca: es color hueso. El cuello está amarillento. El estampado está agrietado.
+
+**Su historia:**
+
+- **2014, Guadalajara.** Kenjiro, inmigrante japonés, quiere pertenecer. Un compañero de trabajo lo lleva a un partido de las Chivas. Kenjiro compra la playera en el tianguis. Laura se ríe de él: «Te vendieron la del Atlas, güey.» Él la usa igual. Lleva a Jesús, de seis años, al estadio, cargado en los hombros. Las Chivas ganan. Es el último recuerdo en el que Jesús ve a su padre reír a carcajadas.
+- **2015.** Laura derrama café de olla en la manga. La mancha no sale. Ella dice que «ya tiene historia». Jesús nunca la lava.
+- **2019.** La familia se muda a Tokio. Kenjiro no desempaca la playera. Jesús, de once años, la saca de la maleta. Le queda enorme. Duerme con ella.
+- **2022.** Muere Laura. Es lo único que Jesús pide de la casa de Guadalajara. Kenjiro no se la disputa.
+- **2026.** La playera es su armadura. La usa en casa, nunca en la oficina. Es la única prenda de su vida que no es un disfraz.
+
+**Por qué importa:** porque en el póster 2, Jesús está de playera blanca de las Chivas y Kenjiro de traje negro. Esa imagen es la tesis de la novela: **México contra Japón, lo casual contra lo producido, el hijo que se queda contra el padre que se fue.** Y la tragedia es que Jesús se está volviendo su padre en todo menos en la playera.
+
+**Regla:** la playera nunca se usa para ecchi, nunca es un chiste y nunca se convierte en merch. Es el único objeto sagrado del libro. Cuando el programa la convierte en producto, la novela está hablando de la violación de lo íntimo, no de una camiseta.
+
 
 ---
 

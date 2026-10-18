@@ -67,6 +67,7 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 **Qué pasa:**
 
 - El departamento es pequeño, ordenado y frío. Un librero con guiones. Una televisión que no se usa. Una foto enmarcada: Laura, Sergio y Jesús en Guadalajara. **Kenjiro no está en la foto porque la tomó él.** Jesús tiene dieciocho años y nunca ha visto una foto de los cuatro juntos.
+- Lleva puesta una **playera blanca de las Chivas**, con el escudo estampado y un poco torcido. La mancha de café en la manga. El cuello amarillento. Es lo primero que el lector ve de él: un chico de dieciocho años con la camiseta de un equipo que está a once mil kilómetros.
 - Sobre la mesa: una nota escrita a mano. «Llave de repuesto en el 204. No llegues tarde.» Es de hoy: su padre pasó antes del amanecer.
 - Jesús abre un cajón de la cocina. Está lleno de notas idénticas, de distintos meses. Las guarda. No sabe por qué. (El lector sí: son lo único que su padre le deja por escrito.)
 - Desayuno: cereal de pie, café instantáneo. Se pone la chamarra de la academia. Antes de salir, mira la foto. No dice nada. Cierra la puerta.
@@ -110,6 +111,7 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 **Qué pasa:**
 
+- Antes de salir, Jesús se cambia la playera por una camisa de botones. La dobla y la deja en la silla. Es lo último que mira antes de cerrar la puerta. **La playera no entra a la oficina de su padre.**
 - La oficina es un hormiguero. Pantallas con castings. Pizarras con nombres y flechas. Kenjiro está en su elemento: encantador, preciso, rodeado de gente que quiere algo de él.
 - Ve a Jesús y le dice «mi hijo» a la persona con la que habla por teléfono. Es lo más afectuoso que hace en toda la escena. Luego cuelga y le dice: «Llegas tarde.» Jesús: «Llegué a las siete.» Kenjiro: «Llegaste tarde a las seis y cincuenta y nueve.»
 - La pitch: *Hatsukoi House*. Cinco chicos, cinco chicas, una casa, doce semanas. «El amor de primera vez.» Kenjiro habla de arcos, química y retención. Jesús escucha.
@@ -185,7 +187,7 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 **Qué pasa:**
 
-- La tarjeta sobre la mesa. La foto de Laura. El cajón de notas. La carpeta del programa.
+- La tarjeta sobre la mesa. La foto de Laura. El cajón de notas. La carpeta del programa. Jesús está en la playera de Chivas. La mancha de café en la manga. La playera es el único testigo de la decisión.
 - Jesús marca el número. Contesta una mujer: «Diamond, ¿en qué puedo servirle?»
 - Tres segundos de silencio. Son los tres segundos más importantes del capítulo. En ellos, Jesús decide toda la novela.
 - «Quiero agendar una cita.»
@@ -266,7 +268,21 @@ Jesús narra en primera persona, pasado, con un humor de autodefensa. No es un n
 
 ---
 
-## 9. Lo que necesito de Chuy antes de escribir
+## 9. La playera en el capítulo 1
+
+Aparece tres veces, y las tres veces significa algo distinto:
+
+| Momento | Cómo aparece | Qué dice |
+|---|---|---|
+| **Movimiento 1** | Puesta, en casa, a las 6:40 a.m. | Es su piel. El lector la ve antes de saber su historia. |
+| **Movimiento 3** | Doblada en la silla, mientras él se pone una camisa de botones para ver a su padre. | Es lo que deja afuera para entrar al mundo de Kenjiro. |
+| **Movimiento 6** | Puesta, en la llamada a Diamond. | Es el único testigo de la decisión. Y la ironía: el chico que no quiere ser un producto está a punto de alquilar a una mujer. |
+
+**Regla de escritura:** no explico la playera en el capítulo 1. No digo de dónde salió, ni quién la compró, ni qué significa la mancha. Solo la describo. El lector la va a recordar cuando en el capítulo 4 Chizuru le pregunte por la mancha. La historia del objeto se cuenta en cuotas.
+
+---
+
+## 10. Lo que necesito de Chuy antes de escribir
 
 1. **¿Apruebas la apertura con el documental?** Es el corazón del capítulo. Si no te convence, la cambio por una escena en la academia, pero perdemos el tema.
 2. **¿El nombre de la academia?** Tengo «la academia» a secas. Si quieres un nombre japonés, lo invento.
