@@ -104,7 +104,7 @@ Me acerqué.
 
 "¿Qué estás diciendo?"
 
-Se sobresaltó. Se le subió el color a las orejas.
+Se sobresaltó. Se puso roja hasta el cuello.
 
 "Mi presentación. La tengo que decir de memoria."
 
@@ -1338,7 +1338,7 @@ Le escribí otra vez: "¿Estás bien?"
 
 Tampoco contestó.
 
-Pensé en el hospital. Pensé en la llamada del domingo. Pensé en la palabra "mañana" y en todo lo que no me había dicho. La regla dos decía que preguntara y luego callara. Nadie me había dicho qué hacer cuando la otra persona se calla.
+Pensé en el hospital. Pensé en la llamada del sábado. Pensé en la palabra "mañana" y en todo lo que no me había dicho. La regla dos decía que preguntara y luego callara. Nadie me había dicho qué hacer cuando la otra persona se calla.
 
 Dejé el teléfono en el bolsillo.
 
@@ -1348,7 +1348,7 @@ A las siete y cuarto llegó el otro mensaje.
 
 Lo leí tres veces.
 
-Mi padre no me había felicitado. Me había dado una nota de dirección. Y la nota no era para mí: era para la escena.
+Mi padre no me había felicitado. Me había felicitado el veinte. Y el veinte no era mío: era de la escena.
 
 "Ahora no la decepciones."
 

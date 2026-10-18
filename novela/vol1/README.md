@@ -14,10 +14,10 @@
 |---|---|---|---|
 | [`00-prologo.md`](00-prologo.md) | Portadilla, epígrafe y prólogo | 735 | ✅ Entregado |
 | [`01-el-hijo-del-director.md`](01-el-hijo-del-director.md) | Capítulo 1 | 5,939 | ✅ Entregado |
-| [`02-noventa-minutos.md`](02-noventa-minutos.md) | Capítulo 2 | 5,288 | ✅ Entregado |
+| [`02-noventa-minutos.md`](02-noventa-minutos.md) | Capítulo 2 | 5,294 | ✅ Entregado |
 | [`03-lo-que-se-dice-en-confianza.md`](03-lo-que-se-dice-en-confianza.md) | Capítulo 3 | 6,034 | ✅ Entregado |
 | [`04-el-ensayo.md`](04-el-ensayo.md) | Capítulo 4 | 5,383 | ✅ Entregado |
-| [`05-la-audicion.md`](05-la-audicion.md) | Capítulo 5 | 5,255 | ✅ Entregado |
+| [`05-la-audicion.md`](05-la-audicion.md) | Capítulo 5 | 5,250 | ✅ Entregado |
 | `06-bienvenidos-a-hatsukoi-house.md` | Capítulo 6 | — | ⏳ Pendiente |
 | `07-la-coach.md` | Capítulo 7 | — | ⏳ Pendiente |
 | `08-la-primera-cita.md` | Capítulo 8 | — | ⏳ Pendiente |
@@ -27,8 +27,8 @@
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 28,634 palabras (prólogo + caps. 1 a 5).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,939, el cap. 2 a 5,288, el cap. 3 a 6,034, el cap. 4 a 5,383 y el cap. 5 a 5,255; no es un problema, mientras el volumen no se desborde.
+**Total entregado:** 28,635 palabras (prólogo + caps. 1 a 5).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,939, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383 y el cap. 5 a 5,250; no es un problema, mientras el volumen no se desborde.
 
 ---
 
@@ -71,8 +71,8 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 | **Primera aparición pública** | Viernes 13/11, Shibuya. Chizuru le pide que no use la playera de las Chivas. Él se cambia en un conbini, pero no por ella: la guarda en la mochila. Kibe los ve y pregunta si es su novia. Jesús no desmiente. | Cap. 3 |
 | **Manual de emergencia** | Tres reglas impresas en un conbini y una página en blanco: 1) no hables de tu madre; 2) pregunta y luego calla; 3) si no sabes qué decir, di la verdad. Grapado al revés. No es un contrato. | Cap. 4 |
 | **Regla 7** | Hoja aparte, escrita a mano: «No te enamores de tu profesor». No está en el manual impreso; llega al final del cap. 4. | Cap. 4 |
-| **Lavandería** | Domingo 22/11, Nerima. La playera de las Chivas. Chizuru duerme cinco minutos; Jesús no la toca. «Por no hacer nada». | Cap. 4 |
-| **Llamada del hospital** | Domingo 22/11. Chizuru dice «Ichinose Sayuri», «soy su nieta», «mañana», «no le digas a la producción». Jesús no pregunta. Primera sombra. | Cap. 4 |
+| **Lavandería** | Sábado 21/11, Nerima. La playera de las Chivas. Chizuru duerme cinco minutos; Jesús no la toca. «Por no hacer nada». | Cap. 4 |
+| **Llamada del hospital** | Sábado 21/11. Chizuru dice «Ichinose Sayuri», «soy su nieta», «mañana», «no le digas a la producción». Jesús no pregunta. Primera sombra. | Cap. 4 |
 | **Hina (primera aparición)** | Solo en foto, dentro del sobre de producción: Asahina Hinata, 19, Nerima, delantal de panadería, harina en la manga, risa fuera de cuadro. | Cap. 4 |
 | **Reglamento de producción** | Sin teléfonos después de medianoche; sin contacto con el exterior; una rosa por semana. Nota del showrunner: «No buscamos actores. Buscamos personas que no sepan que están actuando». | Cap. 4, plan §6 |
 | **Primera jornada** | Sábado 05/12, 10:00, Estudio 4. Prueba de química (cap. 5). | Cap. 4 |
@@ -140,7 +140,7 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 
 ## 6. Registro de cambios
 
-- **18/10/2026:** se entrega el cap. 5 «La audición» (5,255 palabras). Formato híbrido: primera persona fuera del Estudio 4 y guion (台本) dentro, con dos rupturas. Entra Hina como persona: la sala de espera, la improvisación, el pasillo, la deuda de la panadería y el melon pan. Se establecen la mentira de Jesús sobre su padre, la nota «Ship» de la 構成表, la regla 4 escrita por Jesús y la presentación de Chizuru pendiente para el cap. 6. Se corrigieron el número de finalistas, el nombre de Hina, la ignorancia de Kibe sobre el contrato y la cronología de los trenes.
+- **18/10/2026:** se entrega el cap. 5 «La audición» (5,250 palabras). Formato híbrido: primera persona fuera del Estudio 4 y guion (台本) dentro, con dos rupturas. Entra Hina como persona: la sala de espera, la improvisación, el pasillo, la deuda de la panadería y el melon pan. Se establecen la mentira de Jesús sobre su padre, la nota «Ship» de la 構成表, la regla 4 escrita por Jesús y la presentación de Chizuru pendiente para el cap. 6. Se corrigieron el número de finalistas, el nombre de Hina, la ignorancia de Kibe sobre el contrato y la cronología de los trenes.
 - **18/10/2026:** se entrega el cap. 4 «El ensayo» (5,383 palabras). Tres reglas escritas (madre, escucha, verdad), la lavandería como primera escena de amor real, la llamada del hospital como primera sombra y el sobre de producción con la foto de Hina. Se cierra con la Regla 7 escrita a mano. Se corrigieron la línea temporal del sobre (24/11, a once días de la audición), la contradicción del encargo de Kenjiro y la repetición de la risa y de la «sonrisa de Diamond». Se añadieron las tres sesiones de la primera semana y el reglamento de producción del cap. 6.
 - **18/10/2026:** se entrega el cap. 3 «Lo que se dice en confianza» (6,024 palabras). Tres lecciones vividas (cuerpo, silencio, mentira), confesión en la terraza, contrato como giro de la mitad, primera aparición pública con la playera guardada en la mochila y cierre con la pregunta de Kibe. Se añaden la referencia D-54 en el correo de producción, cuatro páginas del cuaderno (15, 18, 22, 31) y el contrato completo. Se corrige la línea temporal: 29/10, 01/11, 05/11, 12/11 y 13/11. Se actualiza la tabla de la playera en el plan §3.3 y se añade la nota del manual al §cap. 4.
 - **18/10/2026:** Chuy elige que el cap. 3 pese más el entrenamiento que el contrato. Se reordena el plan: tres lecciones (cuerpo, silencio, mentira) antes de la propuesta; el contrato pasa a ser el giro de la mitad.

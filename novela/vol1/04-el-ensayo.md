@@ -227,7 +227,7 @@ Se levantó. Se puso el abrigo. El señor del delantal le dio un dulce. Ella lo 
 
 Se fue. La campanita de la puerta sonó. Yo me quedé con el manual abierto y el té frío.
 
-Esa fue la primera regla. Esa semana me dio tres sesiones. La tercera no estaba en el contrato. La cumplí una semana. El domingo de lluvia, la rompí.
+Esa fue la primera regla. Esa semana me dio tres sesiones. La tercera no estaba en el contrato. La cumplí una semana. El sábado de lluvia, la rompí.
 
 ---
 
@@ -570,7 +570,7 @@ Se fue. Yo me quedé en el puente, mirando el agua, pensando que la regla tres e
 
 **LA LAVANDERÍA**
 
-El domingo 22 de noviembre llovió.
+El sábado 21 de noviembre llovió.
 
 La lavandería estaba en una calle detrás de la estación de Nerima, entre una peluquería cerrada y una tienda de mascotas. Tenía seis lavadoras, cuatro secadoras, una planta de plástico y una televisión muda colgada en la esquina. Olía a detergente y a ropa caliente.
 
@@ -716,7 +716,7 @@ Chizuru levantó la vista. Me miró como se mira a alguien que acaba de decir al
 
 "La historia. Pero no empieces por el final."
 
-Le conté. Le conté lo del partido de 2014, la playera pirata, el escudo torcido, la broma de mi madre. Le conté lo del café de olla. Le conté lo de la risa de mi padre en la tribuna. No le conté lo del hospital. No le conté lo del ataúd. No hacía falta.
+Le conté. Le conté lo del partido de 2015, la playera pirata, el escudo torcido, la broma de mi madre. Le conté lo del café de olla. Le conté lo de la risa de mi padre en la tribuna. No le conté lo del hospital. No le conté lo del ataúd. No hacía falta.
 
 Chizuru no me interrumpió. No dijo "lo siento". No dijo "qué difícil". No dijo nada. Solo escuchó.
 

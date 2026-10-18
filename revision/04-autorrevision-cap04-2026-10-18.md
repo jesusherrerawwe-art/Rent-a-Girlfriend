@@ -33,8 +33,8 @@ El capítulo usa el mismo sistema que los anteriores: los documentos van en bloc
 | Regla 1: no hables de tu madre | Sábado 14/11 | La lección de la puerta y la pared. Él aprende a contar la mancha, no la muerte |
 | Regla 2: pregunta y luego calla | Martes 17/11 | Ejercicio en el conbini. Tanaka. Jesús lo hace mal; Chizuru lo hace bien |
 | Regla 3: di la verdad | Viernes 20/11 | Puente de Kanda. «La verdad siempre suena a guion.» La risa que ella tapa |
-| La lavandería | Domingo 22/11 | Lluvia. La playera. Chizuru duerme cinco minutos. Jesús no la toca |
-| La llamada | Domingo 22/11 | «Ichinose Sayuri». «Mañana». La primera sombra. Él no pregunta |
+| La lavandería | Sábado 21/11 | Lluvia. La playera. Chizuru duerme cinco minutos. Jesús no la toca |
+| La llamada | Sábado 21/11 | «Ichinose Sayuri». «Mañana». La primera sombra. Él no pregunta |
 | El sobre | Martes 24/11 | Reglamento, calendario, guion, credencial, fotos. Hina. «Para entonces vas a estar listo» |
 | Regla 7 | Martes 24/11 | «No te enamores de tu profesor.» Él se ríe. Ella no |
 

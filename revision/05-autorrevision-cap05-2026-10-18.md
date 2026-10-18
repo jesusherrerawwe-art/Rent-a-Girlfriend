@@ -2,7 +2,7 @@
 
 **Archivo:** `novela/vol1/05-la-audicion.md`
 **Fecha:** 18/10/2026
-**Extensión:** 5,255 palabras · 1,475 líneas
+**Extensión:** 5,250 palabras · 1,475 líneas
 **Estado:** entregado a Chuy para lectura. No se publica nada sin su aprobación.
 
 ---
@@ -103,8 +103,8 @@ Las dos rupturas del guion están marcadas con una línea horizontal y un cambio
 
 ### Voz y repeticiones
 
-16. **«Se rió».** Aparecía dieciséis veces. Se redujo a doce y se varió con «se le escapó la risa», «soltó una risa» y «soltó una carcajada». La risa sigue siendo el tell de Hina, pero deja de ser muletilla.
-17. **«Se quedó callada» y «Se quedó mirándome».** Se redujeron a cuatro cada una y se alternaron con «tardó en contestar» y «me miró de reojo».
+16. **«Se rió».** Aparecía dieciséis veces. Se redujo a diez y se varió con «se le escapó la risa», «soltó una risa» y «soltó una carcajada». La risa sigue siendo el tell de Hina, pero deja de ser muletilla.
+17. **«Se quedó callada» y «Se quedó mirándome».** Se quedaron en dos cada una y se alternaron con «tardó en contestar» y «me miró de reojo».
 18. **El doble «café de máquina».** El pasillo y la sala de espera olían a lo mismo. La sala de espera ahora huele a plástico caliente y a desinfectante.
 19. **La descripción duplicada del chico de los audífonos.** Se quitó la primera y se dejó la acción.
 

@@ -326,7 +326,7 @@ La cafetería estaba a cinco minutos. Fuimos por una calle lateral, lejos del ru
 
 "Cerca de aquí", dijo. Y cambió de tema. "¿Te gusta el café?"
 
-No dijo dónde. Lo anoté mentalmente y lo olvidé a los dos minutos. La regla tres decía que no se pregunta. La pregunté igual. Ella no me lo dijo. Las dos cosas me parecieron bien.
+No dijo dónde. Lo anoté mentalmente y lo olvidé a los dos minutos. La tercera regla de Diamond decía que no se pregunta. La pregunté igual. Ella no me lo dijo. Las dos cosas me parecieron bien.
 
 "No sé. Nunca he pedido uno."
 
@@ -900,7 +900,7 @@ Se dio la vuelta y caminó hacia la estación. No miró atrás. En la esquina, a
 
 Quise seguirla. No lo hice. Regla dos: no hay contacto fuera de la cita. Regla tres: no se pregunta el nombre real. Regla cuatro: no se toca.
 
-Las reglas estaban escritas para gente que sabía lo que hacía. Yo no.
+Las reglas de Diamond estaban escritas para gente que sabía lo que hacía. Yo no.
 
 Yo me quedé bajo el farol.
 
@@ -922,7 +922,7 @@ Dije su nombre en voz alta.
 
 Una mujer en bicicleta volteó. Yo miré el piso.
 
-No sabía su nombre. No sabía de dónde era. No sabía si "Chizuru" era su nombre o su personaje. La regla tres lo prohibía. Yo había pagado por noventa minutos y me había llevado una pregunta de regalo.
+No sabía su nombre. No sabía de dónde era. No sabía si "Chizuru" era su nombre o su personaje. La tercera regla de Diamond lo prohibía. Yo había pagado por noventa minutos y me había llevado una pregunta de regalo.
 
 "Qué ridículo", dije.
 
