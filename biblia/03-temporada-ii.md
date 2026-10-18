@@ -2,7 +2,7 @@
 
 > **Biblia del universo de Rent a Girlfriend (かのかり) — Documento de referencia para el proyecto "The Jesús Fujioka Story"**
 >
-> Emitida del **2 de julio al 17 de septiembre de 2022** en el bloque スーパーアニメイズム (red nacional MBS/TBS de 28 estaciones). 12 episodios (**満足度13 a 24**, la numeración continúa la de la T1). Cubre aproximadamente los tomos 8 a 14 del manga.
+> Emitida del **2 de julio al 17 de septiembre de 2022** en el bloque スーパーアニメイズム (red nacional MBS/TBS de 28 estaciones). 12 episodios (**満足度13 a 24**, la numeración continúa la de la T1). Cubre aproximadamente los tomos 7 a 12 del manga (caps. ~51-96).
 >
 > **Música:** OP 「ヒミツ恋ゴコロ」 (Himitsu Koi-gokoro, "El corazón enamorado secreto") de CHiCO with HoneyWorks; ED 「言えない feat. asmi」 (Ienai, "No puedo decirlo") de MIMiNARI.
 >
