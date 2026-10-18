@@ -18,19 +18,25 @@
 
 ## 📖 Sinopsis
 
-Jesús Fujioka Hernández tiene veinte años, dos nacionalidades que no puede conservar para siempre y una costumbre que no confiesa en voz alta: llenar los silencios con gente que, en teoría, no debería quedarse.
+Jesús Fujioka Hernández tiene dieciocho años, nació en Guadalajara y creció en los sets: su madre, Laura, era actriz de telenovelas; su hermano mayor, Sergio, animador y experto en efectos especiales; y su padre, Kenjiro Fujioka, dirigió **「El Sol tras el Nopal」**, el documental sobre hāfu que puso los nombres de sus hijos en los créditos.
 
-En un edificio de Nerima donde cada puerta guarda un secreto, Jesús conoce a Chizuru Mizuhara —la rental girlfriend perfecta de la agencia Diamond— y descubre que el mundo de ella y el suyo se parecen más de lo que quisiera admitir. Lo que empieza como un malentendido de vecinos se convierte en una doble vida compartida: una abuela que necesita creer, una familia que necesita un nombre en la mesa, y dos personas que tendrán que aprender a querer sin contrato.
+Después de la muerte de Laura, padre e hijo se mudaron a Tokio. Kenjiro se convirtió en showrunner de un reality de amor adolescente y, sin darse cuenta, en un hombre más serio y más lejano. Jesús entró a una academia de actuación y se preparó para unirse al programa de su padre.
 
-Entre balcones, trenes de medianoche, ajolotes y mil grullas de papel, Jesús tendrá que decidir qué parte de su vida es real… y si el amor, como el alquiler, también tiene hora de salida.
+Entonces cayó en cuenta de algo terrible: el show es de **amor**. De enamorarse. De besarse.
+
+Y Jesús Fujioka Hernández jamás ha tenido novia.
+
+Para ganar “experiencia”, su amigo Kibe le recomienda la agencia Diamond, y Jesús conoce a **Chizuru Mizuhara**, una *rental girlfriend* tan perfecta como desesperada por un papel protagónico. Lo que Jesús no sabe es que Chizuru ya descubrió quién es su padre, y que una parte de ella acaba de encontrar en él la puerta de entrada al cine japonés.
+
+Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a punto de verlo por televisión.
 
 > **Géneros:** slice of life · comedia romántica · drama familiar · ecchi (sugerente, no explícito)
 >
-> **Formato:** 26 capítulos · novela ligera · Universidad de Nerima, Tokio
+> **Formato:** 26 capítulos · novela ligera · Tokio, Japón
 >
 > **Distribución:** repo privado, acceso por invitación. Sin publicación pública ni fines comerciales.
 >
-> **Estado:** en desarrollo (biblia completa; ficha de personaje y outline en curso)
+> **Estado:** en desarrollo (biblia completa; premisa y ficha de Jesús en v0.1)
 
 ---
 
@@ -40,9 +46,11 @@ Entre balcones, trenes de medianoche, ajolotes y mil grullas de papel, Jesús te
 |---|---|
 | Biblia del universo (13 secciones) | ✅ Verificada y corregida (18/10/2026) |
 | Revisión editorial del repo | ✅ [`revision/01-revision-editorial-2026-10-18.md`](revision/01-revision-editorial-2026-10-18.md) |
-| Ficha de Jesús Fujioka Hernández | ⏳ En curso |
-| Matriz de canon y cinco bisagras | ⏳ Pendiente |
-| Plan de acción de los 26 capítulos | ⏳ Pendiente |
+| Premisa y canon (v0.1) | ✅ [`novela/00-premisa-y-canon.md`](novela/00-premisa-y-canon.md) |
+| Ficha de Jesús (v0.1) | ✅ [`novela/01-jesus-fujioka.md`](novela/01-jesus-fujioka.md) |
+| Matriz de canon y cinco bisagras | 🟡 Propuesta, pendiente de validación |
+| Outline de los 26 capítulos | ⏳ Pendiente |
+| Plan de acción | ⏳ Pendiente |
 | Capítulo 1 | ⏳ Pendiente |
 
 ---
