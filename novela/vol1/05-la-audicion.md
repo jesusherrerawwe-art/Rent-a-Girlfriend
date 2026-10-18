@@ -1026,7 +1026,7 @@ Me miró.
 
 "No sé."
 
-"Eso es lo que dices siempre."
+"¿Eso es todo lo que tienes?"
 
 "Es lo único que sé decir."
 
