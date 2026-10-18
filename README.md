@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/poster-fan.webp" alt="The Jesús Fujioka Story — póster de fan" width="420"/>
+<img src="assets/poster.png" alt="The Jesús Fujioka Story — póster promocional" width="500"/>
+
+<img src="assets/poster2.png" alt="The Jesús Fujioka Story — póster 2" width="500"/>
 
 # 💘 El corazón no se alquila
 
@@ -61,7 +63,7 @@ Toda la documentación de referencia vive en [`biblia/`](biblia/README.md):
 Este es un **proyecto de fan, sin afiliación, patrocinio ni fines comerciales**. *Kanojo, Okarishimasu* (彼女、お借りします), sus personajes y su universo son obra de **Miyajima Reiji (宮島礼吏)** y propiedad de **Kodansha** y del comité de producción de la serie.
 
 - El proyecto no se presenta como material oficial ni anuncia ninguna emisión, publicación o licencia.
-- Los pósters son **fan art** con un disclaimer explícito; las versiones originales se conservan solo como referencia de trabajo.
+- Los pósters son **fan art original de Chuy** y se reproducen tal como él los creó.
 - Se respetan las reglas de contenido de las plataformas donde se publique (Wattpad y afines).
 - Si algún titular de derechos solicita un cambio o la retirada de material, se atenderá de inmediato.
 

@@ -97,12 +97,12 @@ El repo dice que el manga va por **満足度443 “前日と彼女”** (2026年
 
 **Dónde está:** `assets/poster.png` incluye la leyenda “©宮島礼吏・講談社／「彼女、お借りします」製作委員会2025” y el texto “放送決定！” (“¡emisión confirmada!”), además del logo oficial de la obra.
 
-**Por qué es un problema:** un fanfic puede usar personajes con un disclaimer claro, pero **no debe presentarse como material licenciado ni anunciar una emisión oficial**. Esa línea de copyright y el “放送決定” hacen que el póster parezca una pieza promocional de la franquicia. Para Wattpad y para la comunidad japonesa, eso es una falta de respeto al autor original y un riesgo innecesario.
+**Por qué conviene revisarlo:** un fanfic puede usar personajes con un disclaimer claro, pero **no debe presentarse como material licenciado ni anunciar una emisión oficial**. Esa línea y el “放送決定” hacen que el póster parezca una pieza promocional de la franquicia.
 
-**Corrección propuesta:**
-- Sustituir la línea de copyright por: “Fan art no oficial — homenaje a 彼女、お借りします. Personajes y obra original ©宮島礼吏・講談社. Sin afiliación ni fines comerciales.”
-- Quitar “放送決定” y el logo oficial del póster, o reemplazarlos por el título del fanfic.
-- Añadir el disclaimer en el README y en la sinopsis de Wattpad.
+**Corrección aplicada (revisada tras conversación con Chuy):** **el arte es de Chuy y se respeta tal como lo creó.** No se edita la imagen. El disclaimer va en **texto**, en el README y en la sinopsis de Wattpad:
+> “Fan art no oficial — homenaje a 彼女、お借りします. Personajes y obra original ©宮島礼吏・講談社. Sin afiliación ni fines comerciales.”
+
+Si en algún momento se quiere una versión sin el texto japonés ni el logo, se hace **una pieza nueva** y con su aprobación, nunca retocando la original.
 
 ### 2.7. El README no está a la altura de la biblia
 
@@ -315,7 +315,7 @@ No recomiendo convertirlo en “el quinto pretendiente” de Chizuru. La serie y
 | 2.3 | Música de la T3 (Itagaki, Otake, Tsukada) | `01`, `04` | ✅ |
 | 2.4 | Fila de Kuribayashi en la tabla "quién sabe qué" | `08` (dos filas separadas) | ✅ |
 | 2.5 | Estado del manga (443 → 444) | `09`, `11` y ficha técnica del índice | ✅ |
-| 2.6 | Póster con copyright y "放送決定" | `assets/poster-fan.png/.webp`, `assets/poster2-fan.png/.webp`, README | ✅ |
+| 2.6 | Póster con copyright y "放送決定" | README (disclaimer en texto); **los pósters originales se conservan sin editar** | ✅ |
 | 2.7 | README sin sinopsis, índice ni disclaimer | `README.md` reescrito | ✅ |
 | 2.8 | Sección 13 anunciada sin archivo | `biblia/13-temporada-vi.md` (stub) + índice actualizado | ✅ |
 | 3.1 | "Elrodaje" | `01` | ✅ |
@@ -329,7 +329,9 @@ No recomiendo convertirlo en “el quinto pretendiente” de Chizuru. La serie y
 | — | Bradicardia de Ruka (precisión médica) | `02`, `07` | ✅ |
 | — | Cobertura T2 (~96 → 103) y T5 (tomos 25-30) | `03`, `06`, `09` | ✅ |
 
-**Pendiente por decisión de Chuy:** el glosario (3.8), la sustitución del mapa ASCII por un diagrama (3.7) y el borrado de los pósters originales (hoy conservados como referencia de trabajo).
+**Pendiente por decisión de Chuy:** el glosario (3.8) y la sustitución del mapa ASCII por un diagrama (3.7).
+
+**Nota de proceso:** las versiones retocadas de los pósters (`*-fan.*`) se eliminaron del repo el 18/10/2026. Fue un error de mi parte intervenir el arte original sin consultarlo; queda registrado aquí para que no se repita.
 
 ---
 
