@@ -6,7 +6,7 @@
 
 # 💘 The Jesús Fujioka Story
 
-### *a fanfic insert... pero todos sabemos quién es el protagonista.* 🇲🇽❤️🇯🇵
+### *a fanfic insert... pero todos sabemos quién es el verdadero protagonista.* 🇲🇽❤️🇯🇵
 
 **Un fanfic original inspirado en Rent a Girlfriend (Kanojo, Okarishimasu)**
 
