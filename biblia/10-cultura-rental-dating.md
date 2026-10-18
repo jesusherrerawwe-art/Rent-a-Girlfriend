@@ -45,7 +45,7 @@ Las 制止事項 (prohibiciones) de la agencia real (Art. 7 de sus términos de 
 9. Solo mayores de 18 (niños de preparatoria, fuera).
 
 **Cómo la obra dramatiza cada regla:**
-- La regla 3 (piel expuesta) es **chiste recurrente**: en la T2, la cita en el acuapark El Dorado existe porque el rental no puede ir a la alberca "así nomás" — y Hawaiians funciona porque el viaje es **familiar**, no un date de renta: por eso Chizuru puede estar en traje de baño sin romper el código.
+- La regla 3 (piel expuesta) pesa sobre toda la serie: no existe un solo date de alquiler en alberca — los chapoteos de Hawaiians (T4-T5) son posibles porque el viaje es **familiar**, no un date de renta: por eso Chizuru puede estar en traje de baño sin romper el código.
 - La regla 4 es el muro del que se enamora la trama: cada contacto físico que importa (el beso de la película, el rescate en el mar, el beso público de la T5) ocurre **fuera del contrato**.
 - La regla 1 es el gatillo del destino: Chizuru y Kazuya son vecinos — el "contacto privado" no lo buscó el cliente: lo regaló el destino.
 - La regla 5 define el suspenso de identidad: nadie puede preguntarle a una cast quién es de verdad; Kazuya pasa meses sin saber que "Mizuhara" es la Ichinose de la puerta del 204.
