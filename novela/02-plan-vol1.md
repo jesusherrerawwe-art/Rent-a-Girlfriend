@@ -117,7 +117,7 @@ En los dos pósters, Jesús lleva una **playera blanca con el escudo de las Chiv
 
 **Su historia (se revela en cuotas, nunca de golpe):**
 
-- **2014.** Kenjiro, inmigrante japonés, quiere pertenecer. Un compañero lo lleva a un partido de las Chivas. Compra la playera en el tianguis. Laura se ríe: «Te vendieron la del Atlas, güey.» Él la usa igual. Lleva a Jesús, de seis años, al estadio, cargado en los hombros. Las Chivas ganan. Es la última vez que Jesús ve a su padre reír a carcajadas.
+- **2014.** Kenjiro, inmigrante japonés, quiere pertenecer. Un compañero lo lleva a un partido de las Chivas. Compra la playera en el tianguis. Laura se ríe: «Te vendieron la del Atlas, güey.» Es una broma: la playera es de las Chivas, pero el escudo está torcido y el vendedor lo estafó. En Guadalajara, eso es un insulto con cariño. Él la usa igual. Lleva a Jesús, de seis años, al estadio, cargado en los hombros. Las Chivas ganan. Es la última vez que Jesús ve a su padre reír a carcajadas.
 - **2015.** Laura derrama café de olla en la manga. Dice que «ya tiene historia». Jesús nunca la lava.
 - **2019.** La familia se muda a Tokio. Kenjiro no desempaca la playera. Jesús, de once años, la saca de la maleta. Le queda enorme. Duerme con ella.
 - **2022.** Muere Laura. Es lo único que Jesús pide de la casa de Guadalajara. Kenjiro no se la disputa.
