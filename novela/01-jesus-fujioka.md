@@ -115,7 +115,7 @@ No es la camiseta de rayas rojiblancas. Es una **playera blanca de algodón con 
 | **Kenjiro** | Padre | Lo admira y le reprocha sin decirlo. Necesita su mirada y la teme. |
 | **Sergio** | Hermano | El que se fue. La ausencia que nadie nombra. |
 | **Laura** | Madre (fallecida) | La voz que todavía lo corrige. |
-| **Kibe** | Mejor amigo | El único que le dice la verdad y el único al que Jesús no le miente bien. |
+| **Kibe** | Mejor amigo de la infancia | Hijo de los dueños de un ramen shop en Nerima. No pertenece al mundo del espectáculo. Es el único que le dice la verdad y el único al que Jesús no le miente bien. |
 | **Chizuru** | Rental girlfriend / obsesión profesional | Ella lo usa para llegar a Kenjiro. Él la usa para aprender a amar. Ninguno lo admite. |
 | **Mami** | Ex casi-relación | La que lo dejó sin razón. La herida abierta que el show va a reabrir. |
 | **Mini** | Vecina | Vio el documental. Sabe quién es Jesús antes de conocerlo. |

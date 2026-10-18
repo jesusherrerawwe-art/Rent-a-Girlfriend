@@ -223,14 +223,14 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 
 1. **Cold open documental.** Fragmento de 「El Sol tras el Nopal」: un niño de ocho años, Jesús, mirando a cámara. La voz en off de Kenjiro pregunta: «¿Qué eres?». El niño contesta: «Mexicano». La película lo trata como una revelación. Jesús, diez años después, ve el documental solo en la oscuridad de su departamento. Primera línea de la novela: *«Esa no es mi voz.»*
 2. **La mañana.** Departamento en Nerima. Una nota de Kenjiro en la mesa: «Llave de repuesto en el 204. No llegues tarde.» Jesús desayuna cereal de pie. Su rutina: academia de actuación, tren, conbini.
-3. **La academia.** Kibe lo espera. Es el único que lo trata como persona y no como «el hijo de». Kibe le pregunta por el cast. Jesús finge que no sabe nada.
+3. **La academia.** Clase en la Tokyo Acting Juku. El profesor les pide confesar un amor que no existe. Jesús se congela. Un compañero le pide que lo presente con Kenjiro. El apellido no lo deja en paz.
 4. **La llamada.** Kenjiro no llama: manda un mensaje. «Estás dentro. Te espero a las siete.» No hay audición. No hay prueba. Solo el apellido.
 5. **La oficina de Kenjiro.** Primera escena real padre-hijo. Kenjiro habla del programa como producto: «Es *Hatsukoi House*. Cinco chicos, cinco chicas, una casa, doce semanas. Amor de primera vez.» Jesús pregunta si lo eligió por él. Kenjiro contesta con una nota de producción. No es crueldad: es distracción.
 6. **El pánico.** Jesús lee el formato. Confesiones a cámara. Citas. Besos. «Primera vez» como concepto central. Y él nunca ha tenido novia. Ni una. Ni un casi. Solo Mami, que lo dejó sin explicación hace un año.
-7. **Kibe y la tarjeta.** Kibe se ríe. Luego deja de reírse. Saca una tarjeta de la cartera: *Diamond, agencia de acompañantes*. «Mi primo las usa. Es legal. Es raro. Pero es legal.» Jesús la mira como si fuera una granada.
+7. **El ramen de Kibe.** Kibe es el hijo de los dueños del ramen shop de Nerima y el primer amigo que Jesús hizo en Tokio. No estudia actuación; trabaja en el negocio familiar. Le cuenta una historia de Laura. Y le da la tarjeta: *Diamond, agencia de acompañantes*. «Mi primo las usa. Es legal. Es raro. Pero es legal.»
 8. **Cierre.** Jesús marca el número. Una voz de mujer: «Diamond, ¿en qué puedo servirle?». Él tarda tres segundos en contestar. Esos tres segundos son el resto de la novela.
 
-**Dispositivo estructural:** el capítulo está construido como el **piloto de una serie**: cada personaje importante tiene su «entrada» (Kenjiro en la oficina, Kibe en la academia, Chizuru en el teléfono). El documental funciona como *frío*: nos dice quién era Jesús antes de que él pudiera elegir.
+**Dispositivo estructural:** el capítulo está construido como el **piloto de una serie**: cada personaje importante tiene su «entrada» (Kenjiro en la oficina, Kibe en el ramen, Chizuru en el teléfono). El documental funciona como *frío*: nos dice quién era Jesús antes de que él pudiera elegir.
 
 **Giro emocional:** de «me dieron el trabajo» a «me van a exhibir».
 
@@ -618,9 +618,10 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 - **Lo que sabe:** nada de la mentira. Por eso duele.
 
 ### Kibe
-- **Función:** el amigo que dice la verdad. El alivio cómico con un cuchillo.
-- **Escena clave:** cap. 3, «Entonces sí es tu novia.» Y cap. 6, el chat que Jesús no contesta.
-- **Lo que sabe:** que Jesús nunca ha tenido novia. No sabe lo de Diamond.
+- **Función:** el amigo que dice la verdad. El alivio cómico con un cuchillo. **El único personaje que no pertenece al mundo del espectáculo.**
+- **Quién es:** hijo de los dueños de un ramen shop en Nerima. Conoció a Jesús a los 11, cuando la familia Fujioka llegó de México. No estudia actuación: trabaja en el negocio familiar. Es la persona más normal del libro.
+- **Lo que sabe:** que Jesús nunca ha tenido novia. Conoció a Laura. No sabe lo de Diamond hasta el cap. 3.
+- **Escena clave:** cap. 1, el ramen; cap. 3, «Entonces sí es tu novia»; cap. 6, el chat que Jesús no contesta.
 
 ### Mami Nanami
 - **Función:** la herida original y la bomba del Vol. 2.

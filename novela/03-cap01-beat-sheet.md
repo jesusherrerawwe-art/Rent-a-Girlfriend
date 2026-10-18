@@ -81,25 +81,26 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 ---
 
-### Movimiento 2 — La academia (800 palabras)
+### Movimiento 2 — La academia (700 palabras)
 
-**Lugar:** academia de actuación, Nerima. 9:00 a.m.
+**Lugar:** 東京演技塾 (*Tokyo Acting Juku*), Nerima. 9:00 a.m.
 
-**Personajes:** Jesús, Kibe, el profesor, un compañero opportunista.
+**Personajes:** Jesús, el profesor (un actor de reparto venido a menos), un compañero oportunista, el resto de la clase.
 
 **Qué pasa:**
 
-- El profesor da una clase sobre la verdad en la actuación: «Actuar no es mentir. Es decir la verdad con el cuerpo de otra persona.» Jesús toma notas. Kibe duerme.
-- Kibe es grande, ruidoso y leal. Es el único que lo trata como Jesús y no como «el hijo de Fujioka». Le pregunta por el casting. Jesús dice que no sabe nada. Kibe: «Tu papá te metió, ¿verdad?». Jesús no contesta. Kibe: «No es malo. Es nepotismo. Pero no es malo.»
-- Un compañero se acerca y le pide que lo presente con Kenjiro. Jesús dice que no. El compañero: «No seas mamón.» Se va. Kibe lo mira irse. «Ese vende a su mamá por un papel.» Jesús: «Yo también.» Kibe: «Tú no tienes papá, brother. Es distinto.» Es un chiste. Duele.
-- Suena el teléfono de Jesús. Mensaje de Kenjiro: «Estás dentro. Te espero a las siete.» Sin audición. Sin explicación.
+- El profesor da la clase del día: «Actuar no es mentir. Es decir la verdad con el cuerpo de otra persona.» Jesús toma notas. Es la única frase de la academia que se cree.
+- Ejercicio: «Confiesen un amor que no existe.» Los alumnos pasan al frente. Unos exageran, otros lloran a demanda. Jesús se congela. No puede. El profesor: «Fujioka, llevas dos años aquí. ¿De verdad no se te ocurre nada?» La clase se ríe. Él se sienta.
+- Un compañero se acerca y le pide que lo presente con Kenjiro. Jesús dice que no. El compañero: «No seas mamón. Tu papá es el dueño de la mitad de la televisión.» Jesús: «No es mi papá. Es mi jefe.» El chiste no le sale. El compañero se va con desdén.
+- El profesor, en privado, mientras recoge sus cosas: «No necesitas actuar, Fujioka. Necesitas dejar de protegerte.»
+- Suena el teléfono. Mensaje de Kenjiro: «Estás dentro. Te espero a las siete.» Sin audición. Sin explicación.
 
-**Objetivo:** Jesús quiere pasar desapercibido.
-**Conflicto:** el apellido no lo deja.
-**Lo que cambia:** el mensaje convierte el día normal en el último día normal.
-**Salida:** Jesús sale de la academia sin despedirse.
+**Objetivo:** pasar desapercibido.
+**Conflicto:** el apellido lo delata; su cuerpo no obedece.
+**Lo que cambia:** el mensaje convierte el día normal en el último día normal. Y el ejercicio del amor que no existe es la semilla del capítulo 5: en la audición, Jesús va a hacer por fin lo que hoy no pudo.
+**Salida:** sale de la academia sin despedirse.
 
-**Línea clave:** «No es malo. Es nepotismo. Pero no es malo.»
+**Línea clave:** «Fujioka, ¿de verdad no se te ocurre nada?»
 
 ---
 
@@ -156,19 +157,22 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 
 ---
 
-### Movimiento 5 — Kibe y la tarjeta (700 palabras)
+### Movimiento 5 — El ramen de Kibe (900 palabras)
 
-**Lugar:** estacionamiento de un konbini, 9:00 p.m.
+**Lugar:** ramen shop de la familia Kibe, Nerima. 9:00 p.m.
 
 **Personajes:** Jesús, Kibe.
 
 **Qué pasa:**
 
-- Jesús le cuenta la verdad: nunca ha tenido novia, el programa empieza en tres semanas, no sabe qué hacer.
-- Kibe se ríe. Luego deja de reírse. Luego se queda callado. Es la primera vez que no tiene una respuesta.
-- Saca la cartera. «Mi primo usó esto. Es legal. Es raro. Pero es legal.» Le da una tarjeta: **Diamond**. Fondo negro, letras doradas.
+- El local está por cerrar. Kibe limpia la barra. Es grande, ruidoso, con delantal y una gorra torcida. No estudia actuación: trabaja en el negocio familiar desde que terminó la prepa. Es la única persona en la vida de Jesús que no quiere nada del mundo del espectáculo.
+- Kibe lo ve entrar y ya sabe que algo pasó. «¿Otra vez te dejó plantado tu papá?» Jesús: «Me metió a su programa.» Kibe: «¿Y eso es bueno?» Jesús: «No sé.»
+- Kibe le sirve un tazón. No pregunta más. Es su forma de quererlo.
+- Jesús le cuenta la verdad: el programa es de amor, y él nunca ha tenido novia. Kibe se ríe. Luego deja de reírse. Luego se queda callado. Es la primera vez que no tiene una respuesta.
+- Kibe le cuenta una historia de Laura: venía al local, pedía el ramen más picante, lloraba, se reía y decía que «en Guadalajara esto es agua». Jesús se ríe. Es la primera vez en el capítulo que se ríe de verdad.
+- Kibe saca la cartera. «Mi primo usó esto. Es legal. Es raro. Pero es legal.» Le da una tarjeta: **Diamond**. Fondo negro, letras doradas.
 - Jesús: «¿Una novia de alquiler?» Kibe: «Una acompañante. No es lo mismo. Bueno, sí es lo mismo, pero suena mejor.»
-- Kibe explica: pagas por tiempo, no por sexo. Es un servicio. Hay actores que lo hacen por investigación. «Tú eres actor, ¿no? Pues investiga.»
+- Kibe explica: pagas por tiempo, no por sexo. Es un servicio. «Tú eres actor, ¿no? Pues investiga.»
 - Jesús: «¿Y si se enamora de mí?» Kibe: «Hermano, te va a cobrar por hora. No se va a enamorar.»
 - Jesús se guarda la tarjeta. Se siente ridículo. Y aliviado. Eso es lo que le da vergüenza: el alivio.
 
@@ -177,7 +181,10 @@ Y tiene que querer seguir leyendo de todas formas. Ese es el examen del capítul
 **Lo que cambia:** Jesús decide (o cree que decide) usar el servicio.
 **Salida:** la tarjeta en el bolsillo.
 
-**Línea clave:** «Tú eres actor, ¿no? Pues investiga.»
+**Líneas clave:**
+- «¿Otra vez te dejó plantado tu papá?»
+- «En Guadalajara esto es agua.»
+- «Tú eres actor, ¿no? Pues investiga.»
 
 ---
 
