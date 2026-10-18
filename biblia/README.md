@@ -8,8 +8,8 @@ Documentación de referencia del universo de *Rent a Girlfriend* (彼女、お�
 2. [Temporada I — resumen por episodio con spoilers](02-temporada-i.md) ✅
 3. [Temporada II — resumen por episodio con spoilers](03-temporada-ii.md) ✅
 4. [Temporada III — resumen por episodio con spoilers](04-temporada-iii.md) ✅
-5. Temporada IV — resumen por episodio (⏳ pendiente)
-6. Temporada V — resumen por episodio (⏳ pendiente)
+5. [Temporada IV (ハワイアンズ編 1.º cour) — resumen por episodio con spoilers](05-temporada-iv.md) ✅
+6. Temporada V (ハワイアンズ編 2.º cour) — resumen por episodio (⏳ pendiente)
 7. Temporada VI (同棲編) — cuando se emita (⏳ pendiente)
 8. Personajes principales (⏳ pendiente)
 9. Personajes secundarios (⏳ pendiente)
