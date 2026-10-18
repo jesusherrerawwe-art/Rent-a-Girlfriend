@@ -31,16 +31,16 @@ Y termina con Chizuru saliendo de la casa con el papel que era de Jesús.
 |---|---|---|
 | Sayuri | Vive, hospitalizada | Chizuru tiene un reloj: necesita dinero y fama *ya*. Su urgencia es médica, no ambiciosa. |
 | La mentira | Se complica con Hina | La mentira ya no es solo «tengo novia»: es «estoy soltero para la televisión» mientras entreno con una novia falsa para conquistar a otra chica real. Tres capas. |
-| Mami | Cliffhanger del Vol. 1 | Aparece cuatro páginas antes del final. No habla. Sonríe. Es la bomba del Vol. 2. |
+| Mami | Cliffhanger del Vol. 1 | Aparece en la última página. Le escribe a Jesús: «Vi el programa. ¿Estás bien?» No sabemos si es burla o compasión. Es la bomba del Vol. 2. |
 | Kenjiro | Sospecha, no tiene pruebas | Tensión constante sin escena de revelación. El padre *intuye* que su hijo está actuando, y eso lo vuelve más peligroso: lo prueba. |
-| Chizuru | Lo sabe por confianza | Jesús se lo dice sin querer. La traición duele más porque él le puso el arma en la mano. |
-| Cierre | Kenjiro elige a Chizuru, después del primer episodio | El padre no traiciona a su hijo en privado: lo hace *después* de que el país entero lo vio. La humillación es pública. |
+| Chizuru | Lo sabe por confianza | Jesús se lo dice sin querer. La traición duele más porque él le puso el arma en la mano. Y en el camerino descubre que ella sabía lo de la humillación. |
+| Cierre | Kenjiro elige a Chizuru en el camerino, delante de Jesús | El padre no traiciona a su hijo en privado: lo hace *después* de que el país entero lo vio. Aplaude a Chizuru, le ofrece el papel de Jesús y le dice que él es un borrador. |
 | **Nuevo: Hina** | Hay una chica dentro del show que a Jesús le gusta de verdad; producción quiere shippearlos | El motor del volumen. Jesús no sobrevive al programa: **quiere ganar a una chica dentro de él**. |
-| **Dos besos** | Hina lo besa en cámara (cap. 8); Chizuru lo besa en la escalera (cap. 9) | El país celebra el beso falso. El verdadero no lo ve nadie. La tesis del volumen, en dos escenas. |
+| **Dos besos** | Hina lo besa en vivo (cap. 10); Chizuru lo besa en el camerino (cap. 11) | El primer beso es un espectáculo. El segundo es una escena poscréditos. Los dos quedan grabados. La tesis del volumen: hasta lo íntimo se transmite. |
 | **Kenjiro** | Lo quiere como obra | No lo reemplaza por maldad: lo reemplaza porque encontró mejor material. «Eres mi mejor trabajo. Por eso sé cuándo alguien puede hacerlo mejor que yo.» |
-| **Chizuru** | Kenjiro le da el protagónico de su próxima drama, el papel que Jesús quería | Sale del programa. El Vol. 2 se juega en la distancia: ella sube, él se queda. La mentira se vuelve insostenible cuando ella se vuelve famosa. |
+| **Chizuru** | Sabía que Jesús iba a ser humillado y se quedó callada. Kenjiro le da el protagónico de su próxima drama en el camerino, delante de Jesús. | Su silencio es la traición. Su beso es la verdad. Las dos cosas caben en la misma mujer. El Vol. 2 se juega entre la culpa y el deseo. |
 
-**Lo que cambia respecto al plan anterior:** el Vol. 1 ya no cierra con «Jesús dentro del show». Cierra con «Jesús dentro del show, con la chica que quería, y sin nada de lo que creía tener». El primer episodio se transmite *dentro* del volumen (cap. 10), no en el Vol. 2. La arquitectura se comprime: el programa empieza en el cap. 5 y las cámaras no se apagan hasta el final.
+**Lo que cambia respecto al plan anterior:** el Vol. 1 ya no cierra con una oficina y una oferta. Cierra con una **emisión en vivo**, una humillación pública y un beso grabado por una cámara que nadie apagó. El primer episodio se transmite *dentro* del volumen (caps. 10-11), no en el Vol. 2. Y el giro de Hina —de chica honesta a villana por necesidad— reordena todo el último acto. La arquitectura se comprime: el programa empieza en el cap. 5 y las cámaras no se apagan hasta el final.
 
 ---
 
@@ -54,8 +54,8 @@ Y termina con Chizuru saliendo de la casa con el papel que era de Jesús.
 - **Ocupación:** estudiante de universidad y concursante de *Hatsukoi House*. No es actriz. No ha actuado nunca. Es «gente normal», que es exactamente lo que el programa vende.
 - **Rasgo definitorio:** **no sabe mentir.** Se le nota todo. Cuando se pone nerviosa, se ríe. Es su *tell* y su condena.
 - **Motivo real para estar en el show:** el estipendio. Su madre la inscribió. Ella aceptó por dinero, no por amor.
-- **Lo que la vuelve peligrosa:** es la única persona del elenco que dice la verdad. Y el programa la edita para que su verdad parezca espontaneidad. Hasta su honestidad se convierte en producto.
-- **Lo que la vuelve humana:** es incapaz de decidir. Deja que su madre, los productores y las cámaras decidan por ella. Su arco en el Vol. 1 es pasar de «el premio» a «una persona que empieza a querer algo propio» — y ese algo es Jesús. Lo cual es el problema.
+- **Lo que la vuelve peligrosa:** es la única persona del elenco que dice la verdad. Y el programa la edita para que su verdad parezca espontaneidad. Hasta su honestidad se convierte en producto. En el cap. 10, esa honestidad se convierte en un arma: para sobrevivir, Hina revela en vivo que Jesús nunca había besado a nadie. No miente. Dice la verdad. Y la verdad, en televisión, es la forma más eficaz de humillar.
+- **Lo que la vuelve humana:** es incapaz de decidir. Deja que su madre, los productores y las cámaras decidan por ella. Su arco en el Vol. 1 es pasar de «el premio» a «una persona que empieza a querer algo propio» — y ese algo es Jesús. Lo cual es el problema. Cuando los productores le ordenan convertirse en la villana, obedece. No por maldad: por miedo. Y el lector la ve llorar en el baño antes de salir a sonreír.
 
 ### 2.2 Por qué funciona
 
@@ -63,7 +63,7 @@ Porque **no es mejor que Chizuru; es más fácil.** El lector tiene que entender
 
 Jesús confunde «fácil de leer» con «real». Y el lector ve el error antes que él.
 
-La frase que resume la trampa: **«Con Hina no tengo que actuar. Con Chizuru, no puedo dejar de hacerlo.»** Pero es al revés: con Hina está actuando con todo lo que Chizuru le enseñó; con Chizuru es él mismo justo cuando se equivoca.
+La frase que resume la trampa: **«Con Hina no tengo que actuar. Con Chizuru, no puedo dejar de hacerlo.»** Pero es al revés: con Hina está actuando con todo lo que Chizuru le enseñó; con Chizuru es él mismo justo cuando se equivoca. Y la noche del cap. 10 lo demuestra: la única persona que lo ve de verdad es la que lo besa cuando nadie debería estar mirando.
 
 ### 2.3 El riesgo (y cómo lo mitigo)
 
@@ -73,16 +73,28 @@ La frase que resume la trampa: **«Con Hina no tengo que actuar. Con Chizuru, no
 
 1. **El pacto es explícito y consentido.** Chizuru sabe desde el cap. 3 que Jesús la usa. Ella también lo usa a él. No hay engaño entre ellos: hay un contrato. Eso los vuelve cómplices, no víctima y verdugo.
 2. **Hina no es un trofeo.** Tiene su propia agenda, su propia deuda y su propia cobardía. El lector la quiere por ella, no por lo que representa.
-3. **Jesús paga un precio dentro del volumen.** No al final: en el cap. 9 pierde a Chizuru, en el cap. 12 pierde a su padre, en el cap. 13 se queda solo. El volumen no lo premia por usar a la gente.
+3. **Jesús paga un precio dentro del volumen.** No al final: en el cap. 10 lo humillan en vivo, en el cap. 11 pierde a Chizuru y a su padre, en el cap. 13 se queda solo. El volumen no lo premia por usar a la gente.
 4. **La simetría con Kenjiro.** Jesús usa a Chizuru igual que su padre lo usa a él. El lector entiende que el hijo se está convirtiendo en el padre. Eso no lo excusa: lo explica.
-5. **La escena de la escalera (cap. 9).** Es el capítulo donde Jesús dice la verdad más vergonzosa de todas: «Me gusta Hina. De verdad.» Y Chizuru, que lo sabe todo, no puede contestar nada. Ahí el lector decide si lo perdona. Mi trabajo es que lo perdone.
+5. **La escena de la escalera (cap. 9).** Es el capítulo donde Jesús dice la verdad más vergonzosa de todas: «Me gusta Hina. De verdad.» Y Chizuru, que lo sabe todo, no puede contestar nada. Ahí el lector decide si lo perdona. Mi trabajo es que lo perdone. Y el cap. 11 lo pone a prueba: cuando Chizuru lo consuela, el lector tiene que decidir si ella es cómplice o víctima. La respuesta correcta es: las dos cosas.
 
 ### 2.4 Lo que Hina NO es
 
-- No es una manipuladora secreta. Eso sería traicionar su función.
+- No es una manipuladora secreta. Lo que hace en el cap. 10 es cruel, pero no es un plan maquiavélico: es una decisión de supervivencia tomada en veinte minutos.
 - No es una santa. Está ahí por dinero y lo dice.
 - No es una rival de Chizuru. Es una **alternativa**: la vida sin actuación. Y esa alternativa es una ilusión.
 - No es la protagonista del Vol. 2. Si entra Mami y Chizuru se muda a la casa, Hina pasa a ser el testigo. Su arco se cierra en el Vol. 2, no en este.
+
+### 2.5 El giro: de víctima a villana
+
+En el cap. 10, justo antes de la emisión en vivo, los productores le dicen a Hina que el *ship* con Jesús está muerto. La cadena quiere una antagonista. Ella tiene una noche para convertirse en la villana o volver a la panadería con las manos vacías.
+
+Acepta. No porque sea mala: porque su madre está en la puerta del estudio con la cuenta de la deuda en la mano.
+
+En el baño, antes de salir, tiembla. Se maquilla. Se mira al espejo. Y sonríe.
+
+Lo que hace en vivo no es una mentira: es la verdad. Jesús nunca había besado a nadie. Ella lo sabe porque él se lo dijo en confianza. Y lo usa. Es la única arma que tiene: **no sabe mentir, pero sabe decir la verdad en el momento exacto en que más duele.**
+
+En el Vol. 2, Hina es la villana que se odia a sí misma. Su arco no es redimirse: es aprender a vivir con lo que hizo.
 
 ---
 
@@ -135,11 +147,13 @@ En los dos pósters, Jesús lleva una **playera blanca con el escudo de las Chiv
 | 6 | La oficial está en el vestidor. La real, bajo la almohada. De noche, se pone la real. | Lo único que las cámaras no ven. |
 | 7 | Chizuru la ve en la escalera. «Esa no es la del programa.» / «No.» / «¿Cuál es la de verdad?» / «Esta.» | Chizuru distingue la persona del personaje. |
 | 8 | Se pone la oficial encima de la real. Hina lo abraza y siente el algodón viejo. «¿Tienes dos camisas?» / «Sí.» | Hina toca al Jesús real sin saberlo. |
-| 9 | El beso en la escalera. Él lleva la real. Ella pregunta por la mancha. Él dice que es café de su madre. | La playera es testigo del único beso verdadero. |
-| 10 | El país ve la oficial. Chizuru ve el episodio y sabe la diferencia. | La fama celebra la copia. |
-| 11 | Una cuenta de fans identifica la playera. Se vuelve meme. | Lo íntimo se vuelve marca. La violación es total. |
-| 12 | Kenjiro: «Esa camisa te queda grande.» / «Me queda bien.» / «Te queda como me quedaba a mí.» | El reveal: era suya. Y: «Ya eres una marca. La camisa es lo que te hace querible. No tú.» |
+| 9 | El casi-beso en la escalera. Él lleva la real. Ella pregunta por la mancha. Él dice que es café de su madre. No se besan todavía. | La playera guarda la historia que él todavía no puede contar. |
+| 10 | La oficial en vivo. El país ve al chico de las Chivas. La real está debajo, pero nadie lo sabe. | La fama celebra la copia. |
+| 11 | La oficial arrugada en el suelo del camerino. Kenjiro la pisa sin darse cuenta. La real está en la mochila de Jesús. | El padre destruye la copia sin saber que la original sigue intacta. |
+| 12 | Una cuenta de fans identifica la playera oficial. Se vuelve meme. La pirata no aparece en ninguna foto. | Lo íntimo se vuelve marca. La violación es total. |
 | 13 | Se quita la oficial y se pone la real. | Última imagen: el chico del capítulo 1, solo, con la misma playera. Pero ya no es el mismo. |
+
+**Nota:** la línea «Te queda como me quedaba a mí» —el reveal de que la playera era de Kenjiro— se guarda para el Vol. 2. En el camerino hay demasiado ruido para un momento tan íntimo. Allí, Kenjiro solo la pisa.
 
 **La regla:** la playera nunca se usa para ecchi, nunca es un chiste y nunca se convierte en merch dentro de la ficción sin que eso sea un acto de violencia. Es el único objeto sagrado del libro. Cuando el programa la convierte en producto, la novela está hablando de la violación de lo íntimo, no de una camiseta.
 
@@ -170,14 +184,16 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 | **III. La transmisión** | 10–13 | ¿Cuánto cuesta que te vean? | ~19,700 palabras |
 | **Total** | 13 | | **~63,500 palabras** |
 
-### 5.2 Los seis giros
+### 5.2 Los siete giros
 
 1. **Cap. 3 — El pacto.** La mentira se vuelve contrato. Jesús cree que está usando a Chizuru; Chizuru cree que está usando a Jesús. Los dos tienen razón, y los dos se equivocan.
 2. **Cap. 5 — Hina.** El objetivo tiene nombre y cara. Producción ve la química antes que Jesús.
 3. **Cap. 7 — La coach.** Chizuru entra al set. Los dos mundos se contaminan. Ya no hay dónde ser real.
 4. **Cap. 9 — La escalera.** Jesús dice la verdad: le gusta Hina. Chizuru le cuenta lo de Sayuri. Se besan. Es el punto más alto del volumen.
-5. **Cap. 12 — La elección.** Kenjiro le da a Chizuru el protagónico de su próxima drama: el papel que Jesús quería. No por crueldad: por negocio. Y porque ella ya está terminada.
-6. **Cap. 13 — Mami.** La bomba del Vol. 2. Cuatro páginas. Una sonrisa.
+5. **Cap. 10 — Vivo.** Hina lo besa en vivo. El país lo ve. Y al final del programa, lo humilla con la verdad que nadie le pidió.
+6. **Cap. 11 — La escena poscréditos.** Chizuru lo consuela, lo besa, y la cámara lo graba. Kenjiro aplaude a Chizuru y le dice a Jesús que es un borrador.
+7. **Cap. 12 — Los números.** El país celebra. Hina se vuelve villana. Chizuru firma.
+8. **Cap. 13 — Mami.** La bomba del Vol. 2. Una pregunta. Una sonrisa que no llega.
 
 ### 5.3 Mapa de capítulos
 
@@ -192,10 +208,10 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 | 7 | La coach | II | ON AIR / OFF AIR | Chizuru en el set, doble vida, la toma | 5,000 |
 | 8 | La primera cita | II | Sala de control / monitores | La cita fabricada, Chizuru mira, el beso de Hina | 5,200 |
 | 9 | La escalera | II | Un solo lugar, tiempo real | La verdad, el beso, Sayuri | 5,500 |
-| 10 | Episodio uno | III | El programa dentro de la novela | La transmisión, el país, Sayuri ve | 5,200 |
-| 11 | Los números | III | Documentos encontrados | Audiencias, memos, chats, la llamada de Sergio | 4,500 |
-| 12 | La elección | III | Una sola escena, cuatro sillas | Kenjiro le da a Chizuru el papel de Jesús | 5,500 |
-| 13 | La sonrisa de Mami | III | 1.ª persona → 3.ª persona (coda) | Chizuru se va, la soledad, Mami | 4,500 |
+| 10 | Vivo | III | Transmisión en vivo | El beso de Hina, la humillación | 5,500 |
+| 11 | La escena poscréditos | III | Un camerino, tiempo real | El consuelo, el segundo beso, el padre | 5,000 |
+| 12 | Los números | III | Documentos + coda | El país celebra, Hina villana, Chizuru firma | 4,500 |
+| 13 | La sonrisa de Mami | III | 1.ª persona → 3.ª persona (coda) | La playera, la foto, Mami | 4,500 |
 
 ### 5.4 Lo que esta elección le hace al Vol. 2
 
@@ -466,87 +482,87 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 
 ---
 
-### Capítulo 10 — Episodio uno
+### Capítulo 10 — Vivo
 
-**POV:** la transmisión (3.ª persona, presente) + los recuerdos reales (1.ª persona, pasado).
-**Tiempo:** la noche del estreno.
-**Extensión:** 5,200 palabras.
+**POV:** 3.ª persona, presente (la transmisión en vivo) + 1.ª persona, pasado (los minutos antes y después).
+**Tiempo:** una noche.
+**Extensión:** 5,500 palabras.
 
-**Logline:** El primer episodio se transmite. El país se enamora de un Jesús que no existe. Sayuri lo ve desde el hospital. Kenjiro ve algo más.
+**Logline:** Es la primera emisión en vivo de *Hatsukoi House*. Hina lo besa. El país lo ve. Y al final del programa, Hina lo humilla frente a todos.
 
 **Beats:**
 
-1. **La fiesta de estreno.** El elenco en un salón del canal. Kenjiro al fondo. Chizuru no está invitada. Hina está nerviosa y se ríe de todo.
-2. **El episodio.** Leemos el programa como texto: cortes, rótulos, música, confesionarios. El edit convierte a Jesús en «el chico puro» y a Hina en «la chica sol». La química es innegable. La mentira es perfecta.
-3. **Las escenas borradas.** Intercaladas: lo que pasó de verdad. La conversación del pasillo. La risa de Hina. La mano de Chizuru corrigiendo la postura de Jesús. Producción lo cortó. El lector lo ve.
-4. **Los nueve segundos.** En el fondo de una escena, Chizuru aparece corrigiendo a Hina. Nueve segundos. Nadie lo nota en el salón. Pero el internet sí.
-5. **Sayuri.** Chizuru ve el programa en el hospital, con su abuela. Sayuri dice: «Ese muchacho te mira como tu abuelo.» Chizuru no contesta. Le aprieta la mano.
-6. **Los números.** El rating sube. El hashtag es tendencia. El teléfono de Jesús explota. Hina le grita de alegría. Él sonríe. No siente nada.
-7. **Cierre.** Un asistente de producción toca el hombro de Chizuru. «El director quiere verte.» Kenjiro está en el pasillo. No sonríe.
+1. **Los minutos antes.** Los camerinos. Jesús con la playera oficial. Hina en el baño, temblando. Chizuru en la sala de control, con el guion de la noche. Kenjiro en la cabina, con los audífonos. La cuenta regresiva.
+2. **La transmisión.** El programa en vivo: citas, votaciones, juegos. El país está viendo. Jesús está bien: por primera vez no actúa, solo está. Hina se ríe de todo. La química es real.
+3. **El beso.** El conductor los pone en el centro. «¿Hay algo entre ustedes?» Hina mira a Jesús. Él no sabe qué hacer. Ella se acerca y lo besa. Es el primer beso de su vida, y es en vivo. El país grita. Jesús sonríe como un niño. Por un segundo, cree que todo valió la pena.
+4. **El giro.** Casi al final, cuando las cámaras están a punto de apagarse, Hina toma el micrófono. No es una improvisación: es una decisión. Y dice la verdad que nadie le pidió.
+5. **La humillación.** Hina revela que Jesús nunca había besado a nadie antes de esa noche. «Se le notó.» El público se ríe. El conductor improvisa un chiste. Los compañeros se ríen. Chizuru, en la sala de control, no se ríe: se tapa la boca. No sabía que Hina iba a decir eso. Kenjiro, en la cabina, sube el volumen.
+6. **La huida.** Jesús no grita. No llora. Se quita el micrófono y camina hacia los camerinos. Las cámaras lo siguen. El productor dice: «Déjenlo. Tenemos la toma.»
+7. **Cierre.** Jesús en el pasillo, solo. La puerta del camerino. El silencio. Del otro lado, el país sigue riéndose.
 
-**Dispositivo estructural:** **el programa dentro de la novela**. La transmisión está escrita como un guion de televisión, con rótulos y cortes. Los recuerdos están en 1.ª persona y sin formato. El lector ve las dos versiones al mismo tiempo. La distancia entre ellas es el tema del capítulo.
+**Dispositivo estructural:** **transmisión en vivo**. El capítulo está escrito como un programa de televisión en tiempo real: entradas de cámara, tiempos, cortes a comerciales. La 1.ª persona solo aparece en los minutos antes y después, cuando las cámaras no lo ven. El lector ve el show y ve al chico al mismo tiempo, y no puede hacer nada.
 
-**Giro emocional:** el país se enamora de un chico que no existe. Y el chico empieza a creer que sí existe.
+**Giro emocional:** el primer beso de su vida se convierte en el chiste de la noche.
 
-**Cliffhanger:** «El director quiere verte.»
+**Cliffhanger:** la puerta del camerino.
 
-**Por qué existe:** porque el primer episodio es el punto de no retorno. A partir de aquí, la mentira tiene audiencia. Y porque Sayuri tiene que ver a su nieta en televisión, sin saber que la están usando.
+**Por qué existe:** porque es el punto de no retorno público. Hasta aquí, la mentira era privada; ahora es un espectáculo nacional.
 
 ---
 
-### Capítulo 11 — Los números
+### Capítulo 11 — La escena poscréditos
 
-**POV:** documentos encontrados. Sin narrador.
+**POV:** Jesús, 1.ª persona, pasado. Un solo camerino. Tiempo real.
+**Tiempo:** veinte minutos.
+**Extensión:** 5,000 palabras.
+
+**Logline:** Chizuru lo encuentra en el camerino. Lo consuela. Lo besa. Y Jesús descubre que la cámara seguía encendida, que su padre lo vio todo y que Chizuru sabía.
+
+**Beats:**
+
+1. **El camerino.** Jesús sentado en el suelo, con la playera oficial arrugada. La puerta se abre. Es Chizuru.
+2. **El consuelo.** Ella se sienta a su lado. No le dice «todo va a estar bien». Le dice la verdad: «Lo que hizo fue cruel. Y no fue tu culpa.» Es el primer consuelo honesto de la noche. Jesús llora. Ella le sostiene la mano.
+3. **La confesión.** Jesús pregunta: «¿Tú sabías?» Chizuru tarda demasiado en contestar. «Sabía que iban a cambiar el guion. No sabía que iba a decir eso.» Es una verdad a medias. El lector lo sabe. Jesús no.
+4. **El beso.** Chizuru lo besa. No es un beso de guion: es torpe, corto, real. Jesús se queda boquiabierto. Por unos segundos, cree que es real.
+5. **La cámara.** Un técnico entra sin tocar. Ve la escena. Sale. Jesús mira hacia la esquina: la luz roja de una cámara pequeña, la de la transmisión extendida por internet. Está encendida. Los dos se separan.
+6. **El padre.** Kenjiro entra aplaudiendo. No por Jesús: por Chizuru. «¡Eso fue televisión!» Le dice que sabía que podía contar con ella. Le ofrece el protagónico de 「さよならの練習」, el papel que Jesús quería. Y remata: «Tú todavía eres un borrador, Jesús. Ella ya es una obra.»
+7. **La salida.** Jesús se levanta. Chizuru dice su nombre. Él no se detiene. La puerta se cierra. Chizuru se queda con Kenjiro. Su corazón, dividido en dos.
+
+**Dispositivo estructural:** **una sola escena, un solo camerino, tiempo real**. La cámara roja en la esquina es el quinto personaje. El lector la ve antes que Jesús. Cuando él la ve, todo cambia.
+
+**Giro emocional:** el único beso verdadero de la noche se convierte en contenido. Y la mujer que lo besó sabía que él iba a ser humillado.
+
+**Cliffhanger:** la puerta que se cierra.
+
+**Por qué existe:** porque es la respuesta a la pregunta del volumen: *¿quién está actuando?* Todos. Hasta el beso. Hasta el consuelo. Hasta el padre.
+
+---
+
+### Capítulo 12 — Los números
+
+**POV:** documentos encontrados + una coda en 3.ª persona, presente (Chizuru).
 **Tiempo:** 48 horas.
 **Extensión:** 4,500 palabras.
 
-**Logline:** El programa es un fenómeno. Producción quiere más de Chizuru. La vida de todos se decide en cifras.
+**Logline:** El país convierte la humillación en el clip del año. Hina se vuelve la antagonista. Chizuru firma el contrato. Jesús es el único que no gana nada.
 
 **Beats:**
 
-1. **El memo.** «A la dirección: el clip de la coach supera en retención al de la concursante Asahina. Recomendamos ampliar su participación.»
-2. **Los tuits.** «¿Quién es la coach?», «La coach es más guapa que todas», «Chizuru Mizuhara trend». Capturas, respuestas, memes.
-3. **El chat de Kibe.** «Bro, ¿viste a la coach?», «Bro, ¿y Hina?», «Bro, contéstame». Jesús no contesta.
-4. **El buzón de voz de Sergio.** Desde Los Ángeles: «Vi el programa. Mamá se habría reído. Papá está orgulloso, aunque no lo diga. Llámame.» Es la primera vez que alguien menciona a Laura sin que sea una herida.
-5. **La llamada de la agencia.** Chizuru recibe una oferta: «Kenjiro Fujioka quiere verte en su oficina.»
-6. **La madre de Hina.** Llama a producción. Quiere más dinero. Hina lo oye. No dice nada. Se ríe. Es su tell.
-7. **Cierre.** Un mensaje de Kenjiro a Chizuru: «No eres la coach. Nunca lo fuiste. Ven a mi oficina.»
+1. **El clip.** El beso de Hina y su frase dan la vuelta al país. Memes, tuits, titulares. «El chico que nunca había besado a nadie.»
+2. **El memo.** La cadena renueva *Hatsukoi House* y convierte a Hina en la antagonista oficial. «Su arco de villana es el más comentado de la temporada.»
+3. **Hina.** Una nota de prensa: «Hina Asahina regresa como la nueva villana del programa.» En privado, Hina no contesta los mensajes de Jesús. En el camerino, se quita el maquillaje y se queda mirando el espejo. No sonríe.
+4. **Chizuru.** El contrato de 「さよならの練習」. La habitación privada para Sayuri. La firma. La mano le tiembla. Kenjiro le dice: «Bienvenida a la industria.»
+5. **El chat de Kibe.** «Bro, ¿estás bien?», «Bro, contéstame», «Bro, te voy a buscar». Jesús no contesta.
+6. **El buzón de voz de Sergio.** «Vi el programa. Mamá se habría reído. Papá está orgulloso, aunque no lo diga. Llámame.»
+7. **La coda.** Chizuru en el camerino vacío, con el contrato en la mano. Se mira al espejo. Se limpia el labial con el dorso de la mano. Se vuelve a pintar. No llora. Apaga la luz.
 
-**Dispositivo estructural:** **documentos encontrados**. No hay narrador. El lector arma la historia con memos, tuits, chats, correos y un buzón de voz. La ausencia de prosa es la forma: cuando todos hablan de ellos, Jesús y Chizuru desaparecen como personas y se vuelven datos.
+**Dispositivo estructural:** **documentos encontrados + coda**. La primera parte son memos, tuits, titulares, chats. La última página es la única escena con interioridad: Chizuru, sola, en el camerino. El contraste entre el ruido del país y el silencio de una mujer que acaba de vender su alma.
 
-**Giro emocional:** la historia ya no está en manos de los personajes. Está en manos de la audiencia.
+**Giro emocional:** el país celebra. Los que ganaron no están contentos. El que perdió no está en ninguna parte.
 
-**Cliffhanger:** «Ven a mi oficina.»
+**Cliffhanger:** la luz que se apaga.
 
-**Por qué existe:** porque el éxito tiene que ser tan grande que Kenjiro no pueda ignorarlo. Y porque el lector necesita ver que Chizuru se vuelve famosa **sin haber actuado**: nueve segundos de fondo. La fama es tan arbitraria como el amor del programa.
-
----
-
-### Capítulo 12 — La elección
-
-**POV:** Jesús, 1.ª persona, pasado. Una sola escena. Cuatro sillas.
-**Tiempo:** una hora.
-**Extensión:** 5,500 palabras.
-
-**Logline:** Kenjiro le ofrece a Chizuru el protagónico de su próxima drama —el papel que Jesús quería—. Ella acepta. Jesús entiende que su padre acaba de elegir.
-
-**Beats:**
-
-1. **La oficina.** Kenjiro, Chizuru, Jesús y un productor. Cuatro sillas. Una mesa. La cámara de seguridad en la esquina: hasta aquí llega la mirada del padre.
-2. **La propuesta.** Kenjiro le ofrece a Chizuru el protagónico de 「さよならの練習」 (*Sayonara no Renshū*, «El ensayo del adiós»), la próxima drama del canal, producida por él. Es el papel para el que Jesús audicionó en marzo. No lo llamaron. El contrato incluye un sueldo, una habitación privada para Sayuri y la portada de la revista. No es un lugar en la casa: es un lugar en el mundo.
-3. **La mirada.** Chizuru mira a Jesús antes de aceptar. Es la mirada más larga del libro. Él no sabe qué significa. El lector sí: **es la misma mirada que él le dio a Hina en la escalera.** Ella también está eligiendo.
-4. **La aceptación.** Chizuru dice sí. No es villanía: es la primera puerta que se le abre en años. Sayuri. La deuda. La carrera. Todo lo que Jesús le contó en la escalera está en esa respuesta.
-5. **La furia.** Jesús no grita. Pregunta: «¿Por qué ella sí y yo no?» Kenjiro contesta: «Porque a ti te estoy haciendo. A ella ya la terminé.» La frase no es cruel por lo que dice, sino por lo que revela: Jesús es un proyecto, y los proyectos se reemplazan cuando aparece uno mejor. Jesús dice: «Ese papel era mío.» Kenjiro: «Los papeles no son de nadie. Se los queda quien llega.»
-6. **El padre.** El productor se va. Kenjiro y Jesús solos. Kenjiro dice: «Eres mi mejor trabajo. Por eso sé cuándo alguien puede hacerlo mejor que yo.» No es una disculpa. Es una evaluación. Jesús se da cuenta de que su padre también está pidiendo perdón, pero en el único idioma que aprendió: el de la producción.
-7. **La salida.** Jesús abre la puerta. Chizuru está en el pasillo, con el guion bajo el brazo. Dice su nombre. Él no se detiene. El guion es lo último que ve de ella.
-
-**Dispositivo estructural:** **una sola escena, cuatro sillas, sin cortes**. Es el capítulo más teatral del volumen, y el más cruel. No hay flashbacks, no hay documentos, no hay cámaras: solo cuatro personas en una habitación. La cámara de seguridad es la única testigo. El lector es el quinto.
-
-**Giro emocional:** Jesús pierde a las dos personas que estaba usando al mismo tiempo. Y descubre que su padre también lo usó a él.
-
-**Cliffhanger:** «Jesús.» Él no se detiene.
-
-**Por qué existe:** porque es la respuesta a la pregunta del volumen: *¿quién elige a quién?* Kenjiro elige a Chizuru. Chizuru elige su carrera. Jesús no elige nada, y esa es su derrota.
+**Por qué existe:** porque el éxito tiene que ser obsceno. Y porque necesitamos ver el costo de Hina y Chizuru, no solo el de Jesús.
 
 ---
 
@@ -556,25 +572,24 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 **Tiempo:** una noche.
 **Extensión:** 4,500 palabras.
 
-**Logline:** Chizuru se va de la casa con el papel que era de Jesús. El programa es un éxito. Él no tiene nada. Y en algún lugar de Tokio, Mami ve el episodio y sonríe.
+**Logline:** Jesús vuelve a su departamento. Se quita la playera oficial. Se pone la de las Chivas. Y recibe un mensaje de Mami.
 
 **Beats:**
 
-1. **La casa.** Jesús en el jardín, solo. Las cámaras apagadas. La casa sigue llena de gente, pero él está en el único rincón sin micrófono. No es libertad: es el único lugar donde no lo oyen.
-2. **El chat del elenco.** Hina: «¿Estás bien?» Él contesta: «Sí.» Es la primera mentira que le dice sin que nadie se la pida.
-3. **La despedida.** Chizuru sale con una maleta. El elenco la despide. Ella se detiene frente a Jesús. Le dice: «El papel era tuyo.» Él contesta: «Ya lo sé.» Ella sube al coche. Él no la detiene. Es la segunda vez que no la detiene.
-4. **El episodio, otra vez.** Jesús ve el programa en la sala vacía. Ve los nueve segundos de Chizuru. Entiende que su padre la vio antes que él. Entiende que todos la vieron antes que él.
-5. **La llamada que no hace.** Marca el número de Chizuru. Cuelga antes de que suene. Marca el de su padre. Cuelga. Marca el de su madre. No existe. Se queda mirando la pantalla.
-6. **La coda.** Mami, en su departamento, ve el programa. Reconoce a Jesús. Se ríe. No es una risa cruel: es una risa de sorpresa. Escribe: «Hola, Jesús.» Borra. Escribe: «El niño que no sabía mentir.» Borra. Escribe: «Hola.» Envía.
-7. **Última línea.** La pantalla de Jesús se ilumina. No vemos el mensaje. Solo su cara. Y la novela termina con una frase que no es suya: *«Y por primera vez en un año, Jesús Fujioka Hernández tuvo miedo de que alguien le contestara.»*
+1. **El departamento.** Jesús solo. La tele apagada. La playera oficial en el suelo. Se pone la de las Chivas. La mancha de café. El cuello amarillento.
+2. **La foto.** Laura, Sergio y Jesús en Guadalajara. Kenjiro no está porque tomó la foto. Jesús la mira. No llora. La deja boca abajo.
+3. **El chat.** Hina: «Lo siento.» Dos palabras. Él no contesta. No sabe si es verdad. No sabe si le importa.
+4. **La llamada que no hace.** Marca el número de Chizuru. Cuelga antes de que suene. Marca el de su padre. Cuelga. Marca el de su madre. No existe.
+5. **La coda.** Mami, en su departamento, ve el programa. Reconoce a Jesús. No se ríe. Escribe: «Vi el programa. ¿Estás bien?» Duda. Envía.
+6. **Última línea.** La pantalla de Jesús se ilumina. Él la mira. No contesta. Y la novela termina con una frase que no es suya: *«Y por primera vez en un año, Jesús Fujioka Hernández no supo si querían salvarlo o rematarlo.»*
 
 **Dispositivo estructural:** **el libro cambia de dueño**. La última sección es la primera vez que salimos de la cabeza de Jesús para siempre. Mami se convierte en la narradora del Vol. 2. El lector entiende que el volumen no terminó: cambió de manos.
 
-**Giro emocional:** el protagonista se queda solo. La antagonista sonríe. El lector quiere el Vol. 2.
+**Giro emocional:** el protagonista se queda solo. La antagonista no sonríe: pregunta. El lector quiere el Vol. 2.
 
 **Cliffhanger:** el mensaje.
 
-**Por qué existe:** porque el Vol. 1 tiene que cerrar con una pérdida y una promesa. La pérdida es Chizuru y su padre. La promesa es Mami.
+**Por qué existe:** porque el Vol. 1 tiene que cerrar con una pérdida y una promesa. La pérdida es Chizuru, Hina y su padre. La promesa es Mami.
 
 ---
 
@@ -586,21 +601,21 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 - **Mentira que se dice:** «Si actúo bien, me van a querer.»
 - **Arco del Vol. 1:** de «quiero ser elegido» a «elegí mal». No aprende a amar: aprende a ver el costo de usar a la gente. Al final del volumen no es mejor persona; es una persona que ya no puede engañarse.
 - **Lo que gana:** fama, un lugar en el programa, la atención de Hina.
-- **Lo que pierde:** a Chizuru, a su padre y la ilusión de que el amor se puede ensayar.
+- **Lo que pierde:** a Chizuru, a Hina, a su padre y la ilusión de que el amor se puede ensayar. **Lo que descubre:** que su padre lo quiere como obra, y que las obras se reemplazan.
 
 ### Chizuru Mizuhara
 - **Quiere:** un papel protagónico y el dinero para Sayuri. **Cree que quiere:** lo mismo.
 - **Herida:** nunca la han elegido por ella, solo por lo que puede hacer.
 - **Mentira que se dice:** «Si soy útil, no me van a dejar.»
-- **Arco del Vol. 1:** de «necesito una puerta» a «la atravesé y dejé a alguien afuera». Acepta el contrato de Kenjiro porque es la primera vez que alguien la elige. Y la eligen por lo mismo de siempre: por lo que puede hacer.
-- **Lo que gana:** el programa, el dinero, la atención de Kenjiro.
-- **Lo que pierde:** la única persona que la miró sin pedirle nada a cambio. (Jesús le pidió algo, sí. Pero le pidió que lo viera, no que lo salvara.)
+- **Arco del Vol. 1:** de «necesito una puerta» a «la atravesé y dejé a alguien afuera». Sabía que iban a cambiar el guion y se quedó callada. No sabía que Hina iba a usar el beso. Cuando lo oye, se tapa la boca: también a ella la usaron. En el camerino lo consuela de verdad y lo besa de verdad. Y la cámara convierte el único gesto honesto de la noche en contenido. Acepta el contrato de Kenjiro porque es la primera vez que alguien la elige. Y la eligen por lo mismo de siempre: por lo que puede hacer.
+- **Lo que gana:** el protagónico, el dinero para Sayuri, la atención de Kenjiro.
+- **Lo que pierde:** a Jesús. Y la versión de sí misma que todavía creía que podía elegir.
 
 ### Kenjiro Fujioka
 - **Quiere:** un éxito. **Cree que quiere:** que su hijo sea feliz.
 - **Herida:** hizo un documental sobre su familia en lugar de hablar con ella. Y funcionó.
 - **Mentira que se dice:** «Yo solo produzco. Lo que la gente haga con lo que produzco no es mi problema.»
-- **Arco del Vol. 1:** de «estoy ayudando a mi hijo» a «elegí a la mejor actriz». No es un villano: es un hombre que solo sabe hacer una cosa, y la hace mejor con desconocidos que con su familia.
+- **Arco del Vol. 1:** de «estoy ayudando a mi hijo» a «elegí a la mejor actriz». En el camerino aplaude a Chizuru, le da el papel de Jesús y le dice a su hijo que es un borrador. No lo hace por crueldad: lo hace porque es incapaz de aplaudir a alguien que no sea una obra terminada. No es un villano: es un hombre que solo sabe hacer una cosa, y la hace mejor con desconocidos que con su familia.
 - **Lo que gana:** el mejor elenco que ha tenido.
 - **Lo que pierde:** a su hijo. Y no se da cuenta hasta el Vol. 2.
 
@@ -608,13 +623,13 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 - **Quiere:** pagar la deuda de la panadería. **Cree que quiere:** que la dejen en paz.
 - **Herida:** su familia la usa como solución. Su madre la inscribió sin preguntarle.
 - **Mentira que se dice:** «No creo en el amor, así que no me puede pasar.»
-- **Arco del Vol. 1:** de «el premio» a «una persona». Empieza a querer a Jesús de verdad, y eso la aterroriza, porque no estaba en el plan.
-- **Lo que gana:** dinero, fama, una amiga (Chizuru, antes de saber).
-- **Lo que pierde:** la ilusión de que podía salir intacta.
+- **Arco del Vol. 1:** de «el premio» a «la villana». Los productores le ordenan convertirse en la antagonista para salvar su lugar. Lo hace con la única arma que tiene: la verdad. Le dice al país que Jesús nunca había besado a nadie. No miente. Y eso la destruye.
+- **Lo que gana:** un lugar en la serie.
+- **Lo que pierde:** a Jesús, y la posibilidad de ser la chica buena.
 
 ### Sayuri
 - **Función:** el reloj de Chizuru y la única persona que la ve sin cámara.
-- **Escena clave:** cap. 10, viendo el programa en el hospital. «Ese muchacho te mira como tu abuelo.»
+- **Escena clave:** cap. 10, viendo la emisión en vivo desde el hospital. Cuando Hina humilla a Jesús, la cámara enfoca a Chizuru un segundo. Sayuri lo ve. «Ese muchacho te importa.» Chizuru no contesta.
 - **Lo que sabe:** nada de la mentira. Por eso duele.
 
 ### Kibe
@@ -626,8 +641,8 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 ### Mami Nanami
 - **Función:** la herida original y la bomba del Vol. 2.
 - **Lo que sabemos en el Vol. 1:** lo dejó sin razón hace un año. Él todavía no sabe por qué.
-- **Lo que revela la coda:** que ella también lo estaba mirando. Que la dejadez de Jesús no fue casualidad. Que Mami tiene su propia versión.
-- **Lo que NO hace en el Vol. 1:** hablar, aparecer en el set, confrontar. Solo sonríe.
+- **Lo que revela la coda:** que ella vio el programa y que, por alguna razón, fue la única persona que preguntó si estaba bien. Que la dejadez de Jesús no fue casualidad. Que Mami tiene su propia versión.
+- **Lo que NO hace en el Vol. 1:** aparecer, hablar, confrontar. Solo escribe tres palabras.
 
 ---
 
@@ -637,12 +652,18 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 |---|---|---|---|---|
 | Jesús | Sí | Sí | Sí (cap. 3) | Sí |
 | Chizuru | Sí | Sí (cap. 3) | Sí | Sí (cap. 3) |
-| Kenjiro | No; sospecha que su hijo actúa | Sospecha, no tiene pruebas | No hasta el cap. 12 | — |
+| Kenjiro | No; sospecha que su hijo actúa | Sospecha, no tiene pruebas | No hasta el cap. 11 | — |
 | Hina | No | No | No | No hasta el cap. 7 |
 | Kibe | No; cree que es real | Sí | No | No |
 | Sayuri | No | No | No | No |
 | Mami | No | Sí (por la época en que salieron) | No | No |
 | Producción | No | No | No | Sí |
+
+**Reglas de la noche del cap. 10:**
+
+- **Chizuru** sabía que iban a cambiar el guion. No sabía que Hina iba a usar el beso. Cuando lo oye, se tapa la boca: también a ella la agarraron en curva.
+- **Hina** sabía que iba a humillar a Jesús. No sabía que Chizuru estaba al tanto. Las dos fueron usadas por la misma producción, y ninguna lo sabe.
+- **Kenjiro** lo sabía todo. Y aplaudió.
 
 **Regla de oro:** cada mentira tiene que tener **un testigo que la pueda romper**. Si nadie puede descubrirla, no es una mentira: es un secreto. Los secretos no generan tensión; las mentiras sí.
 
@@ -661,10 +682,10 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 | 7 | «Corten. Esa es la toma.» | La actuación y el amor se confunden. |
 | 8 | «Perfecto.» | El programa gana. |
 | 9 | «Mañana hablamos.» | El padre llama a Chizuru. |
-| 10 | «El director quiere verte.» | La elección se acerca. |
-| 11 | «Ven a mi oficina.» | La trampa está armada. |
-| 12 | «Jesús.» (y él no se detiene) | La pérdida. |
-| 13 | El mensaje de Mami. | El Vol. 2. |
+| 10 | «Déjenlo. Tenemos la toma.» | La humillación se vuelve contenido. |
+| 11 | «Tú todavía eres un borrador. Ella ya es una obra.» | El padre elige en voz alta. |
+| 12 | La luz que se apaga. | Chizuru firma y se odia. |
+| 13 | «Vi el programa. ¿Estás bien?» | Mami. |
 
 **Nota:** casi todos los cliffhangers son **una frase de alguien más**, no una acción de Jesús. Eso es deliberado: el volumen trata de un chico al que las cosas le pasan porque otros producen. En el Vol. 2, los cliffhangers van a ser acciones de Jesús. Ahí está el cambio de personaje.
 
@@ -676,10 +697,12 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 - **Sumi Sakurasawa.** No aparece. Es la única persona del elenco original que puede ser **aliada** de Chizuru sin celos. Se guarda para el Vol. 2 o 3.
 - **Mini Yaemori.** No aparece. Es la vecina/estratega. Su función es demasiado cómica para un volumen que necesita tensión. Entra cuando el tono se estabilice.
 - **El viaje a Hawái / la playa / el festival.** Nada de arcos turísticos. El volumen ocurre en interiores: departamentos, sets, pasillos, una escalera.
-- **La confesión de amor de Jesús a Chizuru.** No existe. El beso del cap. 9 es lo máximo. La confesión es del Vol. 2.
-- **El beso con Hina se consuma, pero no significa lo que parece.** Es ella la que se acerca, no él. Y ocurre en cámara. El segundo beso, el de Chizuru, ocurre en el cap. 9 y no lo ve nadie. No hay más besos en el volumen: el de la escalera es el único de Chizuru, y por eso duele.
+- **La confesión de amor de Jesús a Chizuru.** No existe. El beso del cap. 11 es lo máximo. La confesión es del Vol. 2.
+- **El beso con Hina se consuma en vivo (cap. 10).** Es ella la que se acerca, no él. Y el país entero lo ve. El segundo beso, el de Chizuru, ocurre en el camerino (cap. 11) y también queda grabado. No hay más besos en el volumen: el de Chizuru es el único, y por eso duele.
 - **La muerte de Sayuri.** No ocurre en el Vol. 1. Es una posibilidad que pesa, no un evento. Si muere, tiene que ser en el Vol. 2, y tiene que costar algo narrativo, no solo emocional.
-- **La revelación pública de la mentira.** No ocurre. El Vol. 1 termina con la mentira intacta y más grande que nunca. La caída es del Vol. 2.
+- **La revelación pública de la mentira.** No ocurre. El país cree que Jesús es un chico torpe y buena persona; nadie sabe que Chizuru es su novia falsa. El Vol. 1 termina con la mentira intacta y más grande que nunca. La caída es del Vol. 2.
+- **La escena de la oficina de Kenjiro.** No existe. La elección ocurre en el camerino, delante de Jesús y de una cámara encendida.
+- **La venganza de Jesús.** No hay. No grita, no golpea, no denuncia. Se va. Esa es su derrota, y es el punto de partida del Vol. 2.
 
 ---
 
@@ -701,28 +724,28 @@ Las cinco originales siguen en pie, pero la nueva pieza las reordena. Esta es la
 
 ### Locked (ya decidido por Chuy)
 
-- **Dos besos.** Hina en cámara (cap. 8), Chizuru en la escalera (cap. 9). El de Hina es el primero de su vida; el de Chizuru es el primero que no está siendo grabado.
-- **Kenjiro lo quiere como obra.** No lo reemplaza por maldad: lo reemplaza porque encontró mejor material. La frase del cap. 12 ya está reescrita con esa lógica.
-- **Mami:** cliffhanger.
+- **Dos besos, los dos grabados.** Hina lo besa en vivo (cap. 10). Chizuru lo besa en el camerino (cap. 11), y la cámara de la transmisión extendida lo capta. El primero es un espectáculo; el segundo, una escena poscréditos.
+- **Hina se vuelve la antagonista por necesidad.** Los productores la obligan a última hora. Lo hace con la única arma que tiene: la verdad. Revela que Jesús nunca había besado a nadie.
+- **Chizuru sabía que iban a cambiar el guion.** No sabía que Hina usaría el beso. Se queda callada.
+- **Kenjiro lo quiere como obra.** Aplaude a Chizuru, le da el papel que Jesús quería y le dice a su hijo que es un borrador.
+- **Mami:** última página. Le escribe: «Vi el programa. ¿Estás bien?»
 - **Sayuri:** hospitalizada.
+- **Chizuru sale del programa** con el protagónico de 「さよならの練習」. El Vol. 2 se juega en la distancia.
 
 ### Pendiente (esperando a Chuy)
 
-1. ~~La entrada de Chizuru al Vol. 2.~~ **Elegida: E.** Kenjiro le da el protagónico de 「さよならの練習」, el papel que Jesús quería. Chizuru sale del programa. El Vol. 2 se juega en la distancia.
+1. **¿Qué dice exactamente Hina?** Mi propuesta: «Nunca había besado a nadie. Se le notó.» Alternativas: «No sentí nada»; «Todo esto está arreglado, su papá es el productor»; «Me gusta otro».
+2. **¿El beso de Chizuru es real o falso?** Mi propuesta: real. Ella lo besa porque quiere, sin saber que la cámara sigue encendida. El «spoiler: no lo es» es lo que Jesús cree, no lo que pasó. Si el beso es falso, Chizuru se vuelve villana y el Vol. 2 pierde el motor romántico.
+3. **¿Cuánto sabía Chizuru?** Mi propuesta: sabía que iban a cambiar el guion; no sabía que Hina usaría lo del beso. Eso la hace culpable, pero no cruel.
+4. **¿Qué dice el mensaje de Mami?** Mi propuesta: «Vi el programa. ¿Estás bien?» Alternativas: «Qué pena lo de hoy»; «¿Sigues usando la camisa de las Chivas?»; «No contestes.»
+5. **El nombre de Hina.** Asahina Hinata («Hina») es provisional.
 
-   Opciones que quedaron descartadas (por si algún día las recuperamos):
-   - **A. Concursante, pareja de Jesús.** Kenjiro la mete a la casa como la nueva chica. La cadena la pide. Jesús tiene que fingir amor con ella en cámara mientras Hina mira. Presión máxima, triángulo en vivo. *Mi recomendación.*
-   - **B. Concursante, pareja de otro.** Kenjiro la mete a la casa, pero la empareja con otro chico. Jesús ve a Chizuru fingir amor con otro mientras él finge con Hina. Celos simétricos. Más cruel, más difícil de escribir.
-   - **C. Presentadora.** Kenjiro la pone al frente del programa. Cada semana narra las citas de Jesús y Hina. Se vuelve la voz del show. Elegante, menos carnal.
-   - **D. Guionista en formación.** Kenjiro la mete al equipo de guion. Ella escribe lo que Jesús dice. Se vuelve la máquina que lo usa. La más oscura y la más adulta.
-   - **E. Protagonista de su próxima drama.** Kenjiro le da el papel que Jesús quería. Sale del programa. El conflicto se vuelve industria y ausencia. La más limpia, la menos física.
-2. **La idea de Chuy para Hina.** No escribo su arco de consciencia hasta que me la cuente. El plan deja tres puertas abiertas: consciente y cínica; se da cuenta a mitad; no se da cuenta hasta el final.
-3. **El nombre de Hina.** Asahina Hinata («Hina») es provisional.
+---
 
 ## 13. Próximo paso
 
-Con tus respuestas a las cuatro decisiones, escribo el **capítulo 1 beat by beat**: escena por escena, con objetivos, conflictos, entradas y salidas, y las primeras líneas de diálogo. No empiezo la prosa hasta que el beat sheet esté aprobado. Regla del protocolo: **ficha y outline antes de prosa.**
+Con tus respuestas a estas cinco, cierro el Vol. 1 y escribo el **capítulo 1 completo**. El beat sheet ya está aprobado; falta la voz.
 
-Y una nota de oficio: el capítulo 1 es el más difícil de todos, porque tiene que hacer tres cosas a la vez —presentar a Jesús, presentar a Kenjiro y convencer al lector de que este chico merece 63,000 palabras. Si el capítulo 1 funciona, el volumen funciona. Si no, lo tiramos y lo escribimos otra vez. Sin drama. Así trabaja un profesional.
+Y una nota de oficio: la nueva versión del final es más cruel que la anterior, y eso es bueno. Pero también es más difícil de escribir, porque hay cuatro personajes cometiendo cuatro pecados distintos en la misma noche: Hina sobrevive, Chizuru calla, Kenjiro aplaude y Jesús se va. Si logramos que el lector entienda a los cuatro sin perdonar a ninguno, el volumen funciona.
 
 — Alejandra
