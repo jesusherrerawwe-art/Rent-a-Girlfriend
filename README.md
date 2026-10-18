@@ -38,7 +38,7 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 >
 > **Distribución:** repo privado, acceso por invitación. Sin publicación pública ni fines comerciales.
 >
-> **Estado:** Vol. 1 en escritura (prólogo, capítulos 1, 2, 3 y 4 entregados)
+> **Estado:** Vol. 1 en escritura (prólogo, capítulos 1 a 5 entregados)
 
 ---
 
@@ -59,7 +59,8 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 | Capítulo 2 — Noventa minutos | ✅ [`novela/vol1/02-noventa-minutos.md`](novela/vol1/02-noventa-minutos.md) |
 | Capítulo 3 — Lo que se dice en confianza | ✅ [`novela/vol1/03-lo-que-se-dice-en-confianza.md`](novela/vol1/03-lo-que-se-dice-en-confianza.md) |
 | Capítulo 4 — El ensayo | ✅ [`novela/vol1/04-el-ensayo.md`](novela/vol1/04-el-ensayo.md) |
-| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (4 de 13 capítulos, 23,324 palabras) |
+| Capítulo 5 — La audición | ✅ [`novela/vol1/05-la-audicion.md`](novela/vol1/05-la-audicion.md) |
+| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (5 de 13 capítulos, 28,634 palabras) |
 
 ---
 
