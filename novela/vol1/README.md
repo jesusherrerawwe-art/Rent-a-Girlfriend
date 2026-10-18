@@ -4,7 +4,7 @@
 **Serie:** *The Jesús Fujioka Story*
 **Volumen:** 1 de 2 (la obra queda abierta a un Vol. 3)
 **Formato:** novela ligera · 13 capítulos · ~67,600 palabras objetivo
-**Estado:** en curso. Prólogo y capítulos 1 a 7 entregados el 18/10/2026 (los caps. 6 y 7 esperan lectura de Chuy).
+**Estado:** en curso. Prólogo y capítulos 1 a 8 entregados el 18/10/2026 (el cap. 8 espera lectura de Chuy).
 
 ---
 
@@ -20,15 +20,15 @@
 | [`05-la-audicion.md`](05-la-audicion.md) | Capítulo 5 | 5,250 | ✅ Entregado |
 | [`06-bienvenidos-a-hatsukoi-house.md`](06-bienvenidos-a-hatsukoi-house.md) | Capítulo 6 | 5,559 | 🟡 En lectura |
 | [`07-la-coach.md`](07-la-coach.md) | Capítulo 7 | 6,633 | 🟡 En lectura |
-| `08-la-primera-cita.md` | Capítulo 8 | — | ⏳ Pendiente |
+| [`08-la-primera-cita.md`](08-la-primera-cita.md) | Capítulo 8 | 5,326 | 🟡 En lectura |
 | `09-la-escalera.md` | Capítulo 9 | — | ⏳ Pendiente |
 | `10-vivo.md` | Capítulo 10 | — | ⏳ Pendiente |
 | `11-la-escena-poscreditos.md` | Capítulo 11 | — | ⏳ Pendiente |
 | `12-los-numeros.md` | Capítulo 12 | — | ⏳ Pendiente |
 | `13-la-sonrisa-de-mami.md` | Capítulo 13 | — | ⏳ Pendiente |
 
-**Total entregado:** 40,917 palabras (prólogo + caps. 1 a 7).
-**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,999, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383, el cap. 5 a 5,250, el cap. 6 a 5,559 y el cap. 7 a 6,633; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~76,000 palabras.
+**Total entregado:** 46,243 palabras (prólogo + caps. 1 a 8).
+**Meta:** 13 × 5,200 = 67,600 palabras. El cap. 1 se extendió a 5,999, el cap. 2 a 5,294, el cap. 3 a 6,034, el cap. 4 a 5,383, el cap. 5 a 5,250, el cap. 6 a 5,559, el cap. 7 a 6,663 y el cap. 8 a 5,326; no es un problema, mientras el volumen no se desborde. Proyección con el ritmo actual: ~76,000 palabras.
 
 ---
 
@@ -139,6 +139,8 @@ El prólogo es la bisagra: el fragmento del documental está en 3.ª persona pre
 ---
 
 ## 6. Registro de cambios
+
+- **18/10/2026:** se entrega el cap. 8 «La primera cita» (5,326 palabras). Sábado 19/12/2026, de 13:48 a 16:00, más la junta del día anterior y la sala de control a las 22:10. **Único capítulo del volumen sin una sola línea de primera persona** (verificado). Sistema de imagen contra audio: secciones `CÁMARA n` (lo que se graba) y `CANAL 2` (lo que se ordena por el pinganillo), más la 構成表 del día como cold open. Se resuelven las tres preguntas que Chuy dejó a criterio: el beso de Hina **se queda en casi** (protege el cap. 10), la cita se cuenta **desde las cámaras** sin interioridad de Jesús, y entre Jesús y Chizuru **no queda nada**. Se añaden la escena de la mano que se detiene a diez centímetros, la pregunta prohibida que no se hace, la deuda contada en cámara, el pingüino de mil doscientos yenes y el bucle final de Kenjiro. Se corrigieron el tic de «se queda» (36 apariciones, quedaron 4), las repeticiones del canal dos y la cronología del sol de diciembre.
 
 - **18/10/2026:** se entrega el cap. 7 «La coach» (6,633 palabras). Once días, del lunes 7 al viernes 18 de diciembre. Formato ON AIR (3.ª persona presente, con número de toma) y OFF AIR (1.ª persona pasada, sin número), y una sola ruptura final: la última toma está en primera persona porque la cámara y Jesús se vuelven la misma cosa. Chizuru llega como coach contratada en septiembre, sin deberle el puesto a nadie, y le enseña al elenco completo. Se implementan las cuatro decisiones de Chuy: Hina no ve el reconocimiento, la coach trabaja con los diez, el contrato se rompe el 16/12 y el rubio es de tinte. Se añaden las siete tomas, el espejo que trae la coach, la clase de llanto, la rosa del viernes, la escena de dos sillas, la conversación oída en la caseta y el sobre que se queda en la silla. Se corrigieron el recuento de cámaras, la edad de Chizuru, el calendario del contrato (vence el 23/12, un día después de la emisión) y la cronología del baño.
 

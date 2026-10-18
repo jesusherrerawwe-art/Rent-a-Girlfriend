@@ -61,8 +61,9 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 | Capítulo 4 — El ensayo | ✅ [`novela/vol1/04-el-ensayo.md`](novela/vol1/04-el-ensayo.md) |
 | Capítulo 5 — La audición | ✅ [`novela/vol1/05-la-audicion.md`](novela/vol1/05-la-audicion.md) |
 | Capítulo 6 — Bienvenidos a Hatsukoi House | 🟡 [`novela/vol1/06-bienvenidos-a-hatsukoi-house.md`](novela/vol1/06-bienvenidos-a-hatsukoi-house.md) |
-| Capítulo 7 — La coach | 🟡 [`novela/vol1/07-la-coach.md`](novela/vol1/07-la-coach.md) |
-| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (7 de 13 capítulos, 40,917 palabras) |
+| Capítulo 7 — La coach | ✅ [`novela/vol1/07-la-coach.md`](novela/vol1/07-la-coach.md) |
+| Capítulo 8 — La primera cita | 🟡 [`novela/vol1/08-la-primera-cita.md`](novela/vol1/08-la-primera-cita.md) |
+| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (8 de 13 capítulos, 46,243 palabras) |
 
 ---
 
