@@ -61,7 +61,7 @@ Dos personas que se usan. Dos actores que fingen quererse. Y un país entero a p
 | Capítulo 4 — El ensayo | ✅ [`novela/vol1/04-el-ensayo.md`](novela/vol1/04-el-ensayo.md) |
 | Capítulo 5 — La audición | ✅ [`novela/vol1/05-la-audicion.md`](novela/vol1/05-la-audicion.md) |
 | Capítulo 6 — Bienvenidos a Hatsukoi House | 🟡 [`novela/vol1/06-bienvenidos-a-hatsukoi-house.md`](novela/vol1/06-bienvenidos-a-hatsukoi-house.md) |
-| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (6 de 13 capítulos, 34,155 palabras) |
+| Vol. 1: *El ensayo* (prosa) | 🟡 En curso (6 de 13 capítulos, 34,254 palabras) |
 
 ---
 

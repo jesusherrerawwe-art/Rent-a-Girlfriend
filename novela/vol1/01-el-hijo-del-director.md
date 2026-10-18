@@ -50,7 +50,7 @@ Mi hermano vivía en Los Ángeles y me hablaba cada dos semanas, siempre a la mi
 
 Desayuné de pie. Cereal de maíz con leche fría. Café instantáneo. La ventana daba a un edificio igual al mío, con una familia que desayunaba junta a la misma hora. No los miraba. (Los miraba.)
 
-Me puse la chamarra de la academia encima. El cuello de la playera asomaba. Me vi en el espejo. Parecía un actor. Me quité la chamarra, la doblé y la metí en la mochila. Salí en playera.
+Me puse la chamarra de la academia encima. El cuello de la playera asomaba. Me vi en el espejo: el pelo rubio revuelto y los lados de la cabeza rapados al ras, negros, el contraste que llevaba tres años sin decidir si era un corte o una confesión. Parecía un actor. Me quité la chamarra, la doblé y la metí en la mochila. Salí en playera.
 
 Nerima a las siete y media de la mañana olía a arroz y a diésel. Una madre empujaba una carriola. Un niño con mochila de randoseru se agachaba a recoger una hoja. Una anciana barría la entrada de una tienda de flores. Un gato me miró desde un muro y decidió que no valía la pena.
 
@@ -116,7 +116,7 @@ Mika volvió a su lugar. Yo la miré de reojo. Ella me miró de vuelta. No sonre
 
 "Fujioka."
 
-Me levanté. Caminé al centro. Los espejos me devolvieron a un chico de dieciocho años con una playera blanca demasiado gastada. Me quedé quieto.
+Me levanté. Caminé al centro. Los espejos me devolvieron lo que veía la clase: un chico de dieciocho años, rubio, de piel canela, con una playera blanca demasiado gastada. Me quedé quieto.
 
 Pensé en una línea de la telenovela de mi madre. "Te he amado desde antes de saber que existías." Era una línea buena. La había visto funcionar cien veces. La gente lloraba con esa línea.
 
@@ -210,7 +210,7 @@ La plancha silbaba. Yo contaba las pasadas. Una. Dos. Tres. Como si planchar fue
 
 Mi madre planchaba mi uniforme de la primaria todas las mañanas. Lo hacía con la cara de alguien que estaba resolviendo un problema de física. "La plancha es como actuar", me dijo una vez. "No te apures o quemas." Yo tenía siete años y creí que era un consejo sobre la ropa. Ahora creo que era un consejo sobre todo lo demás.
 
-Me paré frente al espejo del baño.
+Me paré frente al espejo del baño. Me acomodé la cadena, el dije chiquito del escudo, y me pasé la mano por la nuca rapada, que ya empezaba a picar.
 
 "Hola, papá."
 

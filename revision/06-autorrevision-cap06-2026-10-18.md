@@ -2,7 +2,7 @@
 
 **Archivo:** `novela/vol1/06-bienvenidos-a-hatsukoi-house.md`
 **Fecha:** 18/10/2026
-**Extensión:** 5,520 palabras · 1,205 líneas
+**Extensión:** 5,559 palabras · 1,207 líneas
 **Estado:** entregado a Chuy para lectura. No se publica nada sin su aprobación.
 
 ---

@@ -141,6 +141,8 @@ Los busqué. En el baño había uno pequeño, de esos que se empañan, para afei
 
 Aprendí a verme en las pantallas apagadas del pasillo. Me veía gris, chiquito, con la camisa mal fajada. No era yo. Era la versión de mí que la casa iba a guardar.
 
+Y sin espejo no iba a poder revisarme la raíz. En doce semanas el negro me iba a ganar la cabeza, centímetro a centímetro, y las cámaras lo iban a grabar. El programa iba a emitir mi tinte creciendo.
+
 El cuarto de los hombres estaba en el segundo piso, al fondo. Dos literas y una individual. La individual estaba junto a la ventana, con la luz de la calle encima.
 
 Escogí la de arriba de la litera. Siempre he dormido en literas. En Guadalajara, Sergio tenía la de abajo y yo la de arriba, y en las noches de calor hablábamos a través del colchón.

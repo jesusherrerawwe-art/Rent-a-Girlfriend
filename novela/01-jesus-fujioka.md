@@ -19,6 +19,40 @@
 | Estatura | ◆ 178 cm |
 | Cumpleaños | ◆ 12 de diciembre (Día de la Virgen de Guadalupe) |
 
+### 1.1 Aspecto físico (canon visual, fijado el 18/10/2026)
+
+Lo que está en el póster es canon. Esta sección existe para que la prosa no lo pierda de vista.
+
+| Rasgo | Canon | Lectura |
+|---|---|---|
+| **Pelo** | Rubio muy claro, corto, con los lados y la nuca rapados al ras y **negros** | El corte es un ツーブロック. El contraste rubio arriba / negro a los lados es la tesis visual del personaje: la mitad que se ve y la mitad que no |
+| **Piel** | Color canela, cálida, de las que en Tokio no pasan inadvertidas | En verano se le marca la playera. En invierno se le pone roja con el frío antes que a nadie |
+| **Ojos** | Café oscuro, grandes, con cejas negras y pobladas | Son su herramienta de trabajo. Sabe llorar con ellos a comando |
+| **Arete** | Uno solo, pequeño, en la oreja izquierda | Se lo puso a los 16. Su padre no dijo nada, y eso fue peor que un regaño |
+| **Cadena** | Plateada, fina, al cuello. Casi nunca se la quita | No tiene dije. La compró él |
+| **Complexión** | Delgado, hombros anchos, cuerpo de alguien que camina mucho y entrena poco | Se ve más chico de lo que es hasta que se para junto a alguien |
+
+◆ **El rubio, ¿natural o de tinte?** Mi propuesta: **de tinte**, sobre su negro natural, y que el negro se le vea en los lados rapados. Así el personaje carga su propia contradicción en la cabeza: se tiñó a los 15, en Guadalajara, para parecerse a su madre en las telenovelas. En Tokio el tinte cambió de significado sin que él lo pidiera: ahora lo hace ver más extranjero, y la industria se lo cobra como valor de cartel. **Sujeto a tu decisión.**
+
+◆ **Regla de escritura del aspecto:** no se describe a Jesús en bloque. Se usa en tres formas, y ninguna es un retrato:
+
+1. **Cuando le cuesta algo.** El frío en la piel, el pelo que no se queda quieto, la cadena que se le sale del cuello en el set.
+2. **Cuando alguien lo trata distinto por su cara.** El «日本語上手ですね» dicho por tercera vez en un día. El turista que le habla en inglés en su propio barrio. El camarógrafo que le dice «perfecto, así se ve muy internacional».
+3. **Cuando él se ve sin querer.** En un reflejo, en una pantalla apagada, en una foto de producción. Nunca frente a un espejo de cuerpo entero: la casa del reality los quita.
+
+**Prohibido:** «su piel color canela» como apelativo repetido, el adjetivo «exótico» en boca del narrador (solo en boca de otros, y que se le note el filo), y cualquier descripción que lo deje pareciendo un catálogo de rasgos.
+
+**Dónde está sembrado en la prosa (18/10/2026):**
+
+| Capítulo | Momento | Qué se ve |
+|---|---|---|
+| 1 | El espejo del departamento, 6:50 a.m. | El rubio revuelto y los lados rapados negros: «el contraste que llevaba tres años sin decidir si era un corte o una confesión» |
+| 1 | El espejo del baño, antes de hablarle al padre | La cadena, el dije del escudo, la nuca que ya empieza a picar |
+| 1 | Los espejos de la academia, en fila con los otros doce | «Lo que veía la clase»: rubio, piel canela, playera gastada |
+| 6 | La casa sin espejos de cuerpo entero | La raíz negra creciendo durante doce semanas frente a las cámaras |
+
+La reacción del exterior a su cara ya estaba en el cap. 6, en la voz de Daiki: «¿Y por qué hablas japonés?» / «¿Y el acento?» / «Tienes un acento raro» / «Es el de Nerima». Ese intercambio es la versión de la casa del «日本語上手ですね»: no es hostilidad, es extrañeza, y es exactamente lo que un hāfu oye toda la vida.
+
 ---
 
 ## 2. Familia
