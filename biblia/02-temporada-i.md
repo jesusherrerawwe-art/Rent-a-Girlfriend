@@ -2,7 +2,7 @@
 
 > **Biblia del universo de Rent a Girlfriend (かのかり) — Documento de referencia para el proyecto "The Jesús Fujioka Story"**
 >
-> Emitida del **10 de julio al 25 de septiembre de 2020** en el bloque スーパーアニメイズム (MBS/TBS). 12 episodios. Cubre los tomos 1 a 7 del manga (満足度 1 a ~50).
+> Emitida del **10 de julio al 25 de septiembre de 2020** en el bloque スーパーアニメイズム (MBS/TBS). 12 episodios. Cubre los tomos 1 a 7 del manga (満足度 1 a ~50). **Dirección: Koga Kazuomi.**
 >
 > Curiosidad de formato: los capítulos del manga se numeran como **満足度 (manzukudo, "grado de satisfacción")**, como si cada historia fuera una reseña de la rental girlfriend. El anime conservó esa numeración para sus episodios.
 
@@ -12,7 +12,7 @@
 
 **Guion:** Hirota Mitsutaka · **Storyboard:** Koga Kazuomi · **Dirección:** Ueno Shuhiro
 
-Kazuya Kinoshita, universitario de 20 años, es dejado por su primera novia, **Nanami Mami**, a solo un mes de relación (y con apenas un beso de por medio). Devastado, en un arranque de despecho usa una app y renta una cita: aparece **Mizuhara Chizuru**, una belleza perfecta de cabello negro sedoso... y profesional impecable. En la segunda cita, Kazuya desquita con ella su frustración por el rompimiento; Chizuru se quita la máscara y lo regaña sin piedad: la "novia ideal" es solo un trabajo. Esa misma noche, la abuela **Kinoshita Nagomi** colapsa y es hospitalizada. En pleno pánico familiar, Kazuya hace lo impensable: **presenta a Chizuru como su novia** frente a su familia. Nagomi, que llevaba 20 años rogando porque su nieto consiguiera pareja, llora de felicidad. La mentira ya no tiene marcha atrás.
+Kazuya Kinoshita, universitario de 20 años, es dejado por su primera novia, **Nanami Mami**, a solo un mes de relación (y con apenas un beso de por medio). Devastado, en un arranque de despecho usa una app y renta una cita: aparece **Mizuhara Chizuru**, una belleza perfecta de cabello castaño oscuro sedoso... y profesional impecable. En la segunda cita, Kazuya desquita con ella su frustración por el rompimiento; Chizuru se quita la máscara y lo regaña sin piedad: la "novia ideal" es solo un trabajo. Esa misma noche, la abuela **Kinoshita Nagomi** colapsa y es hospitalizada. En pleno pánico familiar, Kazuya hace lo impensable: **presenta a Chizuru como su novia** frente a su familia. Nagomi, que llevaba 20 años rogando porque su nieto consiguiera pareja, llora de felicidad. La mentira ya no tiene marcha atrás.
 
 ## Episodio 2 — 満足度2「元カノと彼女」(Motokano / "La ex y la novia")
 
@@ -48,7 +48,7 @@ En el ryokan, la abuela los registra con ingeniería maliciosa: **la misma habit
 
 **Guion:** Hirota Mitsutaka · **Storyboard:** Kuzuya Naoyuki · **Dirección:** Koga Kazuomi
 
-Kazuya sigue a Ruka en secreto para evitar que revele el secreto de Chizuru... pero cae en una emboscada: **Ruka también lo siguió a él**, y sabe que Chizuru es una rental girlfriend. Ahí mismo, Ruka se quita su propia máscara: sufre una **bradicardia congénita** (su corazón late a 60 pulsaciones por minuto) y se hizo rental girlfriend buscando el *"dokidoki"* que su cuerpo le niega. Y ese dokidoki lo encontró... en Kazuya. Al día siguiente, Ruka aparece en la universidad gritando *"¡Kazuya-san!"* y lo acorrala con un ultimátum lloroso delante de Chizuru, que — incrédula — termina diciéndole que la escuche. **Ruka se convierte en la 仮カノ (karikano, "novia provisional")** de Kazuya.
+Kazuya sigue a Ruka en secreto para evitar que revele el secreto de Chizuru... pero cae en una emboscada: **Ruka también lo siguió a él**, y sabe que Chizuru es una rental girlfriend. Ahí mismo, Ruka se quita su propia máscara: sufre una **bradicardia congénita** —su corazón ronda las 60 pulsaciones por minuto, por debajo del rango normal— y se hizo rental girlfriend buscando el *"dokidoki"* que su cuerpo le niega. Y ese dokidoki lo encontró... en Kazuya. Al día siguiente, Ruka aparece en la universidad gritando *"¡Kazuya-san!"* y lo acorrala con un ultimátum lloroso delante de Chizuru, que — incrédula — termina diciéndole que la escuche. **Ruka se convierte en la 仮カノ (karikano, "novia provisional")** de Kazuya.
 
 > 🎵 **Producción:** este episodio tuvo un **ending especial animado** que adapta el capítulo 満足度28 *"『彼女』、更科るか"* del manga como un video musical completo. Miyajima declaró que ahí sintió *"el poder de la música, algo que el manga jamás puede usar"*.
 
@@ -89,10 +89,10 @@ Final de temporada en forma de bomba: la persona que reservó a Chizuru ese día
 ## Notas de continuidad al cierre de la T1 (spoilers de estructura)
 
 1. **Chizuru y Kazuya**: el "ばーか" cierra el arco de la T1 exactamente donde Koga quería: tomo 7, 満足度50. Su relación ya no es de clienta/cliente: son cómplices de una mentira que se volvió familia.
-2. **Ruka**: ya es novia "provisional", conoce el secreto de Chizuru y lo usará como palanca. Su condición cardiaca es literal: el amor le sube las pulsaciones... y el médico le prohibió emocionarse.
+2. **Ruka**: ya es novia "provisional", conoce el secreto de Chizuru y lo usará como palanca. Su condición cardiaca es literal: el amor le sube las pulsaciones... y su cuerpo, de niña, le pasaba factura por emocionarse.
 3. **Sumi**: entró al tablero como junior de la agencia Diamond, con la meta secreta de ser idol. Su spin-off propio (『彼女、人見知ります』) ya se serializaba en Magazine Pocket desde junio de 2020.
 4. **Mami**: sabe TODO (que Chizuru es rental, que la relación con Kazuya es falsa) y su obsesión mutó de desprecio a obsesión oscura. Es la bomba que explota en la T2.
-5. **La abuela Nagomi**: de salud frágil (llevaba 3 hospitalizaciones en el manga) y enamorada de su "nieta" Chizuru — "Chizuru-hime". Cada hora extra que Kazuya paga protege la felicidad de su abuela.
+5. **La abuela Nagomi**: de salud frágil (tres hospitalizaciones a lo largo de la obra, la primera en el episodio 1) y enamorada de su "nieta" Chizuru — "Chizuru-hime". Cada hora extra que Kazuya paga protege la felicidad de su abuela.
 6. **El 204 y el 203**: viven puerta con puerta; en la T1 apenas descubren esa vecindad, pero es la instalación dramática que sostiene toda la serie.
 
 ---

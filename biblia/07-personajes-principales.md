@@ -47,9 +47,11 @@
 | Agencia | **Diamond (ダイヤモンド)** — No. 1 de popularidad en clase Fresh; solo reseñas de 5 estrellas; ascendida a clase Regular (満足度78) |
 | Sueño | Actriz (アクターズスクール financiada con el dinero de rental) |
 
-**Quién es:** el bio oficial la llama "清楚可憐な理想の彼女" (la novia ideal, pura y adorable): belleza de cabello negro largo por la que se voltea toda la calle, con la capacidad de resolver cualquier situación imprevista. Es la perfeccionista más trabajadora del elenco: nadie se esfuerza más en ser "ideal" — y nadie se castiga más por no serlo. **La actriz que actúa hasta cuando llora** (la T3 entera lo demuestra).
+**Quién es:** el bio oficial la llama "清楚可憐な理想の彼女" (la novia ideal, pura y adorable): belleza de cabello castaño oscuro largo por la que se voltea toda la calle, con la capacidad de resolver cualquier situación imprevista. Es la perfeccionista más trabajadora del elenco: nadie se esfuerza más en ser "ideal" — y nadie se castiga más por no serlo. **La actriz que actúa hasta cuando llora** (la T3 entera lo demuestra).
 
 **Su núcleo trágico:** el sueño de actriz viene de ver en DVD las películas de su abuela, 一ノ瀬小百合 (Ichinose Sayuri), gran actriz de otrora; es además **una promesa con su abuelo, ya fallecido**. Su madre murió joven y, tras la muerte del abuelo, Sayuri era su única familia. De ahí la desesperación del arco de la película (debutar ante Sayuri antes de que muera) y el peso de la T5 (ordenar sus 遺品, el álbum, las fotos de la madre).
+
+> **CANON VISUAL CERRADO (18/10/2026).** El perfil oficial la describe como 黒髪ロング (melena negra larga), pero las páginas a color del manga y el anime la pintan **castaño oscuro**, con las puntas algo rojizas, y solo se lee negra en las escenas de poca luz. Para esta novela se escribe **castaño oscuro**: un castaño que con luz baja pasa por negro y que a plena luz no lo es. El error a evitar es «pelo negro» a secas, que la vuelve otra persona. Cuando el narrador quiera el efecto de oscuridad, lo que se dice no es el color: es la luz. Detalle canónico de la trenza: en modo Mizuhara lleva media melena recogida con un lado trenzado; en casa, coleta suelta con シュシュ.
 
 **Los dos modos:** en modo "Mizuhara" (rental) usa ropa, gestos y voz diferentes; en la universidad esconde tanto el rental como la actuación. La serie juega siempre con la pregunta: ¿cuál Chizuru es la real? (Pista canónica: la que llora en el pecho de Kazuya en la T3, la que lo besa en la T5.)
 
@@ -95,7 +97,7 @@
 | Altura | **153 cm** (pequeña... y 悪戦苦闘 contra su volumen pectoral, dato oficial del manga) |
 | Marca registrada | Cabello corto con listón (リボン) |
 | Agencia | **Maple (メイプル)** — nombre de rental: 更科るか (misma lectura) |
-| Condición médica | **bradicardia congénita (徐脈): ~60 pulsaciones por minuto** |
+| Condición médica | **bradicardia congénita (先天性の徐脈)**: en reposo ronda las **60 pulsaciones por minuto** (por debajo del rango normal de 60-100). Su reloj/celular muestra el número en pantalla cuando se emociona: en el canon sube a ~90 con Kazuya |
 
 **Quién es:** la "妹系アイドル彼女" (novia idol de estilo hermanita menor) súper agresiva del bio oficial. Su condición cardíaca le negó toda la vida los dokidoki normales (mareos y falta de aire de niña al emocionarse), así que buscó trabajo de rental girlfriend **para experimentar el corazón acelerado** — y cuando encontró a Kazuya (un cliente que trataba a una rental como oro), decidió que él era "el que le hace dokidoki" y no lo soltó más.
 

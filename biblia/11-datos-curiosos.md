@@ -18,10 +18,10 @@
 
 ## 2. Números y récords
 
-- **16 millones de ejemplares** (octubre de 2026), 47 tomos publicados, capítulo 満足度443 en curso.
+- **16 millones de ejemplares** (octubre de 2026), 47 tomos publicados, capítulo **満足度444** en curso (corte: 18 de octubre de 2026).
 - **El efecto anime documentado:** 3 millones de ejemplares al anunciarse el anime (dic. 2019) → 4 millones antes del estreno (mayo 2020) → **5 millones durante la emisión** (ago. 2020). Las ventas del tomo 1 se multiplicaron **por más de 10**. Real Sound lo usó como caso de estudio del "efecto sinérgico anime-manga" (2020-08-28).
 - **10 nominaciones internacionales en 2021:** los Crunchyroll Anime Awards nominaron a Chizuru como **Best Girl** y a la pareja Chizuru & Kazuya como **Best Couple**; se sumaron 8 nominaciones en los Anime Trending Awards 2021.
-- **La brecha manga-anime:** ~190 capítulos de distancia entre el manga (443) y el punto donde llegó la T5 (~255).
+- **La brecha manga-anime:** ~187 capítulos de distancia entre el manga (444) y el punto donde llegó la T5 (~257).
 
 ## 3. Las voces (声優) — easter eggs del elenco
 
