@@ -904,7 +904,17 @@ Colgó. Se quedó un segundo con la espalda contra el toldo. Luego se giró. La 
 
 "Sí."
 
-Me quedé callado. La regla dos decía que preguntara y luego callara. Había preguntado una vez. Ahora me tocaba callar.
+Había una regla para esto. Me la había dado media hora antes, en la lavandería, con el hombro pegado al mío y la secadora haciendo ruido.
+
+Pregúntame otra vez.
+
+Abrí la boca.
+
+Y pensé en mi padre. En la manera en que mi padre dice "¿estás bien?" cuando ya sabe la respuesta: no pregunta, confirma. Espera a que le digan lo que quiere oír y, si no se lo dicen, insiste hasta que se lo digan. Lo he visto hacerlo con actrices, con camarógrafos, conmigo.
+
+No quería ser eso.
+
+Cerré la boca.
 
 Caminamos hasta la estación. No hablamos. La bolsa de ropa pesaba. El aire olía a lluvia y a detergente.
 
@@ -925,6 +935,40 @@ El tren llegó. Las puertas se abrieron. La gente salió y entró. Chizuru no se
 Se quedó un segundo más. Luego subió. Las puertas se cerraron. Me miró a través del vidrio. Levantó la mano. Yo levanté la mía.
 
 El tren se fue. Yo me quedé en el andén, con la bolsa de ropa caliente y la sensación de que acababa de ver algo que no debía.
+
+Y con la boca cerrada.
+
+---
+
+Esa noche, a la una y veinte, escribí: "¿Estás bien?"
+
+Lo borré.
+
+Lo escribí otra vez. Lo mandé.
+
+Contestó a la una y cuarenta.
+
+"Sí."
+
+Escribí: "No te creo."
+
+Tardó once minutos.
+
+"Estás preguntando dos veces."
+
+"Me dijiste que insistiera."
+
+"Ya sé."
+
+Y después:
+
+"Gracias."
+
+No escribió más. Yo tampoco. Dejé el teléfono boca abajo sobre la mesa y me quedé mirando el techo.
+
+En el andén no había podido. Con una pantalla en medio, y con dos horas para decidir si mandaba el mensaje, sí.
+
+Pensé que eso decía algo de mí que no quería saber.
 
 ---
 
